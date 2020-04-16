@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Медленно урна пустая,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Отношение к этой трагедии смерти и рока может быть различно. &lt;...&gt;Можно замереть в созерцании неверного колебания чаш судьбы и радоваться причастности мировому ритму &lt;...&gt;
+610
+“Медленно урна пустая...” [с. 124]). </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Медленно урна пустая,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Медленно урна пустая,</l>
+                        <l n="2">Вращаясь над тусклой поляной</l>
+                        <l n="3">Сеет, надменно мерцая,</l>
+                        <l n="4">Туманы в лазури ледяной.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Тянет, чарует и манит —</l>
+                        <l n="6">Не понят, не вынут, не тронут —</l>
+                        <l n="7">Жребий — и небо обманет,</l>
+                        <l n="8">И взоры в возможном потонут.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Что расскажу я о вечных,</l>
+                        <l n="10">Заочных, заоблачных странах:</l>
+                        <l n="11">Весь я в порывах конечных,</l>
+                        <l n="12">В соблазнах, изменах и ранах.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Выбор мой труден и беден,</l>
+                        <l n="14">И тусклый простор безучастен.</l>
+                        <l n="15">Стыну — и взор мой победен,</l>
+                        <l n="16">И круг мой обыденный страстен.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

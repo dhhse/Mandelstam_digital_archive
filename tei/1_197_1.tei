@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tristia</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Tristia</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Tristia</l>
+                        <l n="2">Я изучил науку расставанья</l>
+                        <l n="3">В простоволосых жалобах ночных.</l>
+                        <l n="4">Жуют волы, и длится ожиданье —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Последний час вигилий городских.</l>
+                        <l n="6">И чту обряд той петушиной ночи,</l>
+                        <l n="7">Когда, подняв дорожной скорби груз,</l>
+                        <l n="8">Глядели вдаль заплаканные очи</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И женский плач мешался с пеньем муз.</l>
+                        <l n="10">Кто может знать при слове «расставанье»</l>
+                        <l n="11">Какая нам разлука предстоит,</l>
+                        <l n="12">Что нам сулит петушье восклицанье,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Когда огонь в акрополе горит,</l>
+                        <l n="14">И на заре какой-то новой жизни,</l>
+                        <l n="15">Когда в сенях лениво вол жует,</l>
+                        <l n="16">Зачем петух, глашатай новой жизни,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">На городской стене крылами бьет?</l>
+                        <l n="18">И я люблю обыкновенье пряжи:</l>
+                        <l n="19">Снует челнок, веретено жужжит.</l>
+                        <l n="20">Смотри, навстречу, словно пух лебяжий,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Уже босая Делия летит!</l>
+                        <l n="22">О, нашей жизни скудная основа,</l>
+                        <l n="23">Куда как беден радости язык!</l>
+                        <l n="24">Все было встарь, все повторится снова,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">И сладок нам лишь узнаванья миг.</l>
+                        <l n="26">Да будет так: прозрачная фигурка</l>
+                        <l n="27">На чистом блюде глиняном лежит,</l>
+                        <l n="28">Как беличья распластанная шкурка,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Склонясь над воском, девушка глядит.</l>
+                        <l n="30">Не нам гадать о греческом Эребе,</l>
+                        <l n="31">Для женщин воск, что для мужчины медь.</l>
+                        <l n="32">Нам только в битвах выпадает жребий,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

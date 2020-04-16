@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>От сырой простыни говорящая, —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Тот же фильм — в стих. “От сырой простыни говорящая...” [с. 168] (самые запоминающиеся сцены — “психическая атака” белых офицеров на чапаевские позиции и ставка полковника Бороздина). </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>От сырой простыни говорящая, —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">От сырой простыни говорящая, —</l>
+                        <l n="2">Знать, нашелся на рыб звукопас —</l>
+                        <l n="3">Надвигалась картина звучащая</l>
+                        <l n="4">На меня, и на всех, и на вас...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Начихав на кривые убыточки,</l>
+                        <l n="6">С папироской смертельной в зубах,</l>
+                        <l n="7">Офицеры последнейшей выточки —</l>
+                        <l n="8">На равнины зияющий пах...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Было слышно гудение низкое</l>
+                        <l n="10">Самолетов, сгоревших дотла,</l>
+                        <l n="11">Лошадиная бритва английская</l>
+                        <l n="12">Адмиральские щеки скребла...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Измеряй меня, край, перекраивай, —</l>
+                        <l n="14">Чуден жар прикрепленной земли! —</l>
+                        <l n="15">Захлебнулась винтовка Чапаева:</l>
+                        <l n="16">Помоги, развяжи, раздели...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

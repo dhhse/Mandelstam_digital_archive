@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Мне холодно. Прозрачная весна</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Новые стихи о Петербурге (диптих “Мне холодно. Прозрачная весна...” и “В Петрополе прозрачном мы умрем...” [с. 64]) как бы опровергают былой оптимизм “Адмиралтейства”: вода отвратительна, воздух прозрачен, как в царстве теней, в этом воздухе — опасные стрекозы-аэропланы, звезды по-прежнему враждебно-колючи, и Афина (чья статуя стояла в вестибюле Адмиралтейства) уступает власть царице мертвых Прозерпине.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Мне холодно. Прозрачная весна</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Мне холодно. Прозрачная весна</l>
+                        <l n="2">В зеленый пух Петрополь одевает,</l>
+                        <l n="3">Но, как Медуза, невская волна</l>
+                        <l n="4">Мне отвращенье легкое внушает.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">По набережной северной реки</l>
+                        <l n="6">Автомобилей мчатся светляки,</l>
+                        <l n="7">Летят стрекозы и жуки стальные,</l>
+                        <l n="8">Мерцают звезд булавки золотые,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Но никакие звезды не убьют</l>
+                        <l n="10">Морской воды тяжелый изумруд.</l>
+                        <l n="11">В Петрополе прозрачном мы умрем,</l>
+                        <l n="12">Где властвует над нами Прозерпина;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Мы в каждом вздохе смертный воздух пьем,</l>
+                        <l n="14">И каждый час — нам смертная година.</l>
+                        <l n="15">Богиня моря, грозная Афина,</l>
+                        <l n="16">Сними могучий каменный шелом.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

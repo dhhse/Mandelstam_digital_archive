@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>После полуночи сердце ворует</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Трехстишие «Помоги, Господь, эту ночь прожить...» [с. 167] написано тогда же, но затерялось и в прижизненные списки стихов ОМ не входило. С ним перекликается написанное уже в Москве «После полуночи сердце ворует...» [с. 168] с пометкой в поздних списках: «Серебристая мышь — символ времени. — Примеч. автора»: взять на прикус серебристую мышь значит робко выключиться из времени.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>После полуночи сердце ворует</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">После полуночи сердце ворует</l>
+                        <l n="2">Прямо из рук запрещенную тишь. </l>
+                        <l n="3">Тихо живет — хорошо озорует: </l>
+                        <l n="4">Любишь — не любишь, ни с чем не сравнишь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Любишь — не любишь, поймешь — не поймаешь...</l>
+                        <l n="6">Не потому ль, как подкидыш, дрожишь,</l>
+                        <l n="7">Что пополуночи сердце пирует,</l>
+                        <l n="8">Взяв на прикус серебристую мышь.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

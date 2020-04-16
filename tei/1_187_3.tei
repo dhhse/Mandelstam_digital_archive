@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда на площадях и в тишине келейной</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>88. Знамя. 1919. № 2. под загл. /Рейнвейн/. В последующих публ. — без загл., текст не изменялся. Датируется по Т и С. Рейнвейн — напиток, символизирующий потустороннюю печаль. Упрямая подруга. Возможно, подразумевается Ахматова, ср. в ее стихах конца 1917 г.: “И сразу вспомнит, как поклялся он Беречь свою восточную подругу” (“Когда о горькой гибели моей...”).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда на площадях и в тишине келейной</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда на площадях и в тишине келейной</l>
+                        <l n="2">Мы сходим медленно с ума,</l>
+                        <l n="3">Холодного и чистого рейнвейна</l>
+                        <l n="4">Предложит нам жестокая зима.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В серебряном ведре нам предлагает стужа</l>
+                        <l n="6">Валгаллы белое вино,</l>
+                        <l n="7">И светлый образ северного мужа</l>
+                        <l n="8">Напоминает нам оно.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Но северные скальды грубы,</l>
+                        <l n="10">Не знают радостей игры,</l>
+                        <l n="11">И северным дружинам любы</l>
+                        <l n="12">Янтарь, пожары и пиры.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Им только снится воздух юга —</l>
+                        <l n="14">Чужого неба волшебство,</l>
+                        <l n="15">И все-таки упрямая подруга</l>
+                        <l n="16">Откажется попробовать его.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

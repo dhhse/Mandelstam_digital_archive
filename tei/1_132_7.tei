@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Летают Валкирии, поют смычки.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“ЛЕТАЮТ ВАЛКИРИИ, ПОЮТ СМЫЧКИ...”
+КЗ; С. Беловой автограф (AM) с датой:/1914/ и под заглавием /Валкирии/.
+ Валкирии (Валькирии) — девы-воительницы скандинавских мифов.
+ Громоздкая опера... — “Валькирия” Р. Вагнера (из цикла “Кольцо Нибелунгов”).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Летают Валкирии, поют смычки.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Летают Валкирии, поют смычки.</l>
+                        <l n="2">Громоздкая опера к концу идет.</l>
+                        <l n="3">С тяжелыми шубами гайдуки</l>
+                        <l n="4">На мраморных лестницах ждут господ.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Уж занавес наглухо упасть готов;</l>
+                        <l n="6">Еще рукоплещет в райке глупец,</l>
+                        <l n="7">Извозчики пляшут вокруг костров.</l>
+                        <l n="8">Карету такого-то! Разъезд. Конец.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

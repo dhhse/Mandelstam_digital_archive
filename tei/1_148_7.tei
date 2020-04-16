@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ни триумфа, ни войны!</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“НИ ТРИУМФА, НИ ВОЙНЫ! . .”
+Впервые — А. 1914. № 6 — 7. С. 12 (под заглавием /Перед войной/, как и в беловом автографе с датой в АЛ). В КЗ и С под заглавием: /1913/.
+В прессе публикация ст-ния вызвала резкую критику за неясность смысла (Об искусствах и литературе // Голос жизни. 1914. № 3. С. 17; Городецкий С. Стихи о войне в “Аполлоне” // Речь. 1914. 3 нояб. С. 7). Вероятно, в сюжете ст-ния дан отклик на двойственную и выжидательную политику правительства Италии в период начала первой мировой войны. Италия вступила в войну на стороне Антанты только 11 мая 1915 г.
+Исключено из состава “Камня” в 1935 или 1937 г. (БП, с. 253).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Ни триумфа, ни войны!</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Ни триумфа, ни войны!</l>
+                        <l n="2">О железные, доколе</l>
+                        <l n="3">Безопасный Капитолий</l>
+                        <l n="4">Мы хранить осуждены?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Или римские перуны —</l>
+                        <l n="6">Гнев народа — обманув,</l>
+                        <l n="7">Отдыхает острый клюв</l>
+                        <l n="8">Той ораторской трибуны;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Или возит кирпичи</l>
+                        <l n="10">Солнца дряхлая повозка</l>
+                        <l n="11">И в руках у недоноска</l>
+                        <l n="12">Рима ржавые ключи?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

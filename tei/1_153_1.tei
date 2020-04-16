@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ода Бетховену</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>153а. Первопечатная редакция - Альманахи стихов, выходящие в Петрограде. Вып.I. Пг., 1915, с.20-23.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Ода Бетховену</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Ода Бетховену</l>
+                        <l n="2">Бывает сердце так сурово,</l>
+                        <l n="3">Что и любя его не тронь!</l>
+                        <l n="4">И в темной комнате глухого</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Бетховена горит огонь.</l>
+                        <l n="6">И я не мог твоей, мучитель,</l>
+                        <l n="7">Чрезмерной радости понять.</l>
+                        <l n="8">Уже бросает исполнитель</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Испепеленную тетрадь.</l>
+                        <l n="10">Кто этот дивный пешеход?</l>
+                        <l n="11">Он так стремительно ступает</l>
+                        <l n="12">С зеленой шляпою в руке,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">С кем можно глубже и полнее</l>
+                        <l n="14">Всю чашу нежности испить?</l>
+                        <l n="15">Кто может, ярче пламенея,</l>
+                        <l n="16">Усилье воли освятить?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Кто по-крестьянски, сын фламандца,</l>
+                        <l n="18">Мир пригласил на ритурнель</l>
+                        <l n="19">И до тех пор не кончил танца,</l>
+                        <l n="20">Пока не вышел буйный хмель?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">О, Дионис, как муж, наивный</l>
+                        <l n="22">И благодарный, как дитя!</l>
+                        <l n="23">Ты перенес свой жребий дивный</l>
+                        <l n="24">То негодуя, то шутя!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">С каким глухим негодованьем</l>
+                        <l n="26">Ты собирал с князей оброк</l>
+                        <l n="27">Или с рассеянным вниманьем</l>
+                        <l n="28">На фортепьянный шел урок!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Тебе монашеские кельи —</l>
+                        <l n="30">Всемирной радости приют,</l>
+                        <l n="31">Тебе в пророческом весельи</l>
+                        <l n="32">Огнепоклонники поют;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="33">Огонь пылает в человеке,</l>
+                        <l n="34">Его унять никто не мог.</l>
+                        <l n="35">Тебя назвать не смели греки,</l>
+                        <l n="36">Но чтили, неизвестный бог!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="37">О, величавой жертвы пламя!</l>
+                        <l n="38">Полнеба охватил костер —</l>
+                        <l n="39">И царской скинии над нами</l>
+                        <l n="40">Разодран шелковый шатер.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="41">И в промежутке воспаленном,</l>
+                        <l n="42">Где мы не видим ничего, —</l>
+                        <l n="43">Ты указал в чертоге тронном</l>
+                        <l n="44">На белой славы торжество!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я в сердце века — путь неясен,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>* “Я в сердце века — путь неясен...” (с. 310). — CC-I, ? 332, с датой “зима 1936”. В СССР — Д-87, с. 113, с датой “14 декабря 1936 г.”. По-видимому, было написано немногим раньше, т. к. приложено к письму Н. Я. Мандельштам К. И. Чуковскому от 12 декабря 1936 г. (АЧ): в тексте разночт. в ст. 2: “удаляет” и ст. 4: “нищенская цвель”. Печ. по списку, с двумя насмешливыми приписками автора: вверху — “это для дурней” и внизу — “Гурий Верховский”, — AM.
+“О. М. не мог, не посмеявшись над собой, назвать и посох, и памятник. Он все же показал мне, что для него это “нищенская цвель”, и больше ничего. Второй “памятник” и того жесточе: про мастера пушечного цеха” (НМ-III, с. 221).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я в сердце века — путь неясен,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я в сердце века — путь неясен,</l>
+                        <l n="2">А время удаляет цель:</l>
+                        <l n="3">И посоха усталый ясень</l>
+                        <l n="4">И меди нищенскую цвель.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

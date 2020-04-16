@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ДВОРЦОВАЯ ПЛОЩАДЬ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Дворцовая площадь (с. 103). — Аргус, 1917, № 4, с. 91, под загл. “Дворцовая площадь”. БП, № 269. Список под загл. “Императорский виссон” и с датой “1915” — К-16(Кабл.). Снято цензурой при подготовке К-16 (Каблуков, 30 декабря 1915 г. — см. преамбулу). Автограф под загл. “Зимний дворец” и с датой, очевидно, записи “Москва,
+471
+30 января 1916 г.” — в альбоме А. И. Ходасевич (ЦГАЛИ, ф. 537, оп. 1, ед. хр. 127, л. 12). Печ. по ж. “Аргус”.
+Виссон — дорогая льняная ткань, обычно белая или пурпурная (лен — символ чистоты). Столпник-ангел — статуя ангела, увенчивающая Александровскую колонну на Дворцовой площади. Черно-желтый лоскут — дворцовый императорский штандарт (черный двуглавый орел на желтом фоне).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ДВОРЦОВАЯ ПЛОЩАДЬ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ДВОРЦОВАЯ ПЛОЩАДЬ</l>
+                        <l n="2">Императорский виссон</l>
+                        <l n="3">И моторов колесницы, —</l>
+                        <l n="4">В черном омуте столицы</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Столпник-ангел вознесен.</l>
+                        <l n="6">В темной арке, как пловцы,</l>
+                        <l n="7">Исчезают пешеходы,</l>
+                        <l n="8">И на площади, как воды,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Глухо плещутся торцы.</l>
+                        <l n="10">Только там, где твердь светла,</l>
+                        <l n="11">Черно-желтый лоскут злится,</l>
+                        <l n="12">Словно в воздухе струится</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Твое чудесное произношенье —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Далее, в 1917 — 1918 гг., адресатом ОМ становится А. Ахматова; она была больна этой зимой, в обоих посвященных ей стихотворениях любовь связывается со смертью. “Твое чудесное произношенье...” [с. 73] — это разговор по телефону, искажающему женский голос (“цо” вместо “что”) в шелест шелка, посвист птиц и шум ветра; уверясь друг в друге (“я тоже на земле живу”, точная реплика Ахматовой), собеседники пьют бессолнечную смесь любви и смерти. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Твое чудесное произношенье —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Твое чудесное произношенье —</l>
+                        <l n="2">Горячий посвист хищных птиц;</l>
+                        <l n="3">Скажу ль: живое впечатленье</l>
+                        <l n="4">Каких-то шелковых зарниц.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И далеко прошелестело:</l>
+                        <l n="6">Пусть говорят: любовь крылата,</l>
+                        <l n="7">Смерть окрыленнее стократ;</l>
+                        <l n="8">Еще душа борьбой объята,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">А наши губы к ней летят.</l>
+                        <l n="10">И столько воздуха и шелка</l>
+                        <l n="11">И ветра в шепоте твоем,</l>
+                        <l n="12">И, как слепые, ночью долгой</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

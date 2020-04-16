@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ДОМБИ И СЫН</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>ДОМБИ И СЫН
+Новый Сатирикон. 1914. № 7 (13 февр.). С. 6 (без разделения на строфы). КЗ; С. Беловой . автограф с датой: /1914/ — ЦГАЛИ, ф. 1893, оп. 2, ед. хр. 4, л. 3, 4.
+Трактовку вольного отношения Мандельштама к реалиям источников его образов дает Л. Я. Гинзбург: “Мандельштам сознательно изменял реалии &lt;...&gt; у него старик Домби повесился, а Оливер Твист служит в конторе — чего нет у Диккенса” (Гинзбург Л. Я. О старом и новом. Л., 1982. С. 369).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ДОМБИ И СЫН</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ДОМБИ И СЫН</l>
+                        <l n="2">Когда, пронзительнее свиста,</l>
+                        <l n="3">Я слышу английский язык —</l>
+                        <l n="4">Я вижу Оливера Твиста</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Над кипами конторских книг.</l>
+                        <l n="6">У Чарльза Диккенса спросите,</l>
+                        <l n="7">Что было в Лондоне тогда:</l>
+                        <l n="8">Контора Домби в старом Сити</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И Темзы желтая вода.</l>
+                        <l n="10">Дожди и слезы. Белокурый</l>
+                        <l n="11">И нежный мальчик Домби-сын;</l>
+                        <l n="12">Веселых клерков каламбуры</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Не понимает он один.</l>
+                        <l n="14">В конторе сломанные стулья;</l>
+                        <l n="15">На шиллинги и пенсы счет;</l>
+                        <l n="16">Как пчелы, вылетев из улья,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Роятся цифры круглый год.</l>
+                        <l n="18">А грязных адвокатов жало</l>
+                        <l n="19">Работает в табачной мгле —</l>
+                        <l n="20">И вот, как старая мочала,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Банкрот болтается в петле.</l>
+                        <l n="22">На стороне врагов законы:</l>
+                        <l n="23">Ему ничем нельзя помочь!</l>
+                        <l n="24">И клетчатые панталоны,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

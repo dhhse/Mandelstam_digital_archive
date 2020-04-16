@@ -1,0 +1,78 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Что делать нам с убитостью равнин,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>264.	ВП. Альм. 2. Печ. по НК. Список Линецкой. Н.Я. Мандельштам приводила по памяти редакцию заключительного стиха “Народов будущих Иуда?”, считая текст НК цензурным вариантом (28, с. 282); И.Семенко выражала сомнение в достоверности этого сообщения (Свод, с. 162). Возможно, то была ранняя редакция; в основном тексте речь идет о пространствах, создаваемых творческим воображением. Образ явился реминисценцией из программного ст-ния Д. Мережковского “Дети ночи”:
+621
+Устремляя наши очи
+На бледнеющий восток, 
+Дети скорби, дети ночи, 
+Ждем, придет ли наш пророк.
+И, с надеждою в сердцах, 
+Умирая, мы тоскуем
+О несозданных мирах. 
+Мы неведомое чуем.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Что делать нам с убитостью равнин,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Что делать нам с убитостью равнин,</l>
+                        <l n="2">С протяжным голодом их чуда?</l>
+                        <l n="3">Ведь то, что мы открытостью в них мним,</l>
+                        <l n="4">Мы сами видим, засыпая, зрим —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И все растет вопрос: куда они, откуда,</l>
+                        <l n="6">И не ползет ли медленно по ним</l>
+                        <l n="7">Тот, о котором мы во сне кричим, —</l>
+                        <l n="8">Пространств несозданных Иуда?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

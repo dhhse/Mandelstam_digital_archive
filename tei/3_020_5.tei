@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Октябрь 1930</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Стих. «Дикая кошка — армянская речь...» и «И по-звериному воет людье...» [с. 165,166] (первоначально — одно стихотворение) — о русском заселении Кавказа: ссылка для бывших гвардейцев, льготная служба для мелких чиновников (повытчиков), проезд Пушкина в Эрзерум (в черновиках была строка «Там, где везли на арбе Грибоеда», отсюда ассоциация грибы и гроба). Подорожная — бумага, выдававшаяся командировочным для ускорения проезда; моруха — от глагола «морить» (по созвучию с «маруха», любовница); питье Черномора — ассоциация с Черным морем и «лукоморьем» (?). Та же чиновничья тема — в «На полицейской бумаге верже...»</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Октябрь 1930</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Октябрь 1930</l>
+                        <l n="2">И по-звериному воет людье, </l>
+                        <l n="3">И по-людски куролесит зверье... </l>
+                        <l n="4">Чудный чиновник без подорожной</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Командированный к тачке острожной, —</l>
+                        <l n="6">Он Черномора пригубил питье</l>
+                        <l n="7">В кислой корчме на пути к Эрзеруму.</l>
+                        <l n="8">Октябрь 1930</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

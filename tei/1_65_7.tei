@@ -1,0 +1,79 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Довольно лукавить: я знаю,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“ДОВОЛЬНО ЛУКАВИТЬ: Я ЗНАЮ...”
+Печатается по беловому автографу (AM), датируется по образно-смысловому строю. Впервые — ВРСХД. 1974. № 111. Строфа 3 реминисцирует ст-ние Верлена “Un grand sommeil noir...”:
+Под чьей-то рукой
+Я — зыбки качанье
+В пещере пустой... Молчанье, молчанье!
+(пер. Ф. Сологуба; в его переводе строфа цитируется в статье “Девятнадцатый век”). Ср. также в редакции ст-ния “Дождик ласковый, мелкий и тонкий...”: “Я ребенок, покинутый в зыбке...” (наст. изд.).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Довольно лукавить: я знаю,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Довольно лукавить: я знаю,</l>
+                        <l n="2">Что мне суждено умереть;</l>
+                        <l n="3">И я ничего не скрываю:</l>
+                        <l n="4">От Музы мне тайн не иметь…</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И странно: мне любо сознанье,</l>
+                        <l n="6">Что я не умею дышать;</l>
+                        <l n="7">Туманное очарованье</l>
+                        <l n="8">И таинство есть — умирать…</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я в зыбке качаюсь дремотно</l>
+                        <l n="10">И мудро безмолвствую я —</l>
+                        <l n="11">Решается бесповоротно</l>
+                        <l n="12">Грядущая вечность моя!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

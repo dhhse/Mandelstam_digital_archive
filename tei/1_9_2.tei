@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Только детские книги читать,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Только детские книги читать...” (с. 66). — Альм. “Ковчег”. Феодосия, 1920, с. 12. Т, с. 42. К-23, с. 5. С, с. 7. БП, № 3. Печ. по С.
+Но люблю мою бедную землю. — Ср. ст-ние Ф. Сологуба “Я люблю мою темную землю...” (1896).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Только детские книги читать,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Только детские книги читать,</l>
+                        <l n="2">Только детские думы лелеять,</l>
+                        <l n="3">Все большое далеко развеять,</l>
+                        <l n="4">Из глубокой печали восстать.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Я от жизни смертельно устал,</l>
+                        <l n="6">Ничего от нее не приемлю,</l>
+                        <l n="7">Но люблю мою бедную землю</l>
+                        <l n="8">Оттого, что иной не видал.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я качался в далеком саду</l>
+                        <l n="10">На простой деревянной качели,</l>
+                        <l n="11">И высокие темные ели</l>
+                        <l n="12">Вспоминаю в туманном бреду.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

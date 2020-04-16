@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Не спрашивай: ты знаешь,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Любовная тема нехарактерна для раннего ОМ: Ахматова уверяла, будто он сам считал, что не умел писать “женщине и о женщине”. Все же это преувеличение: несколько стихотворений 1909 — 1911 гг. говорят о любви, любовной нежности и даже (самое позднее) о любовной страсти. Адресаты стихов неизвестны; брат ОМ вспоминает, что это могли быть сестры Кушаковы из Выборга (см. “Шум времени”, гл. 5). Это &lt;...&gt; “Не спрашивай: ты знаешь, Что нежность безотчетна...” [с. 237] — о гипнотизирующей любви-неизбежности, стремящейся к нам “оттуда”. Главное слово — “нежность”, героиня — нездешняя и печальная, у нее тонкие пальцы и хрупкое тело, поцеловать ей руку — как переплыть море, за которым поет любовь.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Не спрашивай: ты знаешь,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Не спрашивай: ты знаешь,</l>
+                        <l n="2">Что нежность — безотчетна,</l>
+                        <l n="3">И как ты называешь</l>
+                        <l n="4">Мой трепет — всё равно;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И для чего признанье,</l>
+                        <l n="6">Когда бесповоротно</l>
+                        <l n="7">Мое существованье</l>
+                        <l n="8">Тобою решено?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Дай руку мне. Что страсти?</l>
+                        <l n="10">Танцующие змеи!</l>
+                        <l n="11">И таинство их власти —</l>
+                        <l n="12">Убийственный магнит!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И змей тревожный танец</l>
+                        <l n="14">Остановить не смея,</l>
+                        <l n="15">Я созерцаю глянец</l>
+                        <l n="16">Девических ланит.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

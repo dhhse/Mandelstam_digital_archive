@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В Европе холодно. В Италии темно.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В Европе холодно. В Италии темно.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В Европе холодно. В Италии темно.</l>
+                        <l n="2">Власть отвратительна, как руки брадобрея.</l>
+                        <l n="3">О, если б распахнуть, да как нельзя скорее,</l>
+                        <l n="4">На Адриатику широкое окно.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Над розой мускусной жужжание пчелы,</l>
+                        <l n="6">В степи полуденной — кузнечик мускулистый,</l>
+                        <l n="7">Крылатой лошади подковы тяжелы,</l>
+                        <l n="8">Часы песочные желты и золотисты.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">На языке цикад пленительная смесь</l>
+                        <l n="10">Из грусти пушкинской и средиземной спеси,</l>
+                        <l n="11">Как плющ назойливый, цепляющийся весь,</l>
+                        <l n="12">Он мужественно врет, с Орландом куролеся.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Часы песочные желты и золотисты,</l>
+                        <l n="14">В степи полуденной кузнечик мускулистый,</l>
+                        <l n="15">И прямо на луну взлетает враль плечистый.</l>
+                        <l n="16">Любезный Ариост, посольская лиса,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Цветущий папоротник, парусник, столетник,</l>
+                        <l n="18">Ты слушал на луне овсянок голоса,</l>
+                        <l n="19">А на дворе у рыб ученый был советник.</l>
+                        <l n="20">О город ящериц, в котором нет души, —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">От ведьмы и судьи таких сынов рожала</l>
+                        <l n="22">Феррара черствая и на цепи держала —</l>
+                        <l n="23">И солнце рыжего ума взошло в глуши.</l>
+                        <l n="24">Мы удивляемся лавчонке мясника,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Под сеткой синих мух уснувшему дитяти,</l>
+                        <l n="26">Ягненку на горе, монаху на осляти,</l>
+                        <l n="27">Солдатам герцога, юродивым слегка</l>
+                        <l n="28">От винопития, чумы и чеснока,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

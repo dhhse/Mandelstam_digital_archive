@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Не говорите мне о вечности —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Прямолинейнее всего об этом (На этом фоне продолжает ощущаться и нарастать основной тематический контраст — между хрупкой недолговечностью героя и давящим всесилием вечности и судьбы) говорится в стих. “Не говорите мне о вечности — я не могу ее вместить...” [с. 110] и лишь издали на ее фоне “о милом и ничтожном думаю”. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Не говорите мне о вечности —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Не говорите мне о вечности —</l>
+                        <l n="2">Я не могу ее вместить.</l>
+                        <l n="3">Но как же вечность не простить</l>
+                        <l n="4">Моей любви, моей беспечности?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Я слышу, как она растет</l>
+                        <l n="6">И полуночным валом катится,</l>
+                        <l n="7">Но — слишком дорого поплатится,</l>
+                        <l n="8">Кто слишком близко подойдет.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И тихим отголоскам шума я</l>
+                        <l n="10">Издалека бываю рад —</l>
+                        <l n="11">Ее пенящихся громад —</l>
+                        <l n="12">О милом и ничтожном думая.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>О, красавица Сайма, ты лодку мою колыхала,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>О, красавица Сайма, ты лодку мою колыхала,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">О, красавица Сайма, ты лодку мою колыхала,</l>
+                        <l n="2">Колыхала мой челн, челн подвижный, игривый и острый.</l>
+                        <l n="3">В водном плеске душа колыбельную негу слыхала,</l>
+                        <l n="4">И поодаль стояли пустынные скалы, как сестры.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Отовсюду звучала старинная песнь — Калевала:</l>
+                        <l n="6">Песнь железа и камня о скорбном порыве Титана.</l>
+                        <l n="7">И песчаная отмель — добыча вечернего вала, —</l>
+                        <l n="8">Как невеста, белела на пурпуре водного стана.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Как от пьяного солнца бесшумные падали стрелы</l>
+                        <l n="10">И на дно опускались и тихое дно зажигали,</l>
+                        <l n="11">Как с небесного древа клонилось, как плод перезрелый,</l>
+                        <l n="12">Слишком яркое солнце — и первые звезды мигали,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Я причалил и вышел на берег седой и кудрявый;</l>
+                        <l n="14">Я не знаю, как долго, не знаю, кому я молился...</l>
+                        <l n="15">Неоглядная Сайма струилась потоками лавы,</l>
+                        <l n="16">Белый пар над водою тихонько вставал и клубился.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я нынче в паутине световой —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>* “Я нынче в паутине световой...” (с. 233). — Москва, 1964, ? 8, с. 155, с разночт. в ст. 12: “Его дыханьем”. БП, ? 201. Печ. По списку Н. Я. Мандельштам (AM).
+Ст-ние — “...еще одна “защита и апология поэзии”, как реакция на “оду &lt;Сталину. — П. Я.&gt;” (НМ-III, с. 238). Ср. в письме Ю. Н. Тынянову от 21 января 1937 г.: “Последнее время я становлюсь понятен решительно всем. Это грозно. Вот уже четверть века, как я, мешая важное с пустяками, наплываю на русскую поэзию; но вскоре стихи мои сольются с ней, кое-что изменив в ее строении и составе” (СС-Ш, с. 280 — 281).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я нынче в паутине световой —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я нынче в паутине световой —</l>
+                        <l n="2">Черноволосой, светло-русой, —</l>
+                        <l n="3">Народу нужен свет и воздух голубой,</l>
+                        <l n="4">И нужен хлеб и снег Эльбруса.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И не с кем посоветоваться мне,</l>
+                        <l n="6">А сам найду его едва ли:</l>
+                        <l n="7">Таких прозрачных, плачущих камней</l>
+                        <l n="8">Нет ни в Крыму, ни на Урале.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Народу нужен стих таинственно-родной,</l>
+                        <l n="10">Чтоб от него он вечно просыпался</l>
+                        <l n="11">И льнянокудрою, каштановой волной —</l>
+                        <l n="12">Его звучаньем — умывался.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

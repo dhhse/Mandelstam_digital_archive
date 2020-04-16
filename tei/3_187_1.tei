@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>С примесью ворона — голуби,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>С примесью ворона — голуби,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">С примесью ворона — голуби,</l>
+                        <l n="2">Завороненные волосы.</l>
+                        <l n="3">Здравствуй, моя нежнолобая,</l>
+                        <l n="4">Дай мне сказать тебе с голоса,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Как я люблю твои волосы</l>
+                        <l n="6">Душные, черноголубые.</l>
+                        <l n="7">В губы горячие вложено</l>
+                        <l n="8">Все, чем Москва омоложена,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Чем молодая расширена,</l>
+                        <l n="10">Чем мировая встревожена,</l>
+                        <l n="11">Грозная утихомирена.</l>
+                        <l n="12">Тени лица восхитительны — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Синие, черные, белые.</l>
+                        <l n="14">И на груди — удивительны</l>
+                        <l n="15">Эти две родинки смелые.</l>
+                        <l n="16">В пальцах тепло не мгновенное,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Сила лежит фортепьянная,</l>
+                        <l n="18">Сила приказа желанная</l>
+                        <l n="19">Биться за дело нетленное...</l>
+                        <l n="20">Мчится, летит, с нами едучи,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Сам ноготок зацелованный,</l>
+                        <l n="22">Мчится, о будущем знаючи,</l>
+                        <l n="23">Сам ноготок холодающий.</l>
+                        <l n="24">Славная вся, безусловная,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Здравствуй, моя оживленная.</l>
+                        <l n="26">Ночь в рукавах и просторное</l>
+                        <l n="27">Круглое горло упорное.</l>
+                        <l n="28">Слава моя чернобровая,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Бровью вяжи меня вязкою,</l>
+                        <l n="30">К жизни и смерти готовая,</l>
+                        <l n="31">Произносящая ласково</l>
+                        <l n="32">Сталина имя громовое</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

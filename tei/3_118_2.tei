@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Из-за домов, из-за лесов,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>* “Из-за домов, из-за лесов...” (с. 221). — СС-I, ? 322, с датой “6 — 8 декабря 1936”; в СССР — ЛГр-67, с. 85 (в статье Г. Маргвелашвили); БП, ? 189, с датой “6 — 9 декабря 1936”, — везде с разночт. в ст. 3: “Гуди, помощник и моих трудов” (так в прижизненной машинописи и НК, тот же текст, но под загл. “Гудок” — ТС). Списки Н. Я. Мандельштам — AM, AЧ и СП. Печ. по AM.
+Домашнее название — “Гудок”. Ст-ние открывает собой “вторую воронежскую тетрадь”. Его особо выделил Б. Пастернак. Ср. также ответ Мандельштама жене на вопрос, почему это ст-ние называется “Гудок” (первоначальное название): “А может, это я” (HM-I, с. 191).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Из-за домов, из-за лесов,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Из-за домов, из-за лесов,</l>
+                        <l n="2">Длинней товарных поездов,</l>
+                        <l n="3">Гуди за власть ночных трудов,</l>
+                        <l n="4">Садко заводов и садов.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Гуди, старик, дыши сладко?.</l>
+                        <l n="6">Как новгородский гость Садко</l>
+                        <l n="7">Под синим морем глубоко,</l>
+                        <l n="8">Гуди протяжно в глубь веков,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

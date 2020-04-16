@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Encyclica *</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Encyclica [с. 54] — отклик на энциклику (“окружное послание” ко всем верующим) новоизбранного римского папы Бенедикта XV с призывом воюющих к миру (голубь — символ мира); говоривший мне о Риме — по-видимому, Чаадаев. Тютчев в одноименном стихотворении 1864 г. проклинал папу Пия IX за энциклику, отрицавшую свободу совести, — ОМ прославляет новую энциклику именно за свободу — избранных удел.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Encyclica *</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Encyclica *</l>
+                        <l n="2">Есть обитаемая духом</l>
+                        <l n="3">Свобода — избранных удел.</l>
+                        <l n="4">Орлиным зреньем, дивным слухом</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Священник римский уцелел.</l>
+                        <l n="6">И голубь не боится грома,</l>
+                        <l n="7">Которым церковь говорит;</l>
+                        <l n="8">В апостольском созвучьи: “Roma!”</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Он только сердце веселит.</l>
+                        <l n="10">Я повторяю это имя</l>
+                        <l n="11">Под вечным куполом небес,</l>
+                        <l n="12">Хоть говоривший мне о Риме</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

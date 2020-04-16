@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ласточка</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>207а. Черновой набросок - автограф (ИРЛИ, ф.172, оп.1, ед.хр.68).
+   207б. Первоначальная редакция - автограф (ЦГАЛИ, ф.300, оп.1, ед.хр.452).
+   207в. Промежуточная редакция - автограф (там же).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Ласточка</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Ласточка</l>
+                        <l n="2">Я слово позабыл, что я хотел сказать.</l>
+                        <l n="3">Слепая ласточка в чертог теней вернется,</l>
+                        <l n="4">На крыльях срезанных, с прозрачными играть.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В беспамятстве ночная песнь поется.</l>
+                        <l n="6">Не слышно птиц. Бессмертник не цветет,</l>
+                        <l n="7">Прозрачны гривы табуна ночного.</l>
+                        <l n="8">В сухой реке пустой челнок плывет,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Среди кузнечиков беспамятствует слово.</l>
+                        <l n="10">И медленно растет, как бы шатер иль храм,</l>
+                        <l n="11">То вдруг прокинется безумной Антигоной,</l>
+                        <l n="12">То мертвой ласточкой бросается к ногам</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">С стигийской нежностью и веткою зеленой.</l>
+                        <l n="14">О, если бы вернуть и зрячих пальцев стыд,</l>
+                        <l n="15">И выпуклую радость узнаванья.</l>
+                        <l n="16">Я так боюсь рыданья Аонид,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Тумана, звона и зиянья.</l>
+                        <l n="18">А смертным власть дана любить и узнавать,</l>
+                        <l n="19">Для них и звук в персты прольется,</l>
+                        <l n="20">Но я забыл, что я хочу сказать,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И мысль бесплотная в чертог теней вернется.</l>
+                        <l n="22">Все не о том прозрачная твердит,</l>
+                        <l n="23">Все ласточка, подружка, Антигона...</l>
+                        <l n="24">А на губах, как черный лед, горит</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

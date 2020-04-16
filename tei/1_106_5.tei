@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>И безумных звезд разбег,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Из серьезных стихов, примыкающих к перечисленным (,“Мадригал”, “Я потеряла нежную камею...”, “На луне не растет...”)   выделяется “...Дев полуночных отвага...” [с. 40] — прояснение и протрезвление, где болезненные для ОМ звезды в начале безумные, а в конце сопровождают трезвую беседу. (Выстрел пушечный — предупреждение о возможном наводнении от западного ветра). </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>И безумных звезд разбег,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">И безумных звезд разбег,</l>
+                        <l n="2">Да привяжется бродяга,</l>
+                        <l n="3">Вымогая на ночлег.</l>
+                        <l n="4">Кто, скажите, мне сознанье</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Виноградом замутит,</l>
+                        <l n="6">Если явь — Петра созданье,</l>
+                        <l n="7">Медный всадник и гранит?</l>
+                        <l n="8">Слышу с крепости сигналы,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Замечаю, как тепло.</l>
+                        <l n="10">Выстрел пушечный в подвалы,</l>
+                        <l n="11">Вероятно, донесло.</l>
+                        <l n="12">И гораздо глубже бреда</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

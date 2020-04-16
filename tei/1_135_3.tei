@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>О временах простых и грубых</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>53. Голос жизни. 1915. № 14, вместе со ст-ниями 54 и 61, под общим загл. /Из цикла “Рим”/. Полностью цикл, вероятнее всего, не был сформирован. Каблуков в записи дневника от 6 сент. 1914 г. упоминает “складень” (так называл свои циклы И. Анненский) “Рим”; он же устраивал через З. Гиппиус публ. стихов Мандельштама в двух номерах “Голоса жизни” (К-1990, с. 248—249). В ст. 9—12 отразились мотивы “Скорбных элегий” Овидия (кн. 3, элегии 10, 12).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>О временах простых и грубых</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">О временах простых и грубых</l>
+                        <l n="2">Копыта конские твердят,</l>
+                        <l n="3">И дворники в тяжелых шубах</l>
+                        <l n="4">На деревянных лавках спят.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">На стук в железные ворота</l>
+                        <l n="6">Привратник, царственно-ленив,</l>
+                        <l n="7">Встал, и звериная зевота</l>
+                        <l n="8">Напомнила твой образ, скиф,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Когда с дряхлеющей любовью,</l>
+                        <l n="10">Мешая в песнях Рим и снег,</l>
+                        <l n="11">Овидий пел арбу воловью</l>
+                        <l n="12">В походе варварских телег.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

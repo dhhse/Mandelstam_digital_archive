@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>На мертвых ресницах Исакий замерз, </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>177. “Комсомольская искра”, Одесса, 1966, 6 марта. Печ. по авториз. списку. Тематически и конструктивно связано со стих. ? 178. Исакий — Исаакиевский собор в Ленинграде. Шарманщика смерть. Имеется в виду песня Шуберта “Шарманщик”. Выжлятник — старший псарь (в псовой охоте). Движенье, движенье, движенье. Имеется в виду песня Шуберта “В путь” (из цикла “Прекрасная мельничиха”).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>На мертвых ресницах Исакий замерз, </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">На мертвых ресницах Исакий замерз, </l>
+                        <l n="2">И барские улицы сини. </l>
+                        <l n="3">Шарманщика смерть и медведицы ворс, </l>
+                        <l n="4">И чужие поленья в камине.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Уже выгоняет выжлятник пожар, </l>
+                        <l n="6">Линеек раскинутых стайку, </l>
+                        <l n="7">Несется земля — меблированный шар, </l>
+                        <l n="8">И зеркало корчит всезнайку.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Площадками лестниц разлад и туман, </l>
+                        <l n="10">Дыханье, дыханье и пенье, </l>
+                        <l n="11">И Шуберта в шубе замерз талисман, — </l>
+                        <l n="12">Движенье, движенье, движенье.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

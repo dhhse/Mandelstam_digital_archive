@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я с дымящей лучиной вхожу</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Сознание причастности к всеобщей Неправде и своей ответственности за нее дало смежное стих. «Я с дымящей лучиной вхожу...» [с. 171] («...Я и сам ведь такой же, кума») с нагромождением страшного и отвратительного: шестипалым, по настойчивым слухам, был Сталин; пупки, почки и прочая требуха всегда были противны ОМ (ср. «Египетская марка», 4).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я с дымящей лучиной вхожу</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я с дымящей лучиной вхожу</l>
+                        <l n="2">К шестипалой неправде в избу:</l>
+                        <l n="3">Дай-ка я на тебя погляжу —</l>
+                        <l n="4">Ведь лежать мне в сосновом гробу.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">А она мне соленых грибков</l>
+                        <l n="6">Вынимает в горшке из-под нар,</l>
+                        <l n="7">А она из ребячьих пупков</l>
+                        <l n="8">Подает мне горячий отвар.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Ну а я не дышу, сам не рад...</l>
+                        <l n="10">Шасть к порогу: куда там... В плечо</l>
+                        <l n="11">Уцепилась и тащит назад.</l>
+                        <l n="12">Вошь да глушь у нее, тишь да мша,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

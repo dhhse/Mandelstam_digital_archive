@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ПОСОХ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Посох (с. 99). — Голос жизни, 1915, № 14, 1 апреля, с. 10, третьим в цикле со ст-ниями “О временах простых и грубых...” и “На площадь выбежав, свободен...” (под общим загл. “Из цикла “Рим”), с разночт. в ст. 7: “возвеселился” и ст. 16: “Мне, идущему на Рим”, а также с иной редакцией строфы 3 — см. Приложения. К-16,с. 74; К-16(Ав.); К-23,с. 69, и НР-28, л. 54а (список рукой Н. Я. Мандельштам), — с разночт. в ст. 9: “Пусть снега” и ст. 11: “Но печаль”. С, с. 76, без даты (поправки внесены, очевидно, в 1927 г.). БП, № 59, с датой “1914”. Автограф, без загл., текст как в К-16 (в ст. 14 “Истины” с прописной буквы), с датой “1914”, — AM. Печ. по С, с датировкой: 1914, 1927.
+Ср. статью “Петр Чаадаев”. См. вступ. статью.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ПОСОХ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ПОСОХ</l>
+                        <l n="2">Посох мой, моя свобода —</l>
+                        <l n="3">Сердцевина бытия,</l>
+                        <l n="4">Скоро ль истиной народа</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Станет истина моя?</l>
+                        <l n="6">Я земле не поклонился</l>
+                        <l n="7">Прежде, чем себя нашел;</l>
+                        <l n="8">Посох взял, развеселился</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И в далекий Рим пошел.</l>
+                        <l n="10">А снега на черных пашнях</l>
+                        <l n="11">Не растают никогда,</l>
+                        <l n="12">И печаль моих домашних</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Мне по-прежнему чужда.</l>
+                        <l n="14">Снег растает на утесах,</l>
+                        <l n="15">Солнцем истины палим,</l>
+                        <l n="16">Прав народ, вручивший посох</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

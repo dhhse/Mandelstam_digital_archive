@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>На бледно-голубой эмали,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*5. Альманахи стихов, выходящие в Петрограде. Пг., 1915. Вып. 1. — КЗ. КорпАв. Э. Ф. Голлербах в эссе “Поэзия фарфора” (1920-е гг.) писал: “В свое время многим казалось новым и неожиданным, после туманов символизма, это пристальное и бережное внимание к вещи как таковой... Поэт чувствует в работе художника „сознание минутной силы, забвение печальной смерти", т. е. ту, хотя бы призрачную и краткую, победу над темным временем и косным веществом, которая сообщает художественному произведению своеобразную одушевленность” (ГРМ).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>На бледно-голубой эмали,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">На бледно-голубой эмали,</l>
+                        <l n="2">Какая мыслима в апреле,</l>
+                        <l n="3">Березы ветви поднимали</l>
+                        <l n="4">И незаметно вечерели.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Узор отточенный и мелкий,</l>
+                        <l n="6">Застыла тоненькая сетка,</l>
+                        <l n="7">Как на фарфоровой тарелке</l>
+                        <l n="8">Рисунок, вычерченный метко,—</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Когда его художник милый</l>
+                        <l n="10">Выводит на стеклянной тверди,</l>
+                        <l n="11">В сознании минутной силы,</l>
+                        <l n="12">В забвении печальной смерти.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

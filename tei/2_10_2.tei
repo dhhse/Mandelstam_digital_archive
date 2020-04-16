@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>МОСКОВСКИЙ ДОЖДИК</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Московский дождик (с. 144). — Сегодня, 1922, № 1 (сентябрь), с. 2, без загл., с начальной строфой, не вошедшей в окончательную редакцию, — см. Приложения. Альм. “Ковш”, 1925, кн. 1, с. 35. С, с. 165, с датой “1922” (в HP — машинопись. БП, №117. Автограф первопечатного текста — ИМЛИ, ф. 225, оп. 1, ед. хр. 3 и 11. Печ. по альм. “Ковш”.
+Ср. образные переклички с прозой “Холодное лето” (II, 303). Чаинок легкая возня. — Мандельштам, по сообщению Э. С. Гурвич, однажды на прогулке показал ей на летающих в небе птиц и сказал: “Смотрите, чаинки!”
+495
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>МОСКОВСКИЙ ДОЖДИК</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">МОСКОВСКИЙ ДОЖДИК</l>
+                        <l n="2">Он подает куда как скупо</l>
+                        <l n="3">Свой воробьиный холодок —</l>
+                        <l n="4">Немного нам, немного купам,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Немного вишням на лоток.</l>
+                        <l n="6">И в темноте растет кипенье —</l>
+                        <l n="7">Чаинок легкая возня,</l>
+                        <l n="8">Как бы воздушный муравейник</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Пирует в темных зеленях.</l>
+                        <l n="10">Из свежих капель виноградник</l>
+                        <l n="11">Зашевелился в мураве:</l>
+                        <l n="12">Как будто холода рассадник</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

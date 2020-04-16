@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>На перламутровый челнок</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*24. Пьяные вишни. Севастополь, 1920, под загл. /О пальцы гибкие... /. Печ. без загл. согласно С. Авторизованная машинопись (AM) с датой /16. XI. 1911/. ККабл (с датой). Авторизованная машинопись (РГАЛИ). КорпАв-2 (автограф).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>На перламутровый челнок</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">На перламутровый челнок</l>
+                        <l n="2">Натягивая шелка нити,</l>
+                        <l n="3">О пальцы гибкие, начните</l>
+                        <l n="4">Очаровательный урок!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Приливы и отливы рук —</l>
+                        <l n="6">Однообразные движенья,</l>
+                        <l n="7">Ты заклинаешь, без сомненья,</l>
+                        <l n="8">Какой-то солнечный испуг,—</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Когда широкая ладонь,</l>
+                        <l n="10">Как раковина, пламенея,</l>
+                        <l n="11">То гаснет, к теням тяготея,</l>
+                        <l n="12">То в розовый уйдет огонь,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

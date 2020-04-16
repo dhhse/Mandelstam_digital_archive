@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>На темном небе, как узор,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*330. ВРСХД. 1970. № 97. Печ. по автографу, посланному Вяч. Иванову (вместе с вариантом данного ст-ния) из Гейдельберга 17 (30) дек. 1909 г. (РГБ). Машинопись с ошибочной датой “1910” (AM). Ст-ние Мандельштам сопроводил письмом : “Дорогой Вячеслав Иванович! Это стихотворение — хотело бы быть „romance sans paroles" (Dans l'interminable ennui... ). „Paroles" — т. е. интимно-лирическое, личное — я пытался сдержать, обуздать уздой ритма. &lt;...&gt; Невольно вспоминаю Ваше замечание об антилирической природе ямба. Может быть, антиинтимная природа? Ямб — это узда „настроения"”. Перевод франц. текста: “Песня без слов” (В безбрежной тоске...). “Слова”; в первом названии Мандельштам отсылает к книге стихов П.Верлена “Песни без слов”, во втором — к ст-нию из этой книги; он ведет речь о лекциях по стихосложению, которые Вяч. Иванов читал молодым поэтам весной 1909 г.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>На темном небе, как узор,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">На темном небе, как узор,</l>
+                        <l n="2">Деревья траурные вышиты.</l>
+                        <l n="3">Зачем же выше и всё выше ты</l>
+                        <l n="4">Возводишь изумленный взор?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Вверху — такая темнота —</l>
+                        <l n="6">Ты скажешь — время опрокинула,</l>
+                        <l n="7">И, словно ночь, на день нахлынула</l>
+                        <l n="8">Холмов холодная черта.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Высоких, неживых дерев</l>
+                        <l n="10">Темнеющее рвется кружево:</l>
+                        <l n="11">О месяц, только ты не суживай</l>
+                        <l n="12">Серпа, внезапно почернев!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

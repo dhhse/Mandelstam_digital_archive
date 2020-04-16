@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я избежал суровой пени</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>373. Заветы. 1913. № 5 (в составе подборки ст-ний поэтов-акмеистов). Написано не ранее осени 1912 г., когда поэт примкнул к группе акмеистов. По сообщению Ахматовой, создание ст-ния явилось следствием бесед с В.К. Шилейко (1, с. 189). В сюжете, по-видимому, отразилось беллетризованное описание египетского вельможи из кн. Г. Масперо “Древняя история: Египет, Ассирия”, русский перевод которой выдержал несколько изданий в начале века.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я избежал суровой пени</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я избежал суровой пени</l>
+                        <l n="2">И почестей достиг;</l>
+                        <l n="3">От радости мои колени</l>
+                        <l n="4">Дрожали, как тростник.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И прямо в полы балахона,</l>
+                        <l n="6">Большие, как луна,</l>
+                        <l n="7">На двор с высокого балкона</l>
+                        <l n="8">Бросали ордена.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">То, что я сделал, превосходно —</l>
+                        <l n="10">И это сделал я!</l>
+                        <l n="11">И место новое доходно</l>
+                        <l n="12">И прочно для житья.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И, предвкушая счастья глянец,</l>
+                        <l n="14">Я танцевал не зря</l>
+                        <l n="15">Изящный и отличный танец</l>
+                        <l n="16">В присутствии царя.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">По воздуху летает птица.</l>
+                        <l n="18">Бедняк идет пешком.</l>
+                        <l n="19">Вельможе ехать не годится</l>
+                        <l n="20">Дрянным сухим путем;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И, захватив с собой подарки</l>
+                        <l n="22">И с орденами тюк,</l>
+                        <l n="23">Как подобает мне, на барке</l>
+                        <l n="24">Я поплыву на юг.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

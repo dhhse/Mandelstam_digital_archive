@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ENCYCLICA</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>ENCYCLICA
+Впервые — Невский альманах. Пг., 1915. С. 58.
+Беловой автограф с датой /Сентябрь 1914/ и заглавием /К энциклике папы Бенедикта XV/ — ИРЛИ, ф. 627, оп. 2, ед. хр. 19, л. 2. Беловой автограф с датой (AM). В энциклике, напечатанной 29 августа (11 сентября) в газете “Osservatore Romano”, папа Бенедикт XV выказал скорбь по поводу разразившейся войны и призвал воюющие державы к мирным переговорам (указано в статье В. Швейцер “Спустя почти полвека”). Мотивы ст-ния обнаруживают полемическую соотнесенность с мотивами ст-ний Тютчева: “Encyclica”, “Свершается заслуженная кара...”, “Ватиканская годовщина” (Тоддес, 1974, с. 23-24).
+11 ...говоривший мне о Риме... — по-видимому, П. Я. Чаадаев (вероятно, подразумевается его письмо к А. И. Тургеневу от 20 апреля 1833 г.). Е. Тоддес считает, что здесь речь идет не о Чаадаеве и не о Тютчеве, но об умершем 20 августа 1914 г. папе римском Пие X (Тоддес, 1974, с. 24).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ENCYCLICA</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ENCYCLICA</l>
+                        <l n="2">Есть обитаемая духом</l>
+                        <l n="3">Свобода — избранных удел.</l>
+                        <l n="4">Орлиным зреньем, дивным слухом</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Священник римский уцелел.</l>
+                        <l n="6">И голубь не боится грома,</l>
+                        <l n="7">Которым церковь говорит;</l>
+                        <l n="8">В апостольском созвучьи: Roma!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Он только сердце веселит.</l>
+                        <l n="10">Я повторяю это имя</l>
+                        <l n="11">Под вечным куполом небес,</l>
+                        <l n="12">Хоть говоривший мне о Риме</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,70 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Не искушай чужих наречий, но постарайся их забыть:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>«Не искушай чужих наречий, но постарайся их забыть...» (с. 196). — Струве, с. 612, без ст. 3 — 4. В СССР — Избр., с. 248 (по ТС), с разночт. в ст. 9: «А в наказанье». Печ. по ВС.
+См. коммент. к предыдущему ст-нию.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Не искушай чужих наречий, но постарайся их забыть:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Не искушай чужих наречий, но постарайся их забыть:</l>
+                        <l n="2">Ведь все равно ты не сумеешь стекло зубами укусить.</l>
+                        <l n="3">О, как мучительно дается чужого клекота полет —</l>
+                        <l n="4">За беззаконные восторги лихая плата стережет.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Ведь умирающее тело и мыслящий бессмертный рот</l>
+                        <l n="6">В последний раз перед разлукой чужое имя не спасет.</l>
+                        <l n="7">Что, если Ариост и Tacco, обворожающие нас,</l>
+                        <l n="8">Чудовища с лазурным мозгом и чешуей из влажных глаз?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Золотой</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Золотой</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Золотой</l>
+                        <l n="2">Целый день сырой осенний воздух</l>
+                        <l n="3">Я вдыхал в смятеньи и тоске.</l>
+                        <l n="4">Я хочу поужинать, и звезды</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Золотые в темном кошельке!</l>
+                        <l n="6">И, дрожа от желтого тумана,</l>
+                        <l n="7">Я спустился в маленький подвал.</l>
+                        <l n="8">Я нигде такого ресторана</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И такого сброда не видал!</l>
+                        <l n="10">Мелкие чиновники, японцы,</l>
+                        <l n="11">Теоретики чужой казны...</l>
+                        <l n="12">За прилавком щупает червонцы</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Человек, — и все они пьяны.</l>
+                        <l n="14">Убедительно его прошу, —</l>
+                        <l n="15">Только мне бумажек не давайте —</l>
+                        <l n="16">Трехрублевок я не выношу!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Что мне делать с пьяною оравой?</l>
+                        <l n="18">Как попал сюда я, Боже мой?</l>
+                        <l n="19">Если я на то имею право, —</l>
+                        <l n="20">Разменяйте мне мой золотой!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

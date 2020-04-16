@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Как тень внезапных облаков.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*14. А. 1911. № 5. — С, с купюрой в ст. 10—12 (см. в преамбуле к “Воронежским тетрадям” о “гибельных” стихах). Печ. по А. Послано Вяч. Иванову из Целендорфа 5(18) авг. 1910 г. (автограф в РГБ; см. примеч. 338). Автограф допечатной редакции в собр. Е. Эткинда (БП, с. 257). Автограф и машинопись с датой (AM). Автограф из верстки С (РНБ, ф. 474).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Как тень внезапных облаков.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Как тень внезапных облаков.</l>
+                        <l n="2">Морская гостья налетела</l>
+                        <l n="3">И, проскользнув, прошелестела</l>
+                        <l n="4">Смущенных мимо берегов.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Огромный парус строго реет;</l>
+                        <l n="6">Смертельно-бледная волна</l>
+                        <l n="7">Отпрянула — и вновь она</l>
+                        <l n="8">Коснуться берега не смеет;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И лодка, волнами шурша,</l>
+                        <l n="10">Как листьями,— уже далёко...</l>
+                        <l n="11">И, принимая ветер рока,</l>
+                        <l n="12">Раскрыла парус свой душа.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

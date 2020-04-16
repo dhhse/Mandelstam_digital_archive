@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>От легкой жизни мы сошли с ума:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*382. Альманах муз. Пг., 1916, с цензурной заменой слова “пьяная” (ст. 4) на “нежная”. Печ. по Т, с устранением опечатки и с датой по первой публ. Автограф ранней редакции с правкой, датой /10 ноября/ и зачеркнутым посвящением /Юрочке милому/ (Ю. Юркуну?) (AM). Юркун — см. примеч. 448. Тот, у кото тревожно-красный рот...
+644
+челка. По чертам внешнего облика здесь угадывается Г. Иванов, об этом писала также И. Одоевцева (36, с. 147).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>От легкой жизни мы сошли с ума:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">От легкой жизни мы сошли с ума:</l>
+                        <l n="2">С утра вино, а вечером похмелье.</l>
+                        <l n="3">Как удержать напрасное веселье,</l>
+                        <l n="4">Румянец твой, о пьяная чума?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В пожатьи рук мучительный обряд,</l>
+                        <l n="6">На улицах ночные поцелуи —</l>
+                        <l n="7">Когда речные тяжелеют струи</l>
+                        <l n="8">И фонари, как факелы, горят.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Мы смерти ждем, как сказочного волка,</l>
+                        <l n="10">Но я боюсь, что раньше всех умрет</l>
+                        <l n="11">Тот, у кого тревожно-красный рот</l>
+                        <l n="12">И на глаза спадающая челка.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Гончарами велик остров синий —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Затем (за “Длинной жажды должник виноватый...”) “Гончарами велик остров синий...” [с. 252]: дельфины — излюбленный мотив критских росписей, текучая богиня — от гипотезы о матриархате на Крите, а волоокое (небо), летучая рыба и вода, говорящая “да”, еще раз напоминают о критском стиле в “Похищении Европы” Серова (ср. “С розовой пеной усталости...”). Выздоравливай же — обращение к НЯМ.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Гончарами велик остров синий —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Гончарами велик остров синий —</l>
+                        <l n="2">Крит зеленый. Запекся их дар</l>
+                        <l n="3">В землю звонкую. Слышишь дельфиний</l>
+                        <l n="4">Плавников их подземный удар?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Это море легко на помине</l>
+                        <l n="6">В осчастливленной обжигом глине,</l>
+                        <l n="7">И сосуда студеная власть</l>
+                        <l n="8">Раскололась на море и страсть.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Ты отдай мне мое, остров синий,</l>
+                        <l n="10">Крит летучий, отдай мне мой труд</l>
+                        <l n="11">И сосцами текучей богини</l>
+                        <l n="12">Воскорми обожженный сосуд...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Это было и пелось, синея,</l>
+                        <l n="14">Много задолго до Одиссея,</l>
+                        <l n="15">До того, как еду и питье</l>
+                        <l n="16">Называли “моя” и “мое”.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Выздоравливай же, излучайся,</l>
+                        <l n="18">Волоокого неба звезда,</l>
+                        <l n="19">И летучая рыба — случайность,</l>
+                        <l n="20">И вода, говорящая “да”.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

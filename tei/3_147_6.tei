@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Обороняет сон мою донскую сонь,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>От этого стихотворения (“Когда б я уголь взял для высшей похвалы...” ) отделились два других, с видом на Красную площадь с танковым парадом (черепах маневры) под бой кремлевских часов и радиопение “Интернационала” — “Обороняет сон мою донскую сонь...” [с. 188] </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Обороняет сон мою донскую сонь,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Обороняет сон мою донскую сонь,</l>
+                        <l n="2">И разворачиваются черепах маневры —</l>
+                        <l n="3">Их быстроходная взволнованная бронь</l>
+                        <l n="4">И любопытные ковры людского говора...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И в бой меня ведут понятные слова —</l>
+                        <l n="6">За оборону жизни — оборону</l>
+                        <l n="7">Страны — земли, где смерть уснет, как днем сова…</l>
+                        <l n="8">Стекло Москвы горит меж ребрами гранеными.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Необоримые кремлевские слова —</l>
+                        <l n="10">В них оборона обороны</l>
+                        <l n="11">И брони боевой — и бровь, и голова</l>
+                        <l n="12">Вместе с глазами полюбовно собраны.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

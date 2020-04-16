@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда показывают восемь </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>246. “Гиперборей”, 1912, № 3 (декабрь), с. 10. В авт. сборники не включалось. Скиния — см. примеч. К № 60.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда показывают восемь </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда показывают восемь </l>
+                        <l n="2">Часы собора-исполина, </l>
+                        <l n="3">Мы в полусне твой призрак носим, </l>
+                        <l n="4">Чужого города картина.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В руках плетеные корзинки, </l>
+                        <l n="6">Служанки спорят с продавцами, </l>
+                        <l n="7">Воркуют голуби на рынке </l>
+                        <l n="8">И плещут сизыми крылами.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Хлеба, серебряные рыбы, </l>
+                        <l n="10">Плоды и овощи простые, </l>
+                        <l n="11">Крестьяне — каменные глыбы, </l>
+                        <l n="12">И краски темные, живые.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">А в сетке пестрого тумана </l>
+                        <l n="14">Сгрудилась ласковая стая, </l>
+                        <l n="15">Как будто площадь утром рано — </l>
+                        <l n="16">Торговли скиния святая.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

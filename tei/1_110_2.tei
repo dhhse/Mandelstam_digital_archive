@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>БАХ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Бах (с. 86). — Гиперборей, 1913, №9-10 (ноябрь — декабрь), с. 31, вторым в цикле со ст-ниями “Анне Ахматовой” (см. “Ахматова”) и “Мы напряженного молчанья не выносим...”. К-16, с. 49 — 50. К-16(Ав.). К-23, с. 43 — 44. С, с. 49 — 50. БП, №41. Автографы — АЛ и AM. Печ. по К-16.
+463
+Ср. статью “Утро акмеизма” (II, 145). Ликуешь, как Исайя. — “Исайя, ликуй” — церковное песнопение, исполняемое при венчании. И доски вместо образов — аллюзия подчеркнутой простоты убранства протестантских храмов. Мелом... цифрьх значатся псалмов — характерная деталь протестантских храмов: запись псалмов, исполняющихся в данный день.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>БАХ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">БАХ</l>
+                        <l n="2">Здесь прихожане — дети праха</l>
+                        <l n="3">И доски вместо образов,</l>
+                        <l n="4">Где мелом — Себастьяна Баха</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Лишь цифры значатся псалмов.</l>
+                        <l n="6">Разноголосица какая</l>
+                        <l n="7">В трактирах буйных и в церквах,</l>
+                        <l n="8">А ты ликуешь, как Исайя,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">О, рассудительнейший Бах!</l>
+                        <l n="10">Высокий спорщик, неужели,</l>
+                        <l n="11">Играя внукам свой хорал,</l>
+                        <l n="12">Опору духа в самом деле</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Ты в доказательстве искал?</l>
+                        <l n="14">Что звук? Шестнадцатые доли,</l>
+                        <l n="15">Органа многосложный крик —</l>
+                        <l n="16">Лишь воркотня твоя, не боле,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">О, несговорчивый старик!</l>
+                        <l n="18">И лютеранский проповедник</l>
+                        <l n="19">На черной кафедре своей</l>
+                        <l n="20">С твоими, гневный собеседник,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

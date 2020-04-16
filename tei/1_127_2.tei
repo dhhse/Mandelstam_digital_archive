@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Отравлен хлеб, и воздух выпит.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Отравлен хлеб, и воздух выпит...” (с. 91). — Новая жизнь, 1914, № 1, с. 6. К-16, с. 61. К-16(Ав.). К-23, с. 55. С, 62. БП, № 48. Автографы — AM (с датой “1913”), альбом Ю. И. Юркуна (с датой “1913”) — альбом Л. А. Глезера, сообщ. А. Е. Парнисом, и собр. Ю. Ф. Львовой (ГПБ — сообщ. А. А. Смольевским). Печ. по AM.
+По мнению В. Я. Мордерер, ст-ние является прямым откликом поэта на “дело Бейлиса” (октябрь — ноябрь 1913 г.)</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Отравлен хлеб, и воздух выпит.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Отравлен хлеб, и воздух выпит.</l>
+                        <l n="2">Как трудно раны врачевать!</l>
+                        <l n="3">Иосиф, проданный в Египет,</l>
+                        <l n="4">Не мог сильнее тосковать!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Под звездным небом бедуины,</l>
+                        <l n="6">Закрыв глаза и на коне,</l>
+                        <l n="7">Слагают вольные былины</l>
+                        <l n="8">О смутно пережитом дне.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Немного нужно для наитий:</l>
+                        <l n="10">Кто потерял в песке колчан,</l>
+                        <l n="11">Кто выменял коня — событий</l>
+                        <l n="12">Рассеивается туман.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И, если подлинно поется</l>
+                        <l n="14">И полной грудью, наконец,</l>
+                        <l n="15">Все исчезает — остается</l>
+                        <l n="16">Пространство, звезды и певец!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

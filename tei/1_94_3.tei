@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я не поклонник радости предвзятой,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>31. Г. 1912. № 3. Беловой автограф (АЛ) с датой /Май 1912/. Здесь и в Г — без загл. Печ. под загл. согласно С. Я не поклонник радости предвзятой. Речь идет об отношении к тезису “радости” (“жизнеутверждения”) в разрабатывавшейся в это время программе акмеизма (54, с. 29). Душа висит над бездною проклятой. Реминисценция из ст-ния Тютчева “Святая ночь на небосклон взошла...”: “В душе своей, как в бездне, погружен...” (55, с. 16).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я не поклонник радости предвзятой,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я не поклонник радости предвзятой,</l>
+                        <l n="2">Подчас природа — серое пятно;</l>
+                        <l n="3">Мне, в опьяненьи легком, суждено</l>
+                        <l n="4">Изведать краски жизни небогатой.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Играет ветер тучею косматой,</l>
+                        <l n="6">Ложится якорь на морское дно,</l>
+                        <l n="7">И бездыханная, как полотно,</l>
+                        <l n="8">Душа висит над бездною проклятой.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Но я люблю на дюнах казино,</l>
+                        <l n="10">Широкий вид в туманное окно</l>
+                        <l n="11">И тонкий луч на скатерти измятой;</l>
+                        <l n="12">И, окружен водой зеленоватой,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

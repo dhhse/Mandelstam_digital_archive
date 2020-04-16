@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В тот вечер не гудел стрельчатый лес органа, </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>84. “Ипокрена”, 1918, № 2—3, с. 28; Т, с датой: 1918. Печ. По С, с. 115, где восстановлен первопечатный текст. 7 мая 1918 г. Мандельштам записал в альбом В. И. Кривича-Анненского (ЦГАЛИ) текст стих. с эпиграфом из стих. Гейне (“Книга песен”, цикл “Опять на родине”, 20): “Du Doppelganger! Du bleicher Geselle!”. Там же записана и зачеркнута дата написания: январь 1918 г. По сообщению А. А. Ахматовой, стих. написано в связи с посещением консерватории, где был вечер песен Шуберта (исполнительница — О. Н. Бутомо-Названова). Образы стих. навеяны песнями Шуберта:  “Прекрасная мельничиха”, “Лесной царь” и “Двойник”.
+274
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В тот вечер не гудел стрельчатый лес органа, </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В тот вечер не гудел стрельчатый лес органа, </l>
+                        <l n="2">Нам пели Шуберта, — родная колыбель, </l>
+                        <l n="3">Шумела мельница, и в песнях урагана </l>
+                        <l n="4">Смеялся музыки голубоглазый хмель.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Старинной песни мир, коричневый, зеленый, </l>
+                        <l n="6">Но только вечно-молодой, </l>
+                        <l n="7">Где соловьиных лип рокочущие кроны </l>
+                        <l n="8">С безумной яростью качает царь лесной.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И сила страшная ночного возвращенья </l>
+                        <l n="10">Та песня дикая, как черное вино: </l>
+                        <l n="11">Это двойник, пустое привиденье, </l>
+                        <l n="12">Бессмысленно глядит в холодное окно!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

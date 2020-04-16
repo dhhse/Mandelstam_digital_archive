@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я ненавижу свет </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>27. К1, с. 15. В беловом автографе первоначальной редакции
+строфа 2:
+Мстителем, камень, будь, 
+Кружевом острым стань: 
+Неба пустую грудь 
+Тонкой иглою рань!
+Тематические и образные параллели — в статье Мандельштама “Утро акмеизма” (1913): “Строить — значит бороться с пустотой, гипнотизировать пространство. Хорошая стрела готической колокольни —
+258
+злая, потому что весь ее смысл уколоть небо, попрекнуть его тем, что оно пусто” (“Сирена”, Воронеж, 1919, № 4—5, с. 71).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я ненавижу свет </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я ненавижу свет </l>
+                        <l n="2">Однообразных звезд. </l>
+                        <l n="3">Здравствуй, мой давний бред, — </l>
+                        <l n="4">Башни стрельчатой рост!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Кружевом, камень, будь </l>
+                        <l n="6">И паутиной стань, </l>
+                        <l n="7">Неба пустую грудь </l>
+                        <l n="8">Тонкой иглою рань!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Будет и мой черед, — </l>
+                        <l n="10">Чую размах крыла. </l>
+                        <l n="11">Так, но куда уйдет </l>
+                        <l n="12">Мысли живой стрела?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Или, свой путь и срок, </l>
+                        <l n="14">Я, исчерпав, вернусь: </l>
+                        <l n="15">Там — я любить не мог, </l>
+                        <l n="16">Здесь — я любить боюсь…</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

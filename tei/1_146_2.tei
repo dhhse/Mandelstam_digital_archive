@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ENCYCLYCA*</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Encyclyca (с. 99). — Невский альманах. Писатели и художники жертвам войны. Вып. I. Пг., 1915, с. 58. К-16, с. 73. К-16(Ав.). БП, № 266. Автограф под загл. “К энциклике папы Бенедикта XV” с датой “сентябрь 1914” — в архиве П. Н. Щеголева (ИРЛИ, ф. 627, оп. 2, ед. хр. 19, л. 2). Автограф под загл. “Encyclyca” и с датой “1914” — AM. Печ. по К-16.
+Написано в связи с увещевающей и миротворческой энцикликой от 26 августа 1914 г. папы Бенедикта XV, возведенного в сан 25 мая 1914 г. Позднее Бенедикт XV выступил с протестом против разрушения Германией Реймского собора. См.: Швейцер-82, с. 249 — 250.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ENCYCLYCA*</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ENCYCLYCA*</l>
+                        <l n="2">Есть обитаемая духом</l>
+                        <l n="3">Свобода — избранных удел.</l>
+                        <l n="4">Орлиным зреньем, дивным слухом</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Священник римский уцелел.</l>
+                        <l n="6">И голубь не боится грома,</l>
+                        <l n="7">Которым церковь говорит;</l>
+                        <l n="8">В апостольском созвучьи: Roma! —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Он только сердце веселит.</l>
+                        <l n="10">Я повторяю это имя</l>
+                        <l n="11">Под вечным куполом небес,</l>
+                        <l n="12">Хоть говоривший мне о Риме</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

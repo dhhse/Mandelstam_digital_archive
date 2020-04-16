@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ПЕРЕД ВОЙНОЙ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Перед войной (с. 297). — Аполлон, 1914, № 6-7 (август — сентябрь), с. 12, под загл. “Перед войной”, без даты. К-16, с. 65, без загл., с датой “1914”. К-23, с. 60, под загл. “1913” (по смыслу соответствующим загл. в “Аполлоне”), без даты. С, с. 64, под загл. “1913”, без даты. БП, № 264. Беловой автограф с датой “1914” — АЛ. Печ. по “Аполлону”.
+Единственное ст-ние, вычеркнутое Мандельштамом в Воронеже в обоих авторских экз-рах С; на этом основании вынесено в наст, раздел. Недоносок — король Италии Виктор Эммануил III (1869 — 1947), отличавшийся малым ростом.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ПЕРЕД ВОЙНОЙ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ПЕРЕД ВОЙНОЙ</l>
+                        <l n="2">Ни триумфа, ни войны!</l>
+                        <l n="3">О, железные, доколе</l>
+                        <l n="4">Безопасный Капитолий</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Мы хранить осуждены?</l>
+                        <l n="6">Или, римские перуны —</l>
+                        <l n="7">Гнев народа! — обманув,</l>
+                        <l n="8">Отдыхает острый клюв</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Той ораторской трибуны?</l>
+                        <l n="10">Или возит кирпичи</l>
+                        <l n="11">Солнца дряхлая повозка</l>
+                        <l n="12">И в руках у недоноска</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

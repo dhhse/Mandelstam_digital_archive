@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Улыбнись, ягненок гневный с Рафаэлева холста,—</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>256. СС-1. Т. 1. Печ. по списку Н.Я. Мандельштам (AM). Второй список с датой (AM). HK. В Списке Линецкой датировано (ошибочно?) 2 янв. С Рафаэлева холста. Речь идет, по-видимому, о “Мадонне Конестабиле”, где есть “тростинки рощ”; также отразилась “Мадонна Литта” Леонардо да Винчи (28, с. 279), откуда, вероятно, впечатления от облаков, переданные образом: “плывет углами неба Восхитительная мощь”. Ягненок гневный. Подразумевается младенец на руках у Мадонны — “агнец божий”; атрибут “гневный” прилагается в Библии к Богу-отцу.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Улыбнись, ягненок гневный с Рафаэлева холста,—</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Улыбнись, ягненок гневный с Рафаэлева холста,—</l>
+                        <l n="2">На холсте уста вселенной, но она уже не та...</l>
+                        <l n="3">В легком воздухе свирели раствори жемчужин боль —</l>
+                        <l n="4">В синий, синий цвет синели океана въелась соль...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Цвет воздушного разбоя и пещерной густоты,</l>
+                        <l n="6">Складки бурного покоя на коленях разлиты.</l>
+                        <l n="7">На скале черствее хлеба — молодых тростинки рощ,</l>
+                        <l n="8">И плывет углами неба восхитительная мощь.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

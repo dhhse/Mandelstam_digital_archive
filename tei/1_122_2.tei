@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ФУТБОЛ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Футбол (с. 294). — Новый Сатирикон, 1914, № 30 (24 июля), с. 3, с концовкой: “Юдифь глумилась и враги”. БП № 256, где дано по беловому автографу с датой “1913” (AM). Первоначальная редакция, общая для этого и следующего ст-ния, — АИ (см. Приложения). Печ. по БП.
+Юдифь — красавица иудейка, освободившая свой народ от ассирийского гнета: проникнув в шатер полководца Олоферна, она усыпила его и отрубила ему голову. Ср. также картину Джорджоне “Юдифь, попирающая ногой отрубленную голову Олоферна” (упоминается в ”ЕМ”). По свидетельству В. Пяста, образ Юдифи был вызван одной из постоянных посетительниц кабаре “Бродячая собака” (Пяст В. Встречи. М., 1929, с. 255).
+578</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ФУТБОЛ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ФУТБОЛ</l>
+                        <l n="2">Телохранитель был отравлен.</l>
+                        <l n="3">В неравной битве изнемог,</l>
+                        <l n="4">Обезображен, обесславлен,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Футбола толстокожий бог.</l>
+                        <l n="6">И с легкостью тяжеловеса</l>
+                        <l n="7">Удары отбивал боксер:</l>
+                        <l n="8">О, беззащитная завеса,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Неохраняемый шатер!</l>
+                        <l n="10">Должно быть, так толпа сгрудилась,</l>
+                        <l n="11">Когда, мучительно жива,</l>
+                        <l n="12">Не допив кубка, покатилась</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">К ногам тупая голова.</l>
+                        <l n="14">Неизъяснимо лицемерно</l>
+                        <l n="15">Не так ли кончиком ноги</l>
+                        <l n="16">Над теплым трупом Олоферна</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

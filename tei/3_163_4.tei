@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я в львиный ров и в крепость погружен </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>211. Печ. впервые по авториз. списку. Авториз. список первоначальной редакции. Густого голоса низинами. Имеется в виду Марион Андерсон, известная американская певица.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я в львиный ров и в крепость погружен </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я в львиный ров и в крепость погружен </l>
+                        <l n="2">И опускаюсь ниже, ниже, ниже </l>
+                        <l n="3">Под этих звуков ливень дрожжевой — </l>
+                        <l n="4">Сильнее льва, мощнее Пятикнижья.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Как близко, близко твой подходит зов — </l>
+                        <l n="6">До заповедей роды и первины — </l>
+                        <l n="7">Океанийских низка жемчугов </l>
+                        <l n="8">И таитянок кроткие корзины...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Карающего пенья материк, </l>
+                        <l n="10">Густого голоса низинами надвинься! </l>
+                        <l n="11">Богатых дочерей дикарско-сладкий вид</l>
+                        <l n="12">Не стоит твоего — праматери — мизинца.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Не ограничена еще моя пора: </l>
+                        <l n="14">И я сопровождал восторг вселенский </l>
+                        <l n="15">Как вполголосная органная игра </l>
+                        <l n="16">Сопровождает голос женский.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

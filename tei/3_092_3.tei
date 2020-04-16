@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Это какая улица?</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>ВРСХД. 1964. ? 72/73. Печ. по записи Н.Я. Мандельштам (AM, позднее 1938 г.). Датируется по Своду, с. 141. По свидетельству Н.Я.Мандельштам, ст-ние считалось шуточным. “Третья строчка второй строфы первоначально была: „Жил он на улице Ленина"... Этой строчки Мандельштам испугался... и мы решили ее „позабыть". Стишок же записывали шифром, так как любую улицу называть своим именем ссыльному было опасно” (28, с. 252). В ст. 6, 8—9 обыгрывается название и местоположение 2-й Линейной ул. (от “линии” железной дороги), шедшей по откосу к железнодорожным путям; другим концом она выходила
+608
+вблизи ул. Ленина. Во время одного из приездов в Москву Н.Я. Мандельштам читала эти стихи С.Клычкову (6, с. 92).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Это какая улица?</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Это какая улица?</l>
+                        <l n="2">Улица Мандельштама,</l>
+                        <l n="3">Что за фамилия чертова!</l>
+                        <l n="4">Как ее ни вывертывай,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Криво звучит, а не прямо.</l>
+                        <l n="6">Мало в нем было линейного,</l>
+                        <l n="7">Нрава он не был лилейного,</l>
+                        <l n="8">И потому эта улица</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Или, верней, эта яма</l>
+                        <l n="10">Так и зовется по имени</l>
+                        <l n="11">Этого Мандельштама.</l>
+                        <l n="12">Апрель 1935</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

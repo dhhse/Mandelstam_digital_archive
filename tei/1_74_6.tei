@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Дождик ласковый, мелкий и тонкий,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Обычный фон этих стихотворений — одинокие прогулки, осень, сумерки, туман, небо, отраженное в озере, в небе кружащаяся ласточка, над водой кружащиеся стрекозы (замкнутый, безвыходный мир); шелест, застывающий в тишину (Отчего так мало музыки И такая тишина?); медная луна в небе, печальная нежность и забытье в сердце; если дождь, то такой мелкий, что можно проследить за каждой каплей &lt;...&gt; “Дождик ласковый, мелкий и тонкий...” [с. 237], </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Дождик ласковый, мелкий и тонкий,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Дождик ласковый, мелкий и тонкий,</l>
+                        <l n="2">Осторожный, колючий, скупой...</l>
+                        <l n="3">Капли строгие грустны и звонки,</l>
+                        <l n="4">И отточен их звук тишиной.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Я рожден провидением темным,</l>
+                        <l n="6">Чтоб созреть и упасть как-нибудь,</l>
+                        <l n="7">И подхвачены нежно-огромным</l>
+                        <l n="8">Ветром струи: не думай, забудь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я — ребенок, покинутый в зыбке,</l>
+                        <l n="10">В терпком мире я горестно-дик,</l>
+                        <l n="11">И сольются в бездонной улыбке</l>
+                        <l n="12">Вся жестокость, вся кротость на миг.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">В цепких лапах у царственной скуки</l>
+                        <l n="14">Сердце сжалось, как маленький мяч:</l>
+                        <l n="15">Полон музыки, Музы и муки</l>
+                        <l n="16">Жизни тающей сладостный плач!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>АББАТ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Стих. “Аббат” [с. 144] точно так же построено на полукомическом несоответствии былой значительности фигуры аббата (остаток власти Рима) и его современным положением приживала в замке; кульминация — чтение философских сочинений Цицерона перед сном — обозначается трогательным старофранцузским выражением “птицы поют на своей латыни”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>АББАТ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">АББАТ</l>
+                        <l n="2">Переменилось все земное:</l>
+                        <l n="3">И лишь не сбросила земля</l>
+                        <l n="4">Сутану римского покроя</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И ваше золото, поля.</l>
+                        <l n="6">И самый скромный современник,</l>
+                        <l n="7">Как жаворонок, Жамм поет, —</l>
+                        <l n="8">Ведь католический священник</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Ему советы подает!</l>
+                        <l n="10">Священник слышит пенье птичье</l>
+                        <l n="11">И всякую живую весть.</l>
+                        <l n="12">Питает все его величье</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Сияющей тонзуры честь.</l>
+                        <l n="14">Свет дивный от нее исходит,</l>
+                        <l n="15">Когда он вечером идет</l>
+                        <l n="16">Иль по утрам на рынке бродит</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">И милостыню подает.</l>
+                        <l n="18">Я поклонился, он ответил</l>
+                        <l n="19">Кивком учтивым головы</l>
+                        <l n="20">И, говоря со мной, заметил:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И в толщь унынья и безделья</l>
+                        <l n="22">Какой врезается алмаз,</l>
+                        <l n="23">Когда мы вспомним новоселье,</l>
+                        <l n="24">Что в Риме ожидает нас!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Там каноническое счастье,</l>
+                        <l n="26">Как солнце, стало на зенит,</l>
+                        <l n="27">И никакое самовластье</l>
+                        <l n="28">Ему сиять не запретит.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">О, жаворонок, гибкий пленник,</l>
+                        <l n="30">Кто лучше песнь твою поймет,</l>
+                        <l n="31">Чем католический священник</l>
+                        <l n="32">В июле, в урожайный год!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

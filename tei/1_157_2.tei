@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Уничтожает пламень</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Уничтожает пламень...” (с. 101). — Рудин, 1916, № 8 (апрель — май), с. 9. К-16(Ав.) (в оглавлении). Т, с. 51, без даты. Красная новь, 1922, № 4 (июль — август), с. 28. К-23, с. 73. С, с. 80, с датой “1914”. БП, № 61, с датой “1915”. Список рукой С. П. Каблукова первоначальной редакции, с датой “1915” и с еще двумя, заключительными строфами, — К-16(Ка6л.) (см. Приложения). Два списка Л. Рейснер — без разночт. и с разночт. в ст. 1: “Снедает горний пламень” и ст. 2 — 4: “Сегодня я не камень, // Но дерево пою” — в архиве Л. М. Рейснер (ГБЛ, ф. 245, к. 1, ед. хр. 6). Авториз. список — в архиве 3. Никитиной (ЦГАЛИ, ф. 341, оп. 1, ед. хр. 536). Печ. по ж. “Рудин”, дата и пунктуация — по К-16(Кабл.).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Уничтожает пламень</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Уничтожает пламень</l>
+                        <l n="2">Сухую жизнь мою,</l>
+                        <l n="3">И ныне я не камень,</l>
+                        <l n="4">А дерево пою.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Оно легко и грубо.</l>
+                        <l n="6">Из одного куска</l>
+                        <l n="7">И сердцевина дуба,</l>
+                        <l n="8">И весла рыбака.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Вбивайте крепче сваи,</l>
+                        <l n="10">Стучите, молотки,</l>
+                        <l n="11">О деревянном рае,</l>
+                        <l n="12">Где вещи так легки.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Поведайте пустыне</l>
+                        <l n="14">О дереве креста;</l>
+                        <l n="15">В глубокой сердцевине</l>
+                        <l n="16">Какая красота!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Из дерева простого</l>
+                        <l n="18">Я смастерил челнок,</l>
+                        <l n="19">И ничего иного</l>
+                        <l n="20">Я выдумать не мог.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

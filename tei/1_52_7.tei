@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда укор колоколов</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“КОГДА УКОР КОЛОКОЛОВ...”
+Печатается по беловому автографу, посланному Вяч. Иванову 5 (18) августа 1910 г. Впервые — ВРСХД. 1970. № 97. Автограф с правкой (ДнКабл); здесь первоначальная редакция ст. 1: /Когда полынь колоколов/ и ст. 6—8: /Вином, и крепче, и тяжеле// Поглощены остатки хмеля, // Который мною сбережен./.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда укор колоколов</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда укор колоколов</l>
+                        <l n="2">Нахлынет с древних колоколен,</l>
+                        <l n="3">И, самый воздух гулом болен,</l>
+                        <l n="4">И нету ни молитв, ни слов —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Я уничтожен, заглушён.</l>
+                        <l n="6">Вино, и крепче, и тяжеле,</l>
+                        <l n="7">Сердечного коснулось хмеля —</l>
+                        <l n="8">И снова я неутолен.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я не хочу моих святынь,</l>
+                        <l n="10">Мои обеты я нарушу:</l>
+                        <l n="11">И мне переполняет душу</l>
+                        <l n="12">Неизъяснимая полынь.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

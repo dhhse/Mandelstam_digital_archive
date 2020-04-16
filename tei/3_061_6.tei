@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Друг Ариоста, друг Петрарки, Tacca друг —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>горькое сознание, что многое из смысла еще ускользает. Об этом — стих. «Не искушай чужих наречий, но постарайся их забыть...» [с. 148], где стекло зубами укусить значит: недопонятые речи чужого языка останутся не пищей (не вином?) для души, а лишь зрелищем, скрытым за витриной (за стеклом бокала?); наше восхищение этой поэзией беззаконно, прекрасное на слух может оказаться чудовищным на деле: чешуя из глаз — образ из Апокалипсиса, 4, 6 и мифа об Аргусе. Тот же образ недостижимой пищи духовной обозначен уксусной губкой, протянутой Христу на кресте (Мф. 27. 48). Об этом же — четырехстишие «Друг Ариоста, друг Петрарки, Tacca друг...» [с. 148], отколовшееся от стих. «Ариост» (прелестные двойчатки — рифмы, солено-сладкий — реминисценция из мандельштамовского перевода 164 сонета Петрарки).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Друг Ариоста, друг Петрарки, Tacca друг —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Друг Ариоста, друг Петрарки, Tacca друг —</l>
+                        <l n="2">Язык бессмысленный, язык солено-сладкий</l>
+                        <l n="3">И звуков стакнутых прелестные двойчатки...</l>
+                        <l n="4">Боюсь раскрыть ножом двустворчатый жемчуг!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

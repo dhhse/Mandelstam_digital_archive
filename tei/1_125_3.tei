@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я выстроил себе благополучья дом:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>384. Голос жизни. 1915. № 25. Печ. по тексту: Новый Сатирикон. 1916. № 27. Датируется на основании стилистической близости с одноименным ст-нием (см. примеч. 373). В первой публ. и ККабл с мелкими разночтениями (описками?).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я выстроил себе благополучья дом:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я выстроил себе благополучья дом:</l>
+                        <l n="2">Он весь из дерева, и ни куска гранита!</l>
+                        <l n="3">И царская его осматривала свита —</l>
+                        <l n="4">Там виноградники, цветник и водоем.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Чтоб воздух проникал в удобное жилье,</l>
+                        <l n="6">Я вынул три стены в преддверьи легкой</l>
+                        <l n="7">клети,</l>
+                        <l n="8">И безошибочно я выбрал пальмы эти</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Краеугольными — прямые, как копье.</l>
+                        <l n="10">Кто может описать чиновника доход?</l>
+                        <l n="11">Бессмертны высокопоставленные лица.</l>
+                        <l n="12">Где управляющий? Готова ли гробница?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">В хозяйстве письменный я слушаю отчет.</l>
+                        <l n="14">Тяжелым жерновом мучнистое зерно</l>
+                        <l n="15">Приказано смолоть служанке низкорослой;</l>
+                        <l n="16">Священникам налог исправно будет послан;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Составлен протокол на хлеб и полотно.</l>
+                        <l n="18">В столовой на полу пес, растянувшись, лег,</l>
+                        <l n="19">И кресло прочное стоит на львиных лапах.</l>
+                        <l n="20">Я жареных гусей вдыхаю сладкий запах —</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

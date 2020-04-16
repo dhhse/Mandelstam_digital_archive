@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ЕГИПТЯНИН</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Египтянин (“Я избежал суровой пени...”) (с. 292). — Заветы, 1913, № 5, с. 12. Печ. по журналу.
+“Известно, что беседы с Шилейко вдохновили его &lt;Мандельштама. — П. Н.&gt; на стихотворение “Египтянин” (Ахматова, с. 189). См. вступ. статью.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ЕГИПТЯНИН</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ЕГИПТЯНИН</l>
+                        <l n="2">Я избежал суровой пени</l>
+                        <l n="3">И почестей достиг;</l>
+                        <l n="4">От радости мои колени</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Дрожали, как тростник.</l>
+                        <l n="6">И прямо в полы балахона,</l>
+                        <l n="7">Большие, как луна,</l>
+                        <l n="8">На двор с высокого балкона</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Бросали ордена.</l>
+                        <l n="10">То, что я сделал, превосходно —</l>
+                        <l n="11">И это сделал я!</l>
+                        <l n="12">И место новое доходно</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И прочно для житья.</l>
+                        <l n="14">И, предвкушая счастья глянец,</l>
+                        <l n="15">Я танцевал не зря</l>
+                        <l n="16">Изящный и отличный танец</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">В присутствии царя.</l>
+                        <l n="18">По воздуху летает птица.</l>
+                        <l n="19">Бедняк идет пешком.</l>
+                        <l n="20">Вельможе ехать не годится</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Дрянным сухим путем.</l>
+                        <l n="22">И, захватив с собой подарки</l>
+                        <l n="23">И с орденами тюк,</l>
+                        <l n="24">Как подобает мне, на барке</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

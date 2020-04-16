@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Что поют часы-кузнечик,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Что поют часы-кузнечик...” [с. 70] — “это мы вместе топим печку; у меня жар, я мерю температуру” (А. Ахматова): красный шелк огня в очаге, черный шелк дождливой ночи за окном, сам поэт в соловьиной горячке любви и творчества предчувствует близость смерти, челнок его жизни проточен, он тонет и с морского дна посылает своей любви (черемуха, бальмонтовский символ) последнее прости. Ласточка для ОМ — посредник между здешним миром и миром теней (ср. далее), дочка — может быть, Антигона, ведущая слепого отца — Эдипа к месту его упокоения. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Что поют часы-кузнечик,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Что поют часы-кузнечик,</l>
+                        <l n="2">Лихорадка шелестит,</l>
+                        <l n="3">И шуршит сухая печка, —</l>
+                        <l n="4">Это красный шелк горит.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Что зубами мыши точат</l>
+                        <l n="6">Жизни тоненькое дно, —</l>
+                        <l n="7">Это ласточка и дочка</l>
+                        <l n="8">Отвязала мой челнок.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Что на крыше дождь бормочет, —</l>
+                        <l n="10">Это черный шелк горит, </l>
+                        <l n="11">Но черемуха услышит</l>
+                        <l n="12">И на дне морском: прости.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Потому что смерть невинна,</l>
+                        <l n="14">И ничем нельзя помочь,</l>
+                        <l n="15">Что в горячке соловьиной</l>
+                        <l n="16">Сердце теплое еще.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

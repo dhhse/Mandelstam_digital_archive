@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Вооруженный зреньем узких ос,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Наконец, сливаясь с самой природой, он отождествляет себя с осами, впивающимися в суть мира (“Вооруженный зреньем узких ос...” [с. 188]; образ оси земной — из сталинской оды; вероятно, важно и созвучие с именами Осип и
+638
+Иосиф); концовка “О, если б и меня...” — из “Деревьев” Гумилева.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Вооруженный зреньем узких ос,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Вооруженный зреньем узких ос,</l>
+                        <l n="2">Сосущих ось земную, ось земную,</l>
+                        <l n="3">Я чую всё, с чем свидеться пришлось,</l>
+                        <l n="4">И вспоминаю наизусть и всуе...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И не рисую я, и не пою,</l>
+                        <l n="6">И не вожу смычком черноголосым:</l>
+                        <l n="7">Я только в жизнь впиваюсь и люблю</l>
+                        <l n="8">Завидовать могучим, хитрым осам.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">О, если б и меня когда-нибудь могло</l>
+                        <l n="10">Заставить — сон и смерть минуя —</l>
+                        <l n="11">Стрекало воздуха и летнее тепло</l>
+                        <l n="12">Услышать ось земную, ось земную.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

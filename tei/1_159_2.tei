@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>О свободе небывалой</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“О свободе небывалой...” (с. 104). — К-16, с. 82. К-16(Ав.). К-23, с. 82. С, с. 85. БП, № 65. Авториз. машинопись с датой “1915” и разночт. в ст. 12: “Я вовеки не сниму” — AM. Список с датой “1915” — К-16(Кабл.). Под загл. “Свобода” упом. в Каблуков, 24 июня 1915 г. Печ. по С.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>О свободе небывалой</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">О свободе небывалой</l>
+                        <l n="2">Сладко думать у свечи.</l>
+                        <l n="3">Верность плакала в ночи, — </l>
+                        <l n="4">Только я мою корону</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Возлагаю на тебя,</l>
+                        <l n="6">Чтоб свободе, как закону,</l>
+                        <l n="7">Подчинился ты, любя...</l>
+                        <l n="8">Обручен, и потому</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Эту легкую корону</l>
+                        <l n="10">Никогда я не сниму.</l>
+                        <l n="11">Нам ли, брошенным в пространстве,</l>
+                        <l n="12">Обреченным умереть,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

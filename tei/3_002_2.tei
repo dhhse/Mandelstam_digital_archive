@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Здесь людям является труд</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note> «Как бык шестикрылый и грозный...» (с. 160). — Литературная Армения, 1966, ? 1, с. 47, как эпиграф к циклу «Армения». БП, примеч. к ? 129 — 140. Первоначально — строфа 8 редакции IV ст-ния «Ты красок себе пожелала...» (? 2 в цикле «Армения») — см. Приложения; имеется и обособленная запись этого четверостишия (Семенко, с. 48 — 49). Автограф с датой «1930» — A3 (на одном листе со ст-нием «Помоги, Господь, эту ночь прожить...»). В ВС и ТС — как отдельное ст-ние, предшествующее циклу «Армения». Первоначально служило эпиграфом ко всему циклу, но было снято цензурой (НМ-III, с. 144). Печ. по A3.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Здесь людям является труд</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Здесь людям является труд</l>
+                        <l n="2">И, кровью набухнув венозной,</l>
+                        <l n="3">Предзимние розы цветут...</l>
+                        <l n="4">Октябрь 1930</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

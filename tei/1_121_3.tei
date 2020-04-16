@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда, пронзительнее свиста,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>48. Новый Сатирикон. 1914. № 7 (13 февр.). Датируется по К2. Беловой автограф (РГАЛИ) с датой /1914/, которая представляется менее вероятной. К сюжету “Домби и сына” поэт относится вольно, вплетая в ст-ние мотивы других романов Диккенса; такая поэтическая “игра” отвечала его замыслу (9, с. 369).
+533
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда, пронзительнее свиста,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда, пронзительнее свиста,</l>
+                        <l n="2">Я слышу английский язык —</l>
+                        <l n="3">Я вижу Оливера Твиста</l>
+                        <l n="4">Над кипами конторских книг.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">У Чарльза Диккенса спросите,</l>
+                        <l n="6">Что было в Лондоне тогда:</l>
+                        <l n="7">Контора Домби в старом Сити</l>
+                        <l n="8">И Темзы желтая вода.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Дожди и слезы. Белокурый</l>
+                        <l n="10">И нежный мальчик Домби-сын;</l>
+                        <l n="11">Веселых клерков каламбуры</l>
+                        <l n="12">Не понимает он один.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">В конторе сломанные стулья;</l>
+                        <l n="14">На шиллинги и пенсы счет;</l>
+                        <l n="15">Как пчелы, вылетев из улья,</l>
+                        <l n="16">Роятся цифры круглый год.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">А грязных адвокатов жало</l>
+                        <l n="18">Работает в табачной мгле —</l>
+                        <l n="19">И вот, как старая мочала,</l>
+                        <l n="20">Банкрот болтается в петле.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">На стороне врагов законы:</l>
+                        <l n="22">Ему ничем нельзя помочь!</l>
+                        <l n="23">И клетчатые панталоны,</l>
+                        <l n="24">Рыдая, обнимает дочь.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

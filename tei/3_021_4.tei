@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я вернулся в мой город, знакомый до слез,  </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>144. «Литературная газета», 1932, 23 ноября, под загл. «Ленинград». Печ. по авгориз. списку (1935). Два списка допечатной редакции с авторскими исправлениями —  собрание М. А. Зенкевича.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я вернулся в мой город, знакомый до слез,  </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я вернулся в мой город, знакомый до слез,  </l>
+                        <l n="2">До прожилок, до детских припухлых желез.</l>
+                        <l n="3">Ты вернулся сюда, — так глотай же скорей </l>
+                        <l n="4">Рыбий жир ленинградских речных фонарей.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Узнавай же скорее декабрьский денек, </l>
+                        <l n="6">Где к зловещему дегтю подмешан желток.</l>
+                        <l n="7">Петербург, я еще не хочу умирать: </l>
+                        <l n="8">У тебя телефонов моих номера.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Петербург, у меня еще есть адреса, </l>
+                        <l n="10">По которым найду мертвецов голоса.</l>
+                        <l n="11">Я на лестнице черной живу, и в висок </l>
+                        <l n="12">Ударяет мне вырванный с мясом звонок.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

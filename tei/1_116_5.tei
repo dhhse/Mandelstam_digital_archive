@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ЛЕТНИЕ СТАНСЫ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Акмеистическое признание посюстороннего мира как темы для стихов открывало возможность писать небольшие бытовые зарисовки, остранненные необычным образом или точкой зрения. &lt;...&gt;
+“Летние стансы” [с. 136] (вечер на набережной у Летнего сада) омрачены финальным образом “самоубийца молодой”. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ЛЕТНИЕ СТАНСЫ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ЛЕТНИЕ СТАНСЫ</l>
+                        <l n="2">В аллее колокольчик медный,</l>
+                        <l n="3">Французский говор, нежный взгляд —</l>
+                        <l n="4">И за решеткой заповедной</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Пустеет понемногу сад.</l>
+                        <l n="6">Что делать в городе в июне?</l>
+                        <l n="7">Не зажигают фонарей;</l>
+                        <l n="8">На яхте, на чухонской шхуне</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Уехать хочется скорей!</l>
+                        <l n="10">Нева — как вздувшаяся вена,</l>
+                        <l n="11">До утренних румяных роз.</l>
+                        <l n="12">Везя всклокоченное сено,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Плетется на асфальте воз.</l>
+                        <l n="14">А там рабочая землянка,</l>
+                        <l n="15">Трещит и варится смола;</l>
+                        <l n="16">Ломовика судьба-цыганка</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Обратно в степи привела...</l>
+                        <l n="18">И с бесконечной челобитной</l>
+                        <l n="19">О справедливости людской</l>
+                        <l n="20">Чернеет на скамье гранитной</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

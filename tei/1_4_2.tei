@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В непринужденности творящего обмена,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“В непринужденности творящего обмена...” (с. 262). — БП, № 2 (примеч.). Печ. по БП.
+Н. И. Харджиев называет это ст-ние “своеобразной поэтической декларацией молодого Мандельштама”. Благоговение перед Тютчевым и Верленом Мандельштам пронес через всю жизнь. Верлену была посвящена одна из первых, не дошедших до нас, статей поэта (см. в письме к В. В. Гиппиусу от 19 — 27 апреля 1908 г. — ЛО, 1986, № 9, с. 110). По свидетельству М. Карповича, Мандельштам читал ему вслух стихи Верлена по-французски и в своем переводе (Д-88, с. 111). Более подробно об отношении к Тютчеву см. в статьях: Тоддес Е. А. Мандельштам и Тютчев. — International Journal of Slavic Linguistics and Poetics, 1974, v. XVII, p. 59 — 85; Мусатов В. В. Мандельштам и Тютчев. — Творчество писателя и литературный процесс. Иваново, 1981, с. 189 — 205.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В непринужденности творящего обмена,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В непринужденности творящего обмена,</l>
+                        <l n="2">Суровость Тютчева — с ребячеством Верлэна —</l>
+                        <l n="3">Скажите — кто бы мог искусно сочетать,</l>
+                        <l n="4">Соединению придав свою печать?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

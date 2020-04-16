@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>СТАНСЫ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>СТАНСЫ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">СТАНСЫ</l>
+                        <l n="2">Необходимо сердцу биться:</l>
+                        <l n="3">Входить в поля, врастать в леса.</l>
+                        <l n="4">Вот «Правды» первая страница,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Вот с приговором полоса.</l>
+                        <l n="6">Дорога к Сталину — не сказка,</l>
+                        <l n="7">Но только — жизнь без укоризн:</l>
+                        <l n="8">Футбол — для молодого баска,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Мадрида пламенная жизнь.</l>
+                        <l n="10">Москва повторится в Париже,</l>
+                        <l n="11">Дозреют новые плоды,</l>
+                        <l n="12">Но я скажу о том, что ближе,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Нужнее хлеба и воды,</l>
+                        <l n="14">О том, как вырвалось однажды:</l>
+                        <l n="15">С тобой, дитя высокой жажды,</l>
+                        <l n="16">И мы его обороним:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Непобедимого, прямого,</l>
+                        <l n="18">С могучим смехом в грозный час,</l>
+                        <l n="19">Находкой выхода прямого</l>
+                        <l n="20">Ошеломляющего нас.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И ты прорвешься, может статься,</l>
+                        <l n="22">Сквозь чащу прозвищ и имен</l>
+                        <l n="23">И будешь сталинкою зваться</l>
+                        <l n="24">У самых будущих времен...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Но это ощущенье сдвига,</l>
+                        <l n="26">Происходящего в веках,</l>
+                        <l n="27">И эта сталинская книга</l>
+                        <l n="28">В горячих солнечных руках — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Да, мне понятно превосходство</l>
+                        <l n="30">И сила женщины — ее</l>
+                        <l n="31">Сознанье, нежность и сиротство</l>
+                        <l n="32">К событьям рвутся — в бытие.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="33">Она и шутит величаво,</l>
+                        <l n="34">И говорит, прощая боль,</l>
+                        <l n="35">И голубая нитка славы</l>
+                        <l n="36">В ее волос пробралась смоль.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="37">И материнская забота</l>
+                        <l n="38">Ее понятна мне — о том,</l>
+                        <l n="39">Чтоб ладилась моя работа</l>
+                        <l n="40">И крепла — на борьбу с врагом.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

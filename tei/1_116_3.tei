@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В аллее колокольчик медный,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>377. Журнал за 7 дней. 1913. № 35 (3 окт.). Датируется по стилистическим признакам.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В аллее колокольчик медный,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В аллее колокольчик медный,</l>
+                        <l n="2">Французский говор, нежный взгляд —</l>
+                        <l n="3">И за решеткой заповедной</l>
+                        <l n="4">Пустеет понемногу сад.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Что делать в городе в июне?</l>
+                        <l n="6">Не зажигают фонарей;</l>
+                        <l n="7">На яхте, на чухонской шхуне</l>
+                        <l n="8">Уехать хочется скорей!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Нева — как вздувшаяся вена,</l>
+                        <l n="10">До утренних румяных роз.</l>
+                        <l n="11">Везя всклокоченное сено,</l>
+                        <l n="12">Плетется на асфальте воз.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">А там рабочая землянка,</l>
+                        <l n="14">Трещит и варится смола;</l>
+                        <l n="15">Ломовика судьба-цыганка</l>
+                        <l n="16">Обратно в степи привела...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">И, с бесконечной челобитной</l>
+                        <l n="18">О справедливости людской,</l>
+                        <l n="19">Чернеет на скамье гранитной</l>
+                        <l n="20">Самоубийца молодой.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

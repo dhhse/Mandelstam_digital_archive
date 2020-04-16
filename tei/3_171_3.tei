@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Заблудился я в небе — что делать?</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>289. ВП. Альм. 2. Печ. но списку Н.Я. Мандельштам (AM). Датируется по СМ (в остальных источниках текста датировано 19 марта). АЧ. Список Линецкой. И. Семенко” предлагала, с согласия Н.Я. Мандельштам, конъектуру “вышний” вм. “высший” в ст. 14, однако правомерность этой
+630
+конъектуры нуждается в дополнительном обосновании, в частности, с точки зрения возможной связи с образами “Божественной комедии” Данте. См. примеч. 288.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Заблудился я в небе — что делать?</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Заблудился я в небе — что делать?</l>
+                        <l n="2">Тот, кому оно близко,— ответь! —</l>
+                        <l n="3">Легче было вам, Дантовых девять</l>
+                        <l n="4">Атлетических дисков, звенеть,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Задыхаться, чернеть, голубеть...</l>
+                        <l n="6">Если я не вчерашний, не зряшный —</l>
+                        <l n="7">Ты, который стоишь надо мной,—</l>
+                        <l n="8">Если ты виночерпий и чашник,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Дай мне силу без пены пустой</l>
+                        <l n="10">Выпить здравье кружащейся башни</l>
+                        <l n="11">Рукопашной лазури шальной...</l>
+                        <l n="12">Голубятни, черно?ты, скворешни,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Самых синих теней образцы —</l>
+                        <l n="14">Лед весенний, лед высший, лед вешний,</l>
+                        <l n="15">Облака — обаянья борцы,—</l>
+                        <l n="16">Тише: тучу ведут под уздцы!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

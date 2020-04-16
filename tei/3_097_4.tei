@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Переуважена, перечерна, вся в холе, </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>179. “Литературная Грузия”, 1967, ? 1, с. 69 (неточный текст). Печ. по беловому автографу. Беловой автограф первоначальной редакции.
+299
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Переуважена, перечерна, вся в холе, </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Переуважена, перечерна, вся в холе, </l>
+                        <l n="2">Вся в холках маленьких, вся воздух и призор, </l>
+                        <l n="3">Вся рассыпаючись, вся образуя хор, — </l>
+                        <l n="4">Комочки влажные моей земли и воли.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В дни ранней пахоты черна до синевы, </l>
+                        <l n="6">И безоружная в ней зиждется работа,— </l>
+                        <l n="7">Тысячехолмие распаханной молвы: </l>
+                        <l n="8">Знать, безокружное в окружности есть что-то.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И все-таки земля — проруха и обух. </l>
+                        <l n="10">Не умолить ее, как в ноги ей ни бухай, — </l>
+                        <l n="11">Гниющей флейтою настраживает слух, </l>
+                        <l n="12">Кларнетом утренним зазябливает ухо...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Как на лемех приятен жирный пласт, </l>
+                        <l n="14">Как степь молчит в апрельском провороте. </l>
+                        <l n="15">Ну, здравствуй, чернозем, будь мужествен, глазаст.</l>
+                        <l n="16">Черноречивое молчание в работе.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

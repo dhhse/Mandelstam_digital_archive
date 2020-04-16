@@ -1,0 +1,84 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SILENTIUM</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>SILENTIUM
+Впервые  А. 1910. № 9. С. 7 (паг. 3-я). К1; КЗ; С.
+В А и авторизованной машинописи с датой (AM) — без заглавия. Основной текст со ст. 8: /В черно-лазуревом сосуде./ (БП, с. 62, 256).
+Заглавие вводит тему одноименного ст-ния Тютчева, решенную в другом ключе; Гумилев в рецензии на К2 назвал это ст-ние “смелым договариванием верленовского „L'Art poétique"”. Silentium (лат.) — молчание, безмолвие; в ст-нии — в значении “немота” (см. ст. 10), отсюда женский род местоимений в ст. 1, 2. Ср. сходный мотив: “Когда же (...) И крылья тишина расправит?”  (“Под грозовыми облаками...” — наст. изд.).
+13 Останься пеной, Афродита... — По одному из греческих мифов, Афродита — богиня, олицетворявшая красоту, родилась из морской пены.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>SILENTIUM</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">SILENTIUM</l>
+                        <l n="2">Она еще не родилась,</l>
+                        <l n="3">Она и музыка и слово,</l>
+                        <l n="4">И потому всего живого</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Ненарушаемая связь.</l>
+                        <l n="6">Спокойно дышат моря груди,</l>
+                        <l n="7">Но, как безумный, светел день</l>
+                        <l n="8">И пены бледная сирень</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">В мутно-лазоревом сосуде.</l>
+                        <l n="10">Да обретут мои уста</l>
+                        <l n="11">Первоначальную немоту —</l>
+                        <l n="12">Как кристаллическую ноту,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Что от рождения чиста.</l>
+                        <l n="14">Останься пеной, Афродита,</l>
+                        <l n="15">И, слово, в музыку вернись,</l>
+                        <l n="16">И, сердце, сердца устыдись,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

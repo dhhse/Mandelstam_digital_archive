@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>И безумных звезд разбег, </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>40. “Гиперборей”, 1913, № 5 (февраль), с.22, где начиналось строфой:
+В душном баре иностранец, 
+Я нередко, в час глухой, 
+Уходя от тусклых пьяниц, 
+Становлюсь самим собой.
+Печ. По К2, с. 48. Беловой автограф первопечатного текста — архив М. Л. Лозинского. Выстрел пушечный — выстрел с Петропавловской крепости, возвещающий о наводнении.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>И безумных звезд разбег, </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">И безумных звезд разбег, </l>
+                        <l n="2">Да привяжется бродяга, </l>
+                        <l n="3">Вымогая на ночлег.</l>
+                        <l n="4">Кто, скажите, мне сознанье </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Виноградом замутит, </l>
+                        <l n="6">Если явь — </l>
+                        <l n="7">Петра созданье, </l>
+                        <l n="8">Медный всадник и гранит?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Слышу с крепости сигналы, </l>
+                        <l n="10">Замечаю, как тепло. </l>
+                        <l n="11">Выстрел пушечный в подвалы, </l>
+                        <l n="12">Вероятно, донесло.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И гораздо глубже бреда </l>
+                        <l n="14">Воспаленной головы </l>
+                        <l n="15">Звезды, трезвая беседа, </l>
+                        <l n="16">Ветер западный с Невы.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Прозрачный стакан с ледяною водою.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“„Мороженно!" Солнце...” [с. 50] (два угощения, для взрослых в кафе-беседке, для мальчишки у уличного мороженщика;
+617
+по всем воспоминаниям, сам ОМ очень любил сладкое) звучит иронически возвышенно из-за вереницы гипербол: в молочные Альпы, от булочных граций и особенно и боги не ведают (т. е. “бог весть” как свобода выбора).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Прозрачный стакан с ледяною водою.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Прозрачный стакан с ледяною водою.</l>
+                        <l n="2">И в мир шоколада с румяной зарею,</l>
+                        <l n="3">В молочные Альпы, мечтанье летит.</l>
+                        <l n="4">Но ложечкой звякнув, умильно глядеть —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И в тесной беседке средь пыльных акаций</l>
+                        <l n="6">Принять благосклонно от булочных граций</l>
+                        <l n="7">В затейливой чашечке хрупкую снедь...</l>
+                        <l n="8">Подруга шарманки, появится вдруг</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Бродячего ледника пестрая крышка —</l>
+                        <l n="10">И с жадным вниманием смотрит мальчишка</l>
+                        <l n="11">В чудесного холода полный сундук.</l>
+                        <l n="12">И боги не ведают — что он возьмет:</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

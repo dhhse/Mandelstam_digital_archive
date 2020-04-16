@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ТЕННИС</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Теннис” [с. 44] возвышен античной стилизацией: струны лир, олимпийский поединок, аттический (т. е. афинский) солдат на фоне спортсмэна, бензина и прочих примет современности. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ТЕННИС</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ТЕННИС</l>
+                        <l n="2">Средь аляповатых дач,</l>
+                        <l n="3">Где шатается шарманка,</l>
+                        <l n="4">Сам собой летает мяч —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Как волшебная приманка.</l>
+                        <l n="6">Кто, смиривший грубый пыл,</l>
+                        <l n="7">Облеченный в снег альпийский,</l>
+                        <l n="8">С резвой девушкой вступил</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">В поединок олимпийский?</l>
+                        <l n="10">Слишком дряхлы струны лир:</l>
+                        <l n="11">Золотой ракеты струны</l>
+                        <l n="12">Укрепил и бросил в мир</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Англичанин вечно юный!</l>
+                        <l n="14">Он творит игры обряд,</l>
+                        <l n="15">Так легко вооруженный,</l>
+                        <l n="16">Как аттический солдат,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">В своего врага влюбленный!</l>
+                        <l n="18">Май. Грозовых туч клочки.</l>
+                        <l n="19">Неживая зелень чахнет.</l>
+                        <l n="20">Всё моторы и, гудки —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И сирень бензином пахнет.</l>
+                        <l n="22">Ключевую воду пьет</l>
+                        <l n="23">Из ковша спортсмэн веселый;</l>
+                        <l n="24">И опять война идет,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

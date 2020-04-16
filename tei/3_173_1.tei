@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>РИМ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>РИМ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">РИМ</l>
+                        <l n="2">Где лягушки фонтанов, расквакавшись</l>
+                        <l n="3">И разбрызгавшись, больше не спят</l>
+                        <l n="4">И, однажды проснувшись, расплакавшись,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Во всю мочь своих глоток и раковин</l>
+                        <l n="6">Город, любящий сильным поддакивать,</l>
+                        <l n="7">Земноводной водою кропят, — </l>
+                        <l n="8">Древность легкая, летняя, наглая,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">С жадным взглядом и плоской ступней,</l>
+                        <l n="10">Словно мост ненарушенный Ангела</l>
+                        <l n="11">В плоскоступьи над желтой водой, — </l>
+                        <l n="12">Голубой, онелепленный, пепельный,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">В барабанном наросте домов — </l>
+                        <l n="14">Город, ласточкой купола лепленный</l>
+                        <l n="15">Из проулков и из сквозняков, — </l>
+                        <l n="16">Превратили в убийства питомник</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Вы, коричневой крови наемники,</l>
+                        <l n="18">Италийские чернорубашечники,</l>
+                        <l n="19">Мертвых цезарей злые щенки...</l>
+                        <l n="20">Все твои, Микель Анджело, сироты,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Облеченные в камень и стыд, — </l>
+                        <l n="22">Ночь, сырая от слез, и невинный</l>
+                        <l n="23">Молодой, легконогий Давид,</l>
+                        <l n="24">И постель, на которой несдвинутый</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Моисей водопадом лежит, — </l>
+                        <l n="26">Мощь свободная и мера львиная</l>
+                        <l n="27">В усыпленьи и в рабстве молчит.</l>
+                        <l n="28">И морщинистых лестниц уступки — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">В площадь льющихся лестничных рек, — </l>
+                        <l n="30">Чтоб звучали шаги, как поступки,</l>
+                        <l n="31">Поднял медленный Рим-человек,</l>
+                        <l n="32">А не для искалеченных нег,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="33">Как морские ленивые губки.</l>
+                        <l n="34">Ямы Форума заново вырыты</l>
+                        <l n="35">И открыты ворота для Ирода,</l>
+                        <l n="36">И над Римом диктатора-выродка</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

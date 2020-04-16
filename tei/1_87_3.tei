@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я вздрагиваю от холода —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*26. Г. 1912. № 1 (с опечаткой в ст. 13). — БП, где напечатано с учетом поправки, внесенной в авторский экз. С (СХ). Машинопись с датой (АЛ). КорпАв (с датой). Какая беда стряслась! Реминисценция из пьесы Блока “Балаганчик”: “И мы пели на улице сонной: „Ах, какая стряслась беда", А вверху — над подругой картонной — Высоко зеленела звезда” (66, с. 69).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я вздрагиваю от холода —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я вздрагиваю от холода —</l>
+                        <l n="2">Мне хочется онеметь!</l>
+                        <l n="3">А в небе танцует золото —</l>
+                        <l n="4">Приказывает мне петь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Томись, музыкант встревоженный,</l>
+                        <l n="6">Люби, вспоминай и плачь</l>
+                        <l n="7">И, с тусклой планеты брошенный,</l>
+                        <l n="8">Подхватывай легкий мяч!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Так вот она — настоящая</l>
+                        <l n="10">С таинственным миром связь!</l>
+                        <l n="11">Какая тоска щемящая,</l>
+                        <l n="12">Какая беда стряслась!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Что, если, вздрогнув неправильно,</l>
+                        <l n="14">Мерцающая всегда,</l>
+                        <l n="15">Своей булавкой заржавленной</l>
+                        <l n="16">Достанет меня звезда?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Что делать нам с убитостью равнин,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Что делать нам с убитостью равнин...” (с. 232). — ВП-II, с 52, с разночт. в ст. 8: “Пространств несозданных Иуда”. CC-I, ? 350. ВТ, с. 60, — с разночт. в ст. 2: “голодом их гуда” и ст. 8: “Пространств несозданных” (“Народов будущих” приведено как вариант). В СССР — Д-87, с. 115. В текстологии И. М. Семенко — с вариантом “Пространств несозданных Иуда” (т. к. вариант “Народов будущих Иуда” встречается лишь в позднейшей записи Н. Я. Мандельштам; в то же время в ее рабочей записи эта версия трактуется именно как вариант). По сообщ. Н. Я. Мандельштам, вариант “Пространств несозданных Иуда” — цензурный (НМ-III, с. 236 — 237). Печ. по Д-87.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Что делать нам с убитостью равнин,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Что делать нам с убитостью равнин,</l>
+                        <l n="2">С протяжным голодом их чуда?</l>
+                        <l n="3">Ведь то, что мы открытостью в них мним,</l>
+                        <l n="4">Мы сами видим, засыпая, зрим,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И все растет вопрос: куда они, откуда</l>
+                        <l n="6">И не ползет ли медленно по ним</l>
+                        <l n="7">Тот, о котором мы во сне кричим, —</l>
+                        <l n="8">Народов будущих Иуда?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

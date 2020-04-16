@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Чарли Чаплин</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Из стихов, написанных летом после Воронежа, сохранились лишь немногие. Чарли Чаплин [с. 207] — одно из первых, тотчас по приезде в Москву, с мотивами из фильмов “Новые времена” и “Скейтинг-ринг”; ОМ склонен был отождествлять себя с образами Чаплина, поэтому НЯМ сердилась на строку “А жена твоя — слепая тень”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Чарли Чаплин</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Чарли Чаплин</l>
+                        <l n="2">Чарли Чаплин</l>
+                        <l n="3">Две подметки,</l>
+                        <l n="4">Две гляделки,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И прекрасных</l>
+                        <l n="6">Чарли Чаплин —</l>
+                        <l n="7">Две подметки —</l>
+                        <l n="8">Как-то мы живем</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Чужие,</l>
+                        <l n="10">Оловянный</l>
+                        <l n="11">Голова не</l>
+                        <l n="12">Ходит сажа,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И тихонько</l>
+                        <l n="14">И даже</l>
+                        <l n="15">И ведет его</l>
+                        <l n="16">К чужим,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Чарли Чаплин,</l>
+                        <l n="18">Чаплин, кролик,</l>
+                        <l n="19">Чисть корольки,</l>
+                        <l n="20">А жена твоя —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И чудит, чудит</l>
+                        <l n="22">Отчего</l>
+                        <l n="23">Почему</l>
+                        <l n="24">Потому</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Чарли, Чарли,</l>
+                        <l n="26">Ты совсем</l>
+                        <l n="27">Котелок твой —</l>
+                        <l n="28">А Москва</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я с дымящей лучиной вхожу</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note> Мосты. 1965. ?11. Печ. по ВС. Список М.Зенкевича (A3). Два списка Н.Я. Мандельштам (AM). Мотивы ст-ния восходят к стиху «И неправдой искривлен мой рот...» в ранней редакции ст-ния 160; там же сложились ст. 2, 4. К шестипалой неправде. «О шестипалости — это, конечно, фольклор, но, кроме того, кличка была (у Сталина — A.M.) и „рябой", и „шестипалый"... И об этом будто в приметах охранки... Впрочем, здесь связь далеко не прямая. Скорее, ход такой: для людей шестипалость — примета зла» (28, с. 203).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я с дымящей лучиной вхожу</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я с дымящей лучиной вхожу</l>
+                        <l n="2">К шестипалой неправде в избу:</l>
+                        <l n="3">Ведь лежать мне в сосновом гробу.</l>
+                        <l n="4">А она мне соленых грибков</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Вынимает в горшке из-под нар,</l>
+                        <l n="6">А она из ребячьих пупков</l>
+                        <l n="7">Подает мне горячий отвар.</l>
+                        <l n="8">Ну а я не дышу, сам не рад...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Шасть к порогу — куда там... В плечо</l>
+                        <l n="10">Уцепилась и тащит назад.</l>
+                        <l n="11">Вошь да глушь у нее, тишь да мша,</l>
+                        <l n="12">Полуспаленка, полутюрьма.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

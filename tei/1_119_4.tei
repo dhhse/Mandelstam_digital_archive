@@ -1,0 +1,105 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Кинематограф. Три скамейки. </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>45. “Новый Сатирикон”, 1914, № 22, с. 7. В стих. пародируется традиционный “авантюрно великосветский” сюжет дореволюционной кинематографии. Гитана — цыганка.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Кинематограф. Три скамейки. </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Кинематограф. Три скамейки. </l>
+                        <l n="2">Сантиментальная горячка. </l>
+                        <l n="3">Аристократка и богачка </l>
+                        <l n="4">В сетях соперницы-злодейки.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Не удержать любви полета: </l>
+                        <l n="6">Она ни в чем не виновата! </l>
+                        <l n="7">Самоотверженно, как брата, </l>
+                        <l n="8">Любила лейтенанта флота.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">А он скитается в пустыне, </l>
+                        <l n="10">Седого графа сын побочный. </l>
+                        <l n="11">Так начинается лубочный </l>
+                        <l n="12">Роман красавицы графини.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И в исступленьи, как гитана, </l>
+                        <l n="14">Она заламывает руки. </l>
+                        <l n="15">Разлука. Бешеные звуки </l>
+                        <l n="16">Затравленного фортепьяно.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">В груди доверчивой и слабой </l>
+                        <l n="18">Еще достаточно отваги </l>
+                        <l n="19">Похитить важные бумаги </l>
+                        <l n="20">Для неприятельского штаба.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И по каштановой аллее </l>
+                        <l n="22">Чудовищный мотор несется. </l>
+                        <l n="23">Стрекочет лента, сердце бьется </l>
+                        <l n="24">Тревожнее и веселее.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">В дорожном платье, с саквояжем, </l>
+                        <l n="26">В автомобиле и в вагоне,</l>
+                        <l n="27">Она боится лишь погони, </l>
+                        <l n="28">Сухим измучена миражем.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Какая горькая нелепость: </l>
+                        <l n="30">Цель не оправдывает средства! </l>
+                        <l n="31">Ему — отцовское наследство, </l>
+                        <l n="32">А ей — пожизненная крепость!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

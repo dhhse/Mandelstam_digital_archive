@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ФУТБОЛ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Два стихотворения под заглавием “Футбол” [с. 138, 139] развились из одного черновика: в первом с его мрачноватой концовкой — общая картина (по восп. Ахматовой — взгляд из окна кадетского корпуса на Васильевском острове, где снимал комнату ОМ), во втором — схватка у футбольных ворот. Мяч сравнивается с головой библейского Олоферна, отсеченной Юдифью (ср. картину Джорджоне, упомянутую в “Египетской марке”). </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ФУТБОЛ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ФУТБОЛ</l>
+                        <l n="2">Рассеян утренник тяжелый,</l>
+                        <l n="3">На босу ногу день пришел;</l>
+                        <l n="4">А на дворе военной школы</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Играют мальчики в футбол.</l>
+                        <l n="6">Чуть-чуть неловки, мешковаты —</l>
+                        <l n="7">Как подобает в их лета —</l>
+                        <l n="8">Кто мяч толкает угловатый,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Кто охраняет ворота...</l>
+                        <l n="10">Любовь, охотничьи попойки —</l>
+                        <l n="11">Всё в будущем, а ныне — скорбь;</l>
+                        <l n="12">И вскакивать на жесткой койке</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Чуть свет, под барабанов дробь!</l>
+                        <l n="14">Увы, ни музыки, ни славы!</l>
+                        <l n="15">Так, от зари и до зари,</l>
+                        <l n="16">В силках науки и забавы</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Томятся дети-дикари.</l>
+                        <l n="18">Осенней путаницы сито.</l>
+                        <l n="19">Деревья мокрые в золе.</l>
+                        <l n="20">Мундир обрызган. Грудь открыта.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

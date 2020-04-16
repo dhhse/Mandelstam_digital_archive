@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Европа</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>147а. Первопечатная редакция - Ап., 1914, N6-7, с.12.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Европа</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Европа</l>
+                        <l n="2">Как средиземный краб или звезда морская,</l>
+                        <l n="3">Был выброшен водой последний материк.</l>
+                        <l n="4">К широкой Азии, к Америке привык,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Слабеет океан, Европу омывая.</l>
+                        <l n="6">Изрезаны ее живые берега,</l>
+                        <l n="7">И полуостровов воздушны изваянья;</l>
+                        <l n="8">Немного женственны заливов очертанья:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Бискайи, Генуи ленивая дуга.</l>
+                        <l n="10">Завоевателей исконная земля —</l>
+                        <l n="11">Европа в рубище Священного союза —</l>
+                        <l n="12">Пята Испании, Италии Медуза</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И Польша нежная, где нету короля.</l>
+                        <l n="14">Европа цезарей! С тех пор, как в Бонапарта</l>
+                        <l n="15">Гусиное перо направил Меттерних, —</l>
+                        <l n="16">Впервые за сто лет и на глазах моих</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

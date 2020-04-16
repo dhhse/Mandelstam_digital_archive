@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Как светотени мученик Рембрандт,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>273. СС-1. Т. 1. Печ. по списку Н.Я. Мандельштам (AM). “Картина Рембрандта находилась в Воронеже... О.М. часто ходил ее смотреть” (28, с. 286); Н.Я. Мандельштам пишет здесь о картине “Шествие на Голгофу” Я.В. де Вета-старшего, тогда атрибутировавшуюся Рембрандту.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Как светотени мученик Рембрандт,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Как светотени мученик Рембрандт,</l>
+                        <l n="2">Я глубоко ушел в немеющее время,</l>
+                        <l n="3">И резкость моего горящего ребра</l>
+                        <l n="4">Не охраняется ни сторожами теми,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Ни этим воином, что под грозою спят.</l>
+                        <l n="6">Простишь ли ты меня, великолепный брат,</l>
+                        <l n="7">И мастер, и отец черно-зеленой теми,—</l>
+                        <l n="8">Но око соколиного пера</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

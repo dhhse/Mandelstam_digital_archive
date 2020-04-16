@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Образ твой, мучительный и зыбкий,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Образ твой, мучительный и зыбкий...” (с. 78). — Гиперборей, 1912, № 1 (октябрь), с. 21. К-13, с. 9. К-16, с. 30. К-16(Ав.). 88 современных стихотворений, избранных З. Н. Гиппиус. Пг., 1917, с. 13. Альм. “К искусству!”, Феодосия, 1920, № 2, с. 11. Страницы лирики. Избранные стихотворения современных русских поэтов. Симферополь, 1920, с. 40. БП, № 28. Автограф с датой “апрель 1912” — AM. Печ. по автографу.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Образ твой, мучительный и зыбкий,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Образ твой, мучительный и зыбкий,</l>
+                        <l n="2">Я не мог в тумане осязать.</l>
+                        <l n="3">Сам того не думая сказать.</l>
+                        <l n="4">Божье имя, как большая птица,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ПЕСЕНКА</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Песенка (с. 290). — Журнал за 7 дней, Пб., 1913, № 22, 4 июля, с. 474. БП, № 249. Печ. по журналу.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ПЕСЕНКА</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ПЕСЕНКА</l>
+                        <l n="2">У меня не много денег,</l>
+                        <l n="3">В кабаках меня не любят,</l>
+                        <l n="4">А служанки вяжут веник</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И сердито щепки рубят.</l>
+                        <l n="6">Я запачкал руки в саже,</l>
+                        <l n="7">На моих ресницах копоть,</l>
+                        <l n="8">Создаю свои миражи</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И мешаю всем работать.</l>
+                        <l n="10">Голубые судомойки,</l>
+                        <l n="11">Добродетельная челядь,</l>
+                        <l n="12">И на самой жесткой койке</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Ваша честность рай вам стелет.</l>
+                        <l n="14">Тяжела с бельем корзина,</l>
+                        <l n="15">И мясник острит так плотски.</l>
+                        <l n="16">Тем краснее льются вина</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

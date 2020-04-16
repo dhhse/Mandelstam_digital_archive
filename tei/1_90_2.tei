@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Пусть в душной комнате, где клочья серой ваты</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Пусть в душной комнате, где клочья серой ваты...” (с. 293). — Гиперборей, 1913, № 8 (октябрь), с. 24, вторым в цикле со ст-ниями “Паденье — неизменный спутник страха...” и “В таверне воровская шайка...”. БП № 254. Список в К-16(Ка6л.), с датой “1913” и разночт. в ст. 5: “тоской объятый”. Печ. по автографу в К-16(Ав.).
+Спорт (с. 294). — Новый Сатирикон, 1914, № 28-29 (17 июля), с. 7, с разночт. в ст. 8: “две приречных школы” и ст. 11: “Он знает мир”. БП № 255. Печ. по списку в К-16 (Кабл.), с датой “1913 — 1914”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Пусть в душной комнате, где клочья серой ваты</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Пусть в душной комнате, где клочья серой ваты</l>
+                        <l n="2">И склянки с кислотой, часы хрипят и бьют —</l>
+                        <l n="3">Гигантские шаги, с которых петли сняты, —</l>
+                        <l n="4">В туманной памяти виденья оживут:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И лихорадочный больной, тоской распятый,</l>
+                        <l n="6">Худыми пальцами свивая тонкий жгут,</l>
+                        <l n="7">Сжимает свой платок, как талисман крылатый,</l>
+                        <l n="8">И с отвращением глядит на круг минут...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">То было в сентябре, вертелись флюгера,</l>
+                        <l n="10">И ставки хлопали, — но буйная игра</l>
+                        <l n="11">Гигантов и детей пророческой казалась;</l>
+                        <l n="12">И тело нежное то плавно подымалось,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

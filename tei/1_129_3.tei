@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Как черный ангел на снегу</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>397. ВП. Альм. 3. Печ. по беловому автографу (AM). Датируется по времени создания Ахматовой ст-ния “Как ты можешь смотреть на Неву...” (начало 1914 г.), которое явилось источником образа “черного ангела на снегу”. Суждение Ахматовой о ст-нии: “Тогда же (в 1910-е гг. — A.M.) он написал таинственное (и не очень удачное) стихотворение про „черного ангела на снегу". Надя (Н.Я. Мандельштам — A.M.) утверждает, что оно относится ко мне. С этим „черным ангелом" дело обстоит, мне думается, довольно сложно. Стихотворение для тогдашнего Мандельштама слабое и невнятное... По-видимому, это результат бесед с
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Как черный ангел на снегу</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Как черный ангел на снегу</l>
+                        <l n="2">Ты показалась мне сегодня,</l>
+                        <l n="3">И утаить я не могу —</l>
+                        <l n="4">Есть на тебе печать Господня.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Такая странная печать —</l>
+                        <l n="6">Как бы дарованная свыше,—</l>
+                        <l n="7">Что кажется — в церковной нише</l>
+                        <l n="8">Тебе назначено стоять.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Пускай нездешняя любовь</l>
+                        <l n="10">С любовью здешней будут слиты.</l>
+                        <l n="11">Пускай бушующая кровь</l>
+                        <l n="12">Не перейдет в твои ланиты</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И нежный мрамор оттенит</l>
+                        <l n="14">Всю призрачность твоих лохмотий,</l>
+                        <l n="15">Всю наготу причастных плоти,</l>
+                        <l n="16">Но не краснеющих ланит.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

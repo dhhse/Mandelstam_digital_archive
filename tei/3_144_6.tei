@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Не сравнивай: живущий несравним.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Здесь душевный надлом обрывается, написанное пересматривается: “Не сравнивай: живущий несравним...” [с. 199] (не упрекай, что я не стоек, как тосканский Данте) — я тоскую под здешним небом и мечтаю об ином, итальянском, но тоска моя ясна (реминисценция из Пушкина), потому что я знаю: молодые еще воронежские холмы тоже скажут слово в мировой культуре. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Не сравнивай: живущий несравним.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Не сравнивай: живущий несравним.</l>
+                        <l n="2">С каким-то ласковым испугом</l>
+                        <l n="3">Я соглашался с равенством равнин,</l>
+                        <l n="4">И неба круг мне был недугом.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Я обращался к воздуху-слуге,</l>
+                        <l n="6">Ждал от него услуги или вести,</l>
+                        <l n="7">И собирался плыть, и плавал по дуге</l>
+                        <l n="8">Неначинающихся путешествий.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Где больше неба мне — там я бродить готов,</l>
+                        <l n="10">И ясная тоска меня не отпускает</l>
+                        <l n="11">От молодых еще воронежских холмов</l>
+                        <l n="12">К всечеловеческим, яснеющим в Тоскане.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

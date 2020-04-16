@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Еще мы жизнью полны в высшей мере,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Оптимистическое стих. “Еще мы жизнью полны в высшей мере...” [с. 212] (стрижка детей перед 1 Мая, по созвучию упомянуты стрижи; комета — типичный вид кляксы в детской тетради и воспоминание о повести Г. Уэллса “В дни кометы”; китайчатые — ситцевые) омрачено двусмысленным выражением в (к) высшей мере: с 7 апреля 1935 к уголовной ответственности стали привлекаться дети с 12 лет (арестантов тоже стригут).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Еще мы жизнью полны в высшей мере,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Еще мы жизнью полны в высшей мере,</l>
+                        <l n="2">Еще гуляют в городах Союза</l>
+                        <l n="3">Из мотыльковых лапчатых материй</l>
+                        <l n="4">Китайчатые платьица и блузы.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Еще машинка номер первый едко</l>
+                        <l n="6">Каштановые собирает взятки,</l>
+                        <l n="7">И падают на чистую салфетку</l>
+                        <l n="8">Разумные густеющие прядки.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Еще стрижей довольно и касаток,</l>
+                        <l n="10">Еще комета нас не очумила</l>
+                        <l n="11">И пишут звездоносно и хвостато</l>
+                        <l n="12">Толковые лиловые чернила.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

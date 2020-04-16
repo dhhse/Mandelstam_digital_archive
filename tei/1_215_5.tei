@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я наравне с другими</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>В Петербурге зимой 1920—1921 г. ОМ переживает влюбленность в актрису Ольгу Арбенину (1897/98 —1980). Ей посвящены стих. “Я наравне с другими...” [с. 85] (за Арбениной ухаживали также Н. Гумилев и Ю. Юркун) </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я наравне с другими</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я наравне с другими</l>
+                        <l n="2">Хочу тебе служить,</l>
+                        <l n="3">От ревности сухими</l>
+                        <l n="4">Губами ворожить.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Не утоляет слово</l>
+                        <l n="6">Мне пересохших уст,</l>
+                        <l n="7">И без тебя мне снова</l>
+                        <l n="8">Дремучий воздух пуст.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я больше не ревную,</l>
+                        <l n="10">Но я тебя хочу,</l>
+                        <l n="11">И сам себя несу я,</l>
+                        <l n="12">Как жертву палачу.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Тебя не назову я</l>
+                        <l n="14">Ни радость, ни любовь.</l>
+                        <l n="15">На дикую, чужую</l>
+                        <l n="16">Мне подменили кровь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Еще одно мгновенье, </l>
+                        <l n="18">И я скажу тебе, </l>
+                        <l n="19">Не радость, а мученье</l>
+                        <l n="20">Я нахожу в тебе. </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И словно преступленье</l>
+                        <l n="22">Меня к тебе влечет</l>
+                        <l n="23">Искусанный в смятеньи</l>
+                        <l n="24">Вишневый нежный рот.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Вернись ко мне скорее,</l>
+                        <l n="26">Мне страшно без тебя,</l>
+                        <l n="27">Я никогда сильнее</l>
+                        <l n="28">Не чувствовал тебя,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">И всё, чего хочу я,</l>
+                        <l n="30">Я вижу наяву.</l>
+                        <l n="31">Я больше не ревную,</l>
+                        <l n="32">Но я тебя зову 1.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

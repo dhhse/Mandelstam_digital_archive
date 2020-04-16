@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ЛЕНИНГРАД</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>21а. Первоначальный вариант — беловой автограф (АЗ) с последующей правкой, приводящей к окончательной редакции. 
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ЛЕНИНГРАД</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ЛЕНИНГРАД</l>
+                        <l n="2">Я вернулся в мой город, знакомый до слез,</l>
+                        <l n="3">До прожилок, до детских припухлых желез.</l>
+                        <l n="4">Ты вернулся сюда, так глотай же скорей</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Рыбий жир ленинградских речных фонарей,</l>
+                        <l n="6">Узнавай же скорее декабрьский денек,</l>
+                        <l n="7">Где к зловещему дегтю подмешан желток.</l>
+                        <l n="8">Петербург! я еще не хочу умирать:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">У тебя телефонов моих номера.</l>
+                        <l n="10">Петербург! У меня еще есть адреса,</l>
+                        <l n="11">По которым найду мертвецов голоса.</l>
+                        <l n="12">Я на лестнице черной живу, и в висок</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Ударяет мне вырванный с мясом звонок,</l>
+                        <l n="14">И всю ночь напролет жду гостей дорогих,</l>
+                        <l n="15">Шевеля кандалами цепочек дверных.</l>
+                        <l n="16">Декабрь 1930</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ich kann nicht anders…"</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>65. С, с неточной датой /1913/. Беловой автограф из наборной рукописи С (ИРЛИ), с той же датой. Датируется по ККабл (здесь без эпиграфа, под загл. /Лютер в Вормсе/). Эпиграф, точным переводом которого является ст. 1,— слова Лютера, сказанные им на имперском съезде в Вормсе в ответ на предложение отказаться от своих взглядов. В ст-нии выражена мысль о соотношении католичества и протестанства (“незрячий” дух Лютера над куполом римского собора), восходящая, по-видимому, к статье Тютчева “Папство и римский вопрос”, где лютеранство рассмотрено как движение, генетически перенявшее у католичества право на “захват”. Ср. также и более позднюю характеристику Лютера как “плохого филолога” (“О природе слова”). Ст-ние 
+537
+соответствует периоду увлечения поэта идеями славянофилов, К. Леонтьева в частности (см. К-1990, с. 358).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ich kann nicht anders…"</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ich kann nicht anders…"</l>
+                        <l n="2">Не просветлеет темная гора —</l>
+                        <l n="3">И кряжистого Лютера незрячий</l>
+                        <l n="4">Витает дух над куполом Петра.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я не слыхал рассказов Оссиана,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>59. Наши дни. 1915. № 3. Оссиан — легендарный воин и бард кельтов, под именем которого Д. Макферсон издал обработанные им фольклорные записи (1765). Влияние “Сочинений Оссиана...” испытал и Н. Гумилев (ст-ние “Оссиан”). В рец. на К2 Гумилев писал о ст-нии как намечающем “проблему художественного творчества” — в строфах 3—4 раскрыта идея “вечного возвращения” или “возвратности поэтического слова” (17, с. 72).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я не слыхал рассказов Оссиана,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я не слыхал рассказов Оссиана,</l>
+                        <l n="2">Не пробовал старинного вина;</l>
+                        <l n="3">Зачем же мне мерещится поляна,</l>
+                        <l n="4">Шотландии кровавая луна?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И перекличка ворона и арфы</l>
+                        <l n="6">Мне чудится в зловещей тишине;</l>
+                        <l n="7">И ветром развеваемые шарфы</l>
+                        <l n="8">Дружинников мелькают при луне!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Я получил блаженное наследство —</l>
+                        <l n="10">Чужих певцов блуждающие сны;</l>
+                        <l n="11">Свое родство и скучное соседство</l>
+                        <l n="12">Мы презирать заведомо вольны.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И не одно сокровище, быть может,</l>
+                        <l n="14">Минуя внуков, к правнукам уйдет;</l>
+                        <l n="15">И снова скальд чужую песню сложит</l>
+                        <l n="16">И как свою ее произнесет.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

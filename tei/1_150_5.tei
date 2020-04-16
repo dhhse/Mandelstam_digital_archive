@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>НЕМЕЦКАЯ КАСКА</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Мировую войну 1914 г. Мандельштам, как и все, поначалу встретил восторженно. &lt;...&gt; К этому же ряду относится газетное стих. “Немецкая каска” [с. 143]</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>НЕМЕЦКАЯ КАСКА</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">НЕМЕЦКАЯ КАСКА</l>
+                        <l n="2">Немецкая каска, священный трофей,</l>
+                        <l n="3">Лежит на камине в гостиной твоей.</l>
+                        <l n="4">Дотронься, она, как игрушка, легка;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Пронизана воздухом медь шишака...</l>
+                        <l n="6">В Познани и в Польше не всем воевать —</l>
+                        <l n="7">Своими глазами врага увидать;</l>
+                        <l n="8">И, слушая ядер губительный хор,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Сорвать с неприятеля гордый убор!</l>
+                        <l n="10">Нам только взглянуть на блестящую медь</l>
+                        <l n="11">И вспомнить о тех, кто готов умереть!</l>
+                        <l n="12">Сентябрь 1914</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Уже светло, поет сирена</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*37. К1. — БП, где напечатано с учетом поправки в авторском экз. С (AM), которой из печатного текста исключена строфа (*37.1): в С помещалась с разночтением (возможно, цензурного происхождения): “беда” вм. “нужда”. Сравнение “старика” сначала с Верленом, затем с Сократом основывается на внешнем сходстве последних, отмечавшемся еще при жизни Верлена.
+531
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Уже светло, поет сирена</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Уже светло, поет сирена</l>
+                        <l n="2">В седьмом часу утра.</l>
+                        <l n="3">Старик, похожий на Верлена, </l>
+                        <l n="4">Теперь твоя пора!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">В глазах лукавый или детский</l>
+                        <l n="6">Зеленый огонек;</l>
+                        <l n="7">На шею нацепил турецкий</l>
+                        <l n="8">Узорчатый платок.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Он богохульствует, бормочет</l>
+                        <l n="10">Несвязные слова;</l>
+                        <l n="11">Он исповедоваться хочет —</l>
+                        <l n="12">Но согрешить сперва.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Разочарованный рабочий</l>
+                        <l n="14">Иль огорченный мот —</l>
+                        <l n="15">А глаз, подбитый в недрах ночи,</l>
+                        <l n="16">Как радуга цветет.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">А дома — руганью крылатой,</l>
+                        <l n="18">От ярости бледна,—</l>
+                        <l n="19">Встречает пьяного Сократа</l>
+                        <l n="20">Суровая жена!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

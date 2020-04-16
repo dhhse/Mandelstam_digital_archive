@@ -1,0 +1,68 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Куда как страшно нам с тобой,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Циклу предпослано стих. «Куда как страшно нам с тобой...» [с. 160] обращенное к НЯМ (товарищами называли мужей партийные жены; дурак вместо «дура» в обращении к женщине — «явно ласковое» слово, замечает НЯМ; ореховый пирог они ели на ее именины 30 сентября).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Куда как страшно нам с тобой,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Куда как страшно нам с тобой,</l>
+                        <l n="2">Товарищ большеротый мой!</l>
+                        <l n="3">Ох, как крошится наш табак,</l>
+                        <l n="4">Щелкунчик, дружок, дурак!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">А мог бы жизнь просвистать скворцом,</l>
+                        <l n="6">Заесть ореховым пирогом —</l>
+                        <l n="7">Да, видно, нельзя никак...</l>
+                        <l n="8">Октябрь 1930</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

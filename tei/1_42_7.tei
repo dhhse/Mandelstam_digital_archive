@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда мозаик никнут травы</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“КОГДА МОЗАИК НИКНУТ ТРАВЫ...”
+Печатается по беловому автографу в ДнКабл. Написано в Лугано летом 1910 г. (см. VIII, 2 и примеч. к нему в наст. изд.). Впервые — СС-1 (2), с. 122 — 123.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда мозаик никнут травы</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда мозаик никнут травы</l>
+                        <l n="2">И церковь гулкая пуста,</l>
+                        <l n="3">Я в темноте, как змей лукавый,</l>
+                        <l n="4">Влачусь к подножию креста</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И пью монашескую нежность</l>
+                        <l n="6">В сосредоточенных чертах,</l>
+                        <l n="7">Как кипариса безнадежность</l>
+                        <l n="8">В неумолимых высотах.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Люблю изогнутые брови</l>
+                        <l n="10">И краску на лице святых</l>
+                        <l n="11">И пятна золота и крови</l>
+                        <l n="12">На теле статуй восковых.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Быть может, только призрак плоти</l>
+                        <l n="14">Обманывает нас в мечтах,</l>
+                        <l n="15">Просвечивает меж лохмотий</l>
+                        <l n="16">И дышит в роковых страстях.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

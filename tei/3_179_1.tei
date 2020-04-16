@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Флейты греческой тэта и йота — </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Флейты греческой тэта и йота — </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Флейты греческой тэта и йота — </l>
+                        <l n="2">Словно ей не хватало молвы — </l>
+                        <l n="3">Неизваянная, без отчета,</l>
+                        <l n="4">Зрела, маялась, шла через рвы.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И ее невозможно покинуть,</l>
+                        <l n="6">Стиснув зубы, ее не унять,</l>
+                        <l n="7">И в слова языком не продвинуть,</l>
+                        <l n="8">И губами ее не размять.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">А флейтист не узнает покоя:</l>
+                        <l n="10">Ему кажется, что он один,</l>
+                        <l n="11">Что когда-то он море родное</l>
+                        <l n="12">Из сиреневых вылепил глин...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Звонким шопотом честолюбивым,</l>
+                        <l n="14">Вспоминающих топотом губ</l>
+                        <l n="15">Он торопится быть бережливым,</l>
+                        <l n="16">Емлет звуки — опрятен и скуп.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Вслед за ним мы его не повторим,</l>
+                        <l n="18">Комья глины в ладонях моря,</l>
+                        <l n="19">И когда я наполнился морем — </l>
+                        <l n="20">Мором стала мне мера моя...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">И свои-то мне губы не любы — </l>
+                        <l n="22">И убийство на том же корню — </l>
+                        <l n="23">И невольно на убыль, на убыль</l>
+                        <l n="24">Равноденствие флейты клоню.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

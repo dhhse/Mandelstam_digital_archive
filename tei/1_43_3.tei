@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Медлительнее снежный улей,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*11. А. 1910. № 9. — К1. Машинопись с датой (AM). КорпАв-2. В связи с этим ст-нием В. Пяст в своей книге назвал Мандельштама, вслед за Тютчевым, “виртуозом ямба” (Современное стиховедение. Л., 1931. С. 103).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Медлительнее снежный улей,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Медлительнее снежный улей,</l>
+                        <l n="2">Прозрачнее окна хрусталь,</l>
+                        <l n="3">И бирюзовая вуаль</l>
+                        <l n="4">Небрежно брошена на стуле.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Ткань, опьяненная собой,</l>
+                        <l n="6">Изнеженная лаской света,</l>
+                        <l n="7">Она испытывает лето,</l>
+                        <l n="8">Как бы не тронута зимой;</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И если в ледяных алмазах</l>
+                        <l n="10">Струится вечности мороз,</l>
+                        <l n="11">Здесь — трепетание стрекоз</l>
+                        <l n="12">Быстроживущих, синеглазых.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

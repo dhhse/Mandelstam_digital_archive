@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Эта ночь непоправима,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Эта ночь непоправима...” (с. 114). — Аполлон, 1916, № 9-10 (ноябрь — декабрь), с. 76. Т, с. 24. ВК, с. 19. С, с. 107. В БП отсутствует. Список, под загл. “На погребение матери”, с датой “1916”, — К-16(Кабл.). Автограф из архива С. Рафаловича, подаренный автором в августе 1917 г. в Алуште (ныне в собр. М. Мардзадури, Тренто, — сообщ. А. Е. Парнисом). Печ. по “Аполлону”.
+Мать поэта, Флора Осиповна Вербловская, умерла от инсульта 26 июля 1916 г. в возрасте 48 лет. Вызванные телеграммой отца Осип и его младшие братья выехали из Коктебеля 25 июля и успели только на похороны. “...Чем старше становился Осип, тем острее он ощущал свою вину перед мамой” (Воспоминания Е. Э. Мандельштама — АЕМ). См. вступ. статью.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Эта ночь непоправима,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Эта ночь непоправима,</l>
+                        <l n="2">А у вас еще светло.</l>
+                        <l n="3">У ворот Ерусалима</l>
+                        <l n="4">Солнце черное взошло.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Солнце желтое страшнее, —</l>
+                        <l n="6">Баю-баюшки-баю, —</l>
+                        <l n="7">В светлом храме иудеи</l>
+                        <l n="8">Хоронили мать мою.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Благодати не имея</l>
+                        <l n="10">И священства лишены,</l>
+                        <l n="11">В светлом храме иудеи</l>
+                        <l n="12">Отпевали прах жены.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И над матерью звенели</l>
+                        <l n="14">Голоса израильтян.</l>
+                        <l n="15">Я проснулся в колыбели —</l>
+                        <l n="16">Черным солнцем осиян.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

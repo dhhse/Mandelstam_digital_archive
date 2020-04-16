@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Она еще не родилась,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>*12. А. 1910. № 9. — БП, где напечатано с поправкой, внесенной в авторский экз. С (СХ). В А и авторизованной машинописи с датой (AM) — без загл. Ст-ние варьирует тему одноименного ст-ния Тютчева. Гумилев в рец. на К2 определил ст. 13—14 как “колдовское призывание до-бытия”, а все ст-ние — “смелым договариванием верленовского „L'Art poétique"” (A. 1916. № 1. С. 30). Silentium (лат.) — молчание, безмолвие; в ст-нии ему соответствует “первоначальная немота”, откуда женский род местоимений в ст. 1, 2. Ср. сходный мотив “тишины” в ст-нии 340.
+527</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Она еще не родилась,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Она еще не родилась,</l>
+                        <l n="2">Она и музыка и слово,</l>
+                        <l n="3">И потому всего живого</l>
+                        <l n="4">Ненарушаемая связь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Спокойно дышат моря груди,</l>
+                        <l n="6">Но, как безумный, светел день,</l>
+                        <l n="7">И пены бледная сирень</l>
+                        <l n="8">В черно-лазуревом сосуде.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Да обретут мои уста</l>
+                        <l n="10">Первоначальную немόту,</l>
+                        <l n="11">Как кристаллическую ноту,</l>
+                        <l n="12">Что от рождения чиста!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Останься пеной, Афродита,</l>
+                        <l n="14">И, слово, в музыку вернись,</l>
+                        <l n="15">И, сердце, сердца устыдись,</l>
+                        <l n="16">С первоосновой жизни слито!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Клейкой клятвой липнут почки,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Свадебная стилизация “Клейкой клятвой липнут почки...” [с. 254] (старший брат и сестрица вымышлены) была написана в ответ на первое известие о будущей свадьбе. Через два дня Н. Штемпель познакомила ОМ с женихом (юношей-погодком), вчетвером с подругой они вместе ужинали и гуляли по Воронежу; </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Клейкой клятвой липнут почки,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Клейкой клятвой липнут почки,</l>
+                        <l n="2">Вот звезда скатилась, —</l>
+                        <l n="3">Это мать сказала дочке,</l>
+                        <l n="4">Чтоб не торопилась.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Неба половина,</l>
+                        <l n="6">И ответил шелест скатный:</l>
+                        <l n="7">Стану я совсем другою</l>
+                        <l n="8">Жизнью величаться.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Будет зыбка под ногою</l>
+                        <l n="10">Легкою качаться.</l>
+                        <l n="11">Будет муж, прямой и дикий,</l>
+                        <l n="12">Кротким и послушным,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Без него, как в черной книге,</l>
+                        <l n="14">Страшно в мире душном...”</l>
+                        <l n="15">Подмигнув, на полуслове</l>
+                        <l n="16">Запнулась зарница.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Старший брат нахмурил брови.</l>
+                        <l n="18">Жалится сестрица.</l>
+                        <l n="19">Ветер бархатный, крыластый</l>
+                        <l n="20">Дует в дудку то же:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Чтобы мальчик был лобастый,</l>
+                        <l n="22">На двоих похожий.</l>
+                        <l n="23">Спросит гром своих знакомых:</l>
+                        <l n="24">Чтобы липу до черемух</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Замуж выдавали?”</l>
+                        <l n="26">Да из свежих одиночеств</l>
+                        <l n="27">Леса — крики пташьи:</l>
+                        <l n="28">Свахи-птицы свищут почесть</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Льстивую Наташе.</l>
+                        <l n="30">И к губам такие липнут</l>
+                        <l n="31">Клятвы, что по чести</l>
+                        <l n="32">В конском топоте погибнуть</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="33">Мчатся очи вместе.</l>
+                        <l n="34">Все ее торопят часто:</l>
+                        <l n="35">Выходи, за наше счастье,</l>
+                        <l n="36">За здоровье наше!”</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

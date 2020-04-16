@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Дом актера</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>В Феодосии для открытия артистического кафе-кабаре было написано стих. Дом актера [с. 257], его пролетарский дух звучал вызовом врангелевскому режиму. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Дом актера</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Дом актера</l>
+                        <l n="2">Здесь, на твердой площадке яхт-клуба,</l>
+                        <l n="3">Где высокая мачта и спасательный круг,</l>
+                        <l n="4">У южного моря, под небом Юга,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Деревянный, пахучий строится сруб.</l>
+                        <l n="6">Это игра воздвигла стены.</l>
+                        <l n="7">Разве работать — не значит играть?</l>
+                        <l n="8">По свежим доскам широкой сцены</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Какая радость впервые ступать!</l>
+                        <l n="10">Актер — корабельщик на палубе мира, —</l>
+                        <l n="11">И Дом актера — на волнах...</l>
+                        <l n="12">Никогда, никогда не боялась лира</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Тяжелого молота в братских руках.</l>
+                        <l n="14">Кто сказал: художник — сказал: работник,</l>
+                        <l n="15">Воистину, правда у нас одна!</l>
+                        <l n="16">Единым духом жив и плотник,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">И поэт, вкусивший святого вина.</l>
+                        <l n="18">А вам спасибо! И дни и ночи</l>
+                        <l n="19">Мы строили вместе, наш дом готов.</l>
+                        <l n="20">Под маской суровости скрывает рабочий</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Высокую нежность грядущих веков.</l>
+                        <l n="22">Веселые стружки пахнут морем,</l>
+                        <l n="23">Корабль оснащен — в добрый путь!</l>
+                        <l n="24">Плывите же вместе к грядущим зорям,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

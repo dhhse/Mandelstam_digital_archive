@@ -1,0 +1,71 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В морозном воздухе растаял легкий дым,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“В морозном воздухе растаял легкий дым...” (с. 265). — 
+571
+Голос жизни, Пг., 1915, № 25, 17 июня. БП, № 228. Автограф — AM. Печ. по авториз. списку в К-16(Кабл.), с датой “1909”.
+“В безветрии моих садов...” (с. 265). — ВЛ, 1987, № 7, с. 188, в статье В. Купченко “Осип Мандельштам в Киммерии </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В морозном воздухе растаял легкий дым,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В морозном воздухе растаял легкий дым,</l>
+                        <l n="2">И я, печальною свободою томим,</l>
+                        <l n="3">Хотел бы вознестись в холодном, тихом гимне,</l>
+                        <l n="4">Исчезнуть навсегда, но суждено идти мне</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">По снежной улице, в вечерний этот час</l>
+                        <l n="6">Собачий слышен лай и запад не погас</l>
+                        <l n="7">И попадаются прохожие навстречу...</l>
+                        <l n="8">Не говори со мной! Что я тебе отвечу?</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

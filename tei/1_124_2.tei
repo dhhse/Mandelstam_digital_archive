@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В таверне воровская шайка</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“В таверне воровская шайка...” (с. 88). — Гиперборей, 1913, № 8 (октябрь), с. 24. К-16, с. 54. К-23, с. 47. С, с. 54. БП, № 44. Автограф — АЛ. Автограф, под загл. “Таверна”, с разночт. в ст. 12: “Часов просеянный песок...” — AM. Печ. по К-16.
+Химеры — скульптуры фантастических чудовищ на верхней балюстраде собора Парижской Богоматери.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В таверне воровская шайка</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В таверне воровская шайка</l>
+                        <l n="2">Всю ночь играла в домино.</l>
+                        <l n="3">Пришла с яичницей хозяйка,</l>
+                        <l n="4">Монахи выпили вино.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">На башне спорили химеры:</l>
+                        <l n="6">Которая из них урод?</l>
+                        <l n="7">А утром проповедник серый</l>
+                        <l n="8">В палатки призывал народ.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">На рынке возятся собаки,</l>
+                        <l n="10">Менялы щелкает замок.</l>
+                        <l n="11">У вечности ворует всякий,</l>
+                        <l n="12">А вечность — как морской песок:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Он осыпается с телеги —</l>
+                        <l n="14">Не хватит на мешки рогож, —</l>
+                        <l n="15">И, недовольный, о ночлеге</l>
+                        <l n="16">Монах рассказывает ложь!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

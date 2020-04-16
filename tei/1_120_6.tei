@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Американка</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>В стих. Американка [с. 47] нагромождение несвязных
+598
+образов классической культуры (Египет, Лувр, Акрополь, “Фауст”, французские короли) мотивировано традиционной наивностью американки (ср. “Дон Жуан в Египте” Н. Гумилева); крипт — подземная галерея. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Американка</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Американка</l>
+                        <l n="2">Американка в двадцать лет</l>
+                        <l n="3">Должна добраться до Египта,</l>
+                        <l n="4">Забыв “Титаника” совет,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Что спит на дне, мрачнее крипта.</l>
+                        <l n="6">В Америке гудки поют</l>
+                        <l n="7">И красных небоскребов трубы</l>
+                        <l n="8">Холодным тучам отдают</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Свои прокопченные губы.</l>
+                        <l n="10">А в Лувре океана дочь</l>
+                        <l n="11">Стоит, прекрасная, как тополь;</l>
+                        <l n="12">Чтоб мрамор сахарный толочь,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Влезает белкой на Акрополь.</l>
+                        <l n="14">Не понимая ничего,</l>
+                        <l n="15">Читает “Фауста” в вагоне</l>
+                        <l n="16">И сожалеет, отчего</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

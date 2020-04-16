@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Холодок щекочет темя,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Холодок щекочет темя...” (с. 141). — Москва, 1922, № 6 (август), с. 2, с разночт. в ст. 16: “Осужденная на сруб”. Железный путь, Воронеж, 1923, № 8 (1 мая), с. 2. Красная нива, 1923, № 12 (25 марта), с. 21. Альм. “Возрождение”, 1923, т. 2, с. 3, с разночт. в ст. 12: “Как ты нынче шелестишь”. ВК, с. 66. С, с. 122, с датой “1922”. БП, № 112. Автограф — ИМЛИ, ф. 225, оп. 1, ед. хр. 11. Печ. по автографу.
+Обращено к Н. Я. Мандельштам.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Холодок щекочет темя,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Холодок щекочет темя,</l>
+                        <l n="2">И нельзя признаться вдруг, —</l>
+                        <l n="3">И меня срезает время,</l>
+                        <l n="4">Как скосило твой каблук.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Жизнь себя перемогает,</l>
+                        <l n="6">Понемногу тает зяук,</l>
+                        <l n="7">Все чего-то не хватает,</l>
+                        <l n="8">Что-то вспомнить недосуг.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">А ведь раньше лучше было,</l>
+                        <l n="10">И, пожалуй, не сравнишь,</l>
+                        <l n="11">Как ты прежде шелестила,</l>
+                        <l n="12">Кровь, как нынче шелестишь.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Видно, даром не проходит</l>
+                        <l n="14">Шевеленье этих губ,</l>
+                        <l n="15">И вершина колобродит,</l>
+                        <l n="16">Обреченная на сруб.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Эта ночь непоправима,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>За античной экзотикой из стихов ОМ надолго исчезает еврейская тема, когда-то всплеснувшаяся в стихах об омуте злом и вязком и смежных. Она появляется лишь трижды. В первый раз — в стихах на смерть матери (1916; ОМ поспел приехать лишь к ее похоронам) “Эта ночь непоправима...” [с. 225]: символический черно-желтый иудейский цвет здесь раздваивается, апокалиптическое черное солнце (Откр., 6. 12) осеняет рождение поэта, желтое и страшное — похороны его матери, уже выпадающие из его душевного мира (отпевания нет в иудейском погребальном обряде, здесь это намеренная контаминация с православием). </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Эта ночь непоправима,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Эта ночь непоправима,</l>
+                        <l n="2">А у вас еще светло.</l>
+                        <l n="3">У ворот Ерусалима</l>
+                        <l n="4">Солнце черное взошло.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Солнце желтое страшнее —</l>
+                        <l n="6">Баю-баюшки-баю —</l>
+                        <l n="7">В светлом храме иудеи</l>
+                        <l n="8">Хоронили мать мою!</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Благодати не имея,</l>
+                        <l n="10">И священства лишены,</l>
+                        <l n="11">В светлом храме иудеи</l>
+                        <l n="12">Отпевали прах жены.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И над матерью звенели</l>
+                        <l n="14">Голоса израильтян.</l>
+                        <l n="15">Я проснулся в колыбели —</l>
+                        <l n="16">Черным солнцем осиян...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ЗМЕЙ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>ЗМЕЙ
+Печатается по К1, с изменениями в пунктуации по беловому автографу (AM) ; здесь без заглавия и с другой редакцией ст. 15: /Качается, и стан свой опояшет,/. Впервые — Литературный альманах. 1912. С. 40 — 41 (без заглавия) (изд. “Аполлона”).
+322
+Я не хочу души своей излучин... — Реминисценция из ст-ния Блока “Незнакомка”: “И все души моей излучины...”  (БП, с. 306).
+И разума ∞ не хочу... — См. также “разум” в составе оппозиции в ст-нии “Необходимость или разум...”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ЗМЕЙ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ЗМЕЙ</l>
+                        <l n="2">Осенний сумрак — ржавое железо —</l>
+                        <l n="3">Скрипит, поет и разъедает плоть:</l>
+                        <l n="4">Что весь соблазн и все богатства Креза</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Пред лезвием твоей тоски, Господь!</l>
+                        <l n="6">Я как змеей танцующей измучен</l>
+                        <l n="7">И, перед ней, тоскуя, трепещу;</l>
+                        <l n="8">Я не хочу души своей излучин,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И разума, и Музы не хочу…</l>
+                        <l n="10">Достаточно лукавых отрицаний</l>
+                        <l n="11">Распутывать извилистый клубок;</l>
+                        <l n="12">Нет стройных слов для жалоб и признаний,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И кубок мой тяжел и неглубок!</l>
+                        <l n="14">К чему дышать? На жестких камнях пляшет</l>
+                        <l n="15">Больной удав, свиваясь и клубясь;</l>
+                        <l n="16">Качается, и тело опояшет,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">И падает, внезапно утомясь.</l>
+                        <l n="18">И, бесполезно, накануне казни,</l>
+                        <l n="19">Видением и пеньем потрясен,</l>
+                        <l n="20">Я слушаю, как узник, без боязни,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

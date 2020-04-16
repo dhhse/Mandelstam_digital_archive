@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Когда в теплой ночи замирает</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Рипол-Классик</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Москва кажется ему таким же мертвым городом, как Петербург: в “Когда в теплой ночи замирает...” [с. 76] она напоминает ему Геркуланум, откопанный из-под пепла, с римскими толпами, требующими “(хлеба и) зрелищ”; описывается центр города с рынком Охотного ряда и дорическими колоннами Большого театра (ср. очерк “Холодное лето”), от поздних извозчиков и от колесницы над фронтоном Большого театра — удары копыт. Ночное солнце, как мы увидим, — устойчивый у ОМ символ погибающего и воскресающего искусства. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Когда в теплой ночи замирает</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Когда в теплой ночи замирает</l>
+                        <l n="2">Лихорадочный форум Москвы</l>
+                        <l n="3">И театров широкие зевы</l>
+                        <l n="4">Возвращают толпу площадям,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Протекает по улицам пышным</l>
+                        <l n="6">Оживленье ночных похорон,</l>
+                        <l n="7">Льются мрачно-веселые толпы</l>
+                        <l n="8">Из каких-то божественных недр.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Это солнце ночное хоронит</l>
+                        <l n="10">Возбужденная играми чернь,</l>
+                        <l n="11">Возвращаясь с полночного пира</l>
+                        <l n="12">Под глухие удары копыт.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">И как новый встает Геркуланум</l>
+                        <l n="14">Спящий город в сияньи луны:</l>
+                        <l n="15">И убогого рынка лачуги,</l>
+                        <l n="16">И могучий дорический ствол.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

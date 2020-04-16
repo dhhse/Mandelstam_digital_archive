@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Может быть, это точка безумия,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>* “Может быть, это точка безумия...” (с. 249). — ВП-II,с. 63. CC-I, ? 380; в СССР — ЛГр-67, с. 72, — с разночт. в ст. 6: “свет-паучок”
+566
+и ст. 10: “Собираемы тонким лучом”. ВТ, с. 98, с указ. разночт. в ст. 6. Печ. по списку Н. Я. Мандельштам (AM).
+“О. М. сказал: “Это моя архитектура”...” (HM-III, с. 259).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Может быть, это точка безумия,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Может быть, это точка безумия,</l>
+                        <l n="2">Может быть, это совесть твоя —</l>
+                        <l n="3">Узел жизни, в котором мы узнаны</l>
+                        <l n="4">И развязаны для бытия.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Так соборы кристаллов сверхжизненных</l>
+                        <l n="6">Добросовестный свет-паучок,</l>
+                        <l n="7">Распуская на ребра, их сызнова</l>
+                        <l n="8">Собирает в единый пучок.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Чистых линий пучки благодарные,</l>
+                        <l n="10">Направляемы тихим лучом,</l>
+                        <l n="11">Соберутся, сойдутся когда-нибудь,</l>
+                        <l n="12">Словно гости с открытым челом, — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Только здесь, на земле, а не на небе,</l>
+                        <l n="14">Как в наполненный музыкой дом, —</l>
+                        <l n="15">Только их не спугнуть, не изранить бы —</l>
+                        <l n="16">Хорошо, если мы доживем...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

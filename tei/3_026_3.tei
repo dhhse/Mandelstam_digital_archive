@@ -1,0 +1,69 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ночь на дворе. Барская лжа:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-95</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>161. ВП. Альм. 2. Печ. по Своду, где дано по списку Н.Я. Мандельштам 1931 г. (ныне местонахождение неизвестно). В ВС с мелким разночтением; в НК с искажением («храп» вм. «хрип»). Н.Я.Мандельштам, имея в виду ст-ние Б.Пастернака «Красавица моя, вся стать...», писала: «„Ночь на дворе"... ответ на те строки Пастернака, где он говорит, что „рифма не вторенье строк, а гардеробный номерок, талон на место у колонн"» (24, с. 140); это предположение, однако, оценивалось как бездоказательное (60, с. 120). Строфа 2 повторяет мотивы ст-ния 160.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Ночь на дворе. Барская лжа:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Ночь на дворе. Барская лжа:</l>
+                        <l n="2">После меня хоть потоп.</l>
+                        <l n="3">Что же потом? Хрип горожан</l>
+                        <l n="4">И толкотня в гардероб.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Бал-маскарад. Век-волкодав.</l>
+                        <l n="6">Так затверди ж назубок:</l>
+                        <l n="7">Шапку в рукав, шапкой в рукав —</l>
+                        <l n="8">И да хранит тебя Бог!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

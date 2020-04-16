@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Сумерки свободы</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Сумерки свободы</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Сумерки свободы</l>
+                        <l n="2">Прославим, братья, сумерки свободы,</l>
+                        <l n="3">Великий сумеречный год!</l>
+                        <l n="4">В кипящие ночные воды</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Опущен грузный лес тенет.</l>
+                        <l n="6">Восходишь ты в глухие годы, —</l>
+                        <l n="7">О, солнце, судия, народ.</l>
+                        <l n="8">Прославим роковое бремя,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Которое в слезах народный вождь берет.</l>
+                        <l n="10">Прославим власти сумрачное бремя,</l>
+                        <l n="11">Ее невыносимый гнет.</l>
+                        <l n="12">В ком сердце есть — тот должен слышать, время,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Как твой корабль ко дну идет.</l>
+                        <l n="14">Мы в легионы боевые</l>
+                        <l n="15">Связали ласточек — и вот</l>
+                        <l n="16">Не видно солнца; вся стихия</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Щебечет, движется, живет;</l>
+                        <l n="18">Сквозь сети — сумерки густые —</l>
+                        <l n="19">Не видно солнца, и земля плывет.</l>
+                        <l n="20">Ну что ж, попробуем: огромный, неуклюжий,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Скрипучий поворот руля.</l>
+                        <l n="22">Земля плывет. Мужайтесь, мужи.</l>
+                        <l n="23">Как плугом, океан деля,</l>
+                        <l n="24">Мы будем помнить и в летейской стуже,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

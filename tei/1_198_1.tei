@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Черепаха</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Черепаха</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Черепаха</l>
+                        <l n="2">На каменных отрогах Пиэрии</l>
+                        <l n="3">Водили музы первый хоровод,</l>
+                        <l n="4">Чтобы, как пчелы, лирники слепые</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Нам подарили ионийский мед.</l>
+                        <l n="6">И холодком повеяло высоким</l>
+                        <l n="7">От выпукло-девического лба,</l>
+                        <l n="8">Чтобы раскрылись правнукам далеким</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Архипелага нежные гроба.</l>
+                        <l n="10">Бежит весна топтать луга Эллады,</l>
+                        <l n="11">Обула Сафо пестрый сапожок,</l>
+                        <l n="12">И молоточками куют цикады,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Как в песенке поется, перстенек.</l>
+                        <l n="14">Высокий дом построил плотник дюжий,</l>
+                        <l n="15">На свадьбу всех передушили кур,</l>
+                        <l n="16">И растянул сапожник неуклюжий</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">На башмаки все пять воловьих шкур.</l>
+                        <l n="18">Нерасторопна черепаха-лира,</l>
+                        <l n="19">Едва-едва беспалая ползет,</l>
+                        <l n="20">Лежит себе на солнышке Эпира,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Тихонько грея золотой живот.</l>
+                        <l n="22">Ну, кто ее такую приласкает,</l>
+                        <l n="23">Кто спящую ее перевернет?</l>
+                        <l n="24">Она во сне Терпандра ожидает,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Сухих перстов предчувствуя налет.</l>
+                        <l n="26">Поит дубы холодная криница,</l>
+                        <l n="27">Простоволосая шумит трава,</l>
+                        <l n="28">На радость осам пахнет медуница.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">О, где же вы, святые острова,</l>
+                        <l n="30">Где не едят надломленного хлеба,</l>
+                        <l n="31">Где только мед, вино и молоко,</l>
+                        <l n="32">Скрипучий труд не омрачает неба</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

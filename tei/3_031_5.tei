@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Нет, не спрятаться мне от великой муры</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Первоначально оно составляло одно со стих. «Нет, не спрятаться мне от великой муры...» [с. 170] («А» и «Б» — кольцевые маршруты московских трамваев по сжимающимся переулкам и растущим площадям, трамвайная вишенка — вероятно, от глагола «висеть», ухватившись за трамвайный ремень или поручни площадки; «кто скорее умрет», «ты как хочешь...» — спор с НЯМ, которой приходила в голову мысль о самоубийстве).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Нет, не спрятаться мне от великой муры</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Нет, не спрятаться мне от великой муры</l>
+                        <l n="2">За извозчичью спину Москвы.</l>
+                        <l n="3">Я — трамвайная вишенка страшной поры,</l>
+                        <l n="4">И не знаю, зачем я живу.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Мы с тобою поедем на «А» и на «Б»</l>
+                        <l n="6">Посмотреть, кто скорее умрет,</l>
+                        <l n="7">А она то сжимается, как воробей,</l>
+                        <l n="8">То растет, как воздушный пирог.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И едва успевает грозить из угла —</l>
+                        <l n="10">Ты как хочешь, а я не рискну!</l>
+                        <l n="11">У кого под перчаткой не хватит тепла,</l>
+                        <l n="12">Чтоб объехать всю курву-Москву.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

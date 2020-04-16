@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В белом раю лежит богатырь:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>ЛП Камень</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“В БЕЛОМ РАЮ ЛЕЖИТ БОГАТЫРЬ...”
+Печатается по беловому автографу с датой (ИРЛИ, ф. 627, оп. 2, ед. хр. 19, л. 3). Впервые — Мандельштам в записях, с. 146 —147. “Белый рай” в ст. 1, 9, по-видимому, является у Мандельштама обозначением “Валгаллы” ; ср.: “Валгаллы белое вино” в ст-нии “Втот вечер не гудел стрельчатый лес органа...” (1918).
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В белом раю лежит богатырь:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В белом раю лежит богатырь:</l>
+                        <l n="2">Пахарь войны, пожилой мужик.</l>
+                        <l n="3">В серых глазах мировая ширь:</l>
+                        <l n="4">Великорусский державный лик.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Только святые умеют так</l>
+                        <l n="6">В благоуханном гробу лежать;</l>
+                        <l n="7">Выпростав руки, блаженства в знак,</l>
+                        <l n="8">Славу свою и покой вкушать.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Разве Россия не белый рай</l>
+                        <l n="10">И не веселые наши сны?</l>
+                        <l n="11">Радуйся, ратник, не умирай:</l>
+                        <l n="12">Внуки и правнуки спасены!</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

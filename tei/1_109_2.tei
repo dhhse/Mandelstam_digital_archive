@@ -1,0 +1,63 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hier stehe ich — ich kann nicht anders.</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Здесь я стою — я не могу иначе...” (с. 85). — С, с. 47. БП, № 39. Автограф, с датой “1913” и пометой: “После “Петербургские строфы”, — НР-28, л. 59. Список С. П. Каблукова, под загл. “Лютер в Вормсе” и с датой “1915”, — К-16(Кабл.). Печ. по НР-28.
+“Здесь я стою — я не могу иначе...” — точный перевод эпиграфа; ответ Мартина Лютера (1483 — 1546), великого деятеля Реформации, — на предложение Вормского сейма (1521) отречься от “ереси”. Купол Петра — собор св. Петра в Риме, главный католический храм.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Hier stehe ich — ich kann nicht anders.</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Hier stehe ich — ich kann nicht anders.</l>
+                        <l n="2">Не просветлеет темная гора —</l>
+                        <l n="3">И кряжистого Лютера незрячий</l>
+                        <l n="4">Витает дух над куполом Петра.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Небо вечери в стену влюбилось, —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>* “Небо вечери в стену влюбилось...” (с. 247). — CC-I, ? 377, под загл. “Тайная вечеря”, с разночт. в ст. 2: “Все изранено” и ст. 11 — 12: “Той же вечери новые раны, // Неоконченной росписи мгла”. ВТ, с. 99; в СССР — Д-87, с. 116, — под загл. “Тайная вечеря”, с указ. разночт. в ст. 2. В памяти Н. Я. Мандельштам — вариант ст. 3:
+565
+“Провалилось в нее, отразилось...” Печ. по списку Н. Я. Мандельштам (AM).
+“Тайная вечеря” — знаменитая фреска Леонардо да Винчи в миланской церкви Санта-Мария делле Грацие (роспись серьезно пострадала в XVII — XVIII вв., а также в 1943 г.). “Погибшая работа художника — мысль о своем наследстве. Очень редкая для О. М.” (НМ-III, с. 258).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Небо вечери в стену влюбилось, —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Небо вечери в стену влюбилось, —</l>
+                        <l n="2">Все изрублено светом рубцов —</l>
+                        <l n="3">Провалилось в нее, осветилось,</l>
+                        <l n="4">Превратилось в тринадцать голов.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Вот оно — мое небо ночное,</l>
+                        <l n="6">Пред которым как мальчик стою:</l>
+                        <l n="7">Холодеет спина, очи ноют.</l>
+                        <l n="8">Стенобитную твердь я ловлю — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И под каждым ударом тарана</l>
+                        <l n="10">Осыпаются звезды без глав:</l>
+                        <l n="11">Той же росписи новые раны —</l>
+                        <l n="12">Неоконченной вечности мгла...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

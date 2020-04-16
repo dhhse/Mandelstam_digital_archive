@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ПАРИЖ</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ПАРИЖ</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ПАРИЖ</l>
+                        <l n="2">Язык булыжника мне голубя понятней,</l>
+                        <l n="3">Здесь камни — голуби, дома — как голубятни.</l>
+                        <l n="4">И светлым ручейком течет рассказ подков</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">По звучным мостовым прабабки городов.</l>
+                        <l n="6">Здесь толпы детские — событий попрошайки,</l>
+                        <l n="7">Парижских воробьев испуганные стайки,</l>
+                        <l n="8">Клевали наскоро крупу свинцовых крох —</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Фригийской бабушкой рассыпанный горох.</l>
+                        <l n="10">И в памяти живет плетеная корзинка,</l>
+                        <l n="11">И в воздухе плывет забытая коринка,</l>
+                        <l n="12">И тесные дома — зубов молочных ряд</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">На деснах старческих, как близнецы, стоят.</l>
+                        <l n="14">Здесь клички месяцам давали, как котятам,</l>
+                        <l n="15">И молоко и кровь давали нежным львятам;</l>
+                        <l n="16">А подрастут они — то разве года два</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">Держалась на плечах большая голова!</l>
+                        <l n="18">Большеголовые там руки подымали</l>
+                        <l n="19">И клятвой на песке, как яблоком, играли...</l>
+                        <l n="20">Мне трудно говорить — не видел ничего,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Но все-таки скажу: я помню одного, —</l>
+                        <l n="22">Он лапу поднимал, как огненную розу,</l>
+                        <l n="23">И, как ребенок, всем показывал занозу,</l>
+                        <l n="24">Его не слушали: смеялись кучера,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">И грызла яблоки, с шарманкой, детвора.</l>
+                        <l n="26">Афиши клеили, и ставили капканы,</l>
+                        <l n="27">И пели песенки, и жарили каштаны,</l>
+                        <l n="28">И светлой улицей, как просекой прямой,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

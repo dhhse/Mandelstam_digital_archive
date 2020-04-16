@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Слышу, слышу ранний лед,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Воспоминанием из изгнания о Петербурге является стих. “Слышу, слышу ранний лед...” [с. 233], где поэт сравнивает себя с изгнанником-Данте. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Слышу, слышу ранний лед,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Слышу, слышу ранний лед,</l>
+                        <l n="2">Шелестящий под мостами,</l>
+                        <l n="3">Вспоминаю, как плывет</l>
+                        <l n="4">Светлый хмель над головами.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">С черствых лестниц, с площадей</l>
+                        <l n="6">С угловатыми дворцами</l>
+                        <l n="7">Круг Флоренции своей</l>
+                        <l n="8">Алигьери пел мощней</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Утомленными губами.</l>
+                        <l n="10">Так гранит зернистый тот</l>
+                        <l n="11">Тень моя грызет очами,</l>
+                        <l n="12">Видит ночью ряд колод,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Днем казавшихся домами,</l>
+                        <l n="14">Или тень баклуши бьет</l>
+                        <l n="15">И позевывает с вами,</l>
+                        <l n="16">Иль шумит среди людей,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

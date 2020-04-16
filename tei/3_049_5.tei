@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Увы, растаяла свеча</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Более ранние стихи ОМ на итальянские темы, «Вы помните, как бегуны...» и «Увы, растаяла свеча...» [с. 186] первоначально составляли одно стихотворение «Новеллино» (по названию старейшего итальянского сборника новелл): первое из них рисует встречу Данте с Брунетто Латини («Ад», XV), обреченным бегать по кругу, как на веронских соревнованиях за отрез зеленого сукна (ср. «Разговор о Данте», 2), второе — образы персонажей Боккаччо и других новеллистов (и «Слуги двух господ» Гольдони).</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Увы, растаяла свеча</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Увы, растаяла свеча</l>
+                        <l n="2">Молодчиков каленых,</l>
+                        <l n="3">Что хаживали вполплеча</l>
+                        <l n="4">В камзольчиках зеленых,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Что пересиливали срам</l>
+                        <l n="6">И чумную заразу</l>
+                        <l n="7">И всевозможным господам</l>
+                        <l n="8">Прислуживали сразу.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И нет рассказчика для жен</l>
+                        <l n="10">В порочных длинных платьях,</l>
+                        <l n="11">Что проводили дни, как сон,</l>
+                        <l n="12">В пленительных занятьях:</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Лепили воск, мотали шелк,</l>
+                        <l n="14">Учили попугаев</l>
+                        <l n="15">И в спальню, видя в этом толк,</l>
+                        <l n="16">Пускали негодяев 1.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

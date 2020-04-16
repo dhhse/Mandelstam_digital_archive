@@ -1,0 +1,116 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>ФАЭТОНЩИК</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>ФАЭТОНЩИК</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">ФАЭТОНЩИК</l>
+                        <l n="2">На высоком перевале</l>
+                        <l n="3">В мусульманской стороне</l>
+                        <l n="4">Мы со смертью пировали — </l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Было страшно, как во сне.</l>
+                        <l n="6">Нам попался фаэтонщик,</l>
+                        <l n="7">Пропеченный, как изюм,</l>
+                        <l n="8">Словно дьявола погонщик,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Односложен и угрюм.</l>
+                        <l n="10">То гортанный крик араба,</l>
+                        <l n="11">То бессмысленное «цо», — </l>
+                        <l n="12">Словно розу или жабу,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Он берег свое лицо:</l>
+                        <l n="14">Под кожевенною маской</l>
+                        <l n="15">Скрыв ужасные черты,</l>
+                        <l n="16">Он куда-то гнал коляску</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="17">До последней хрипоты.</l>
+                        <l n="18">И пошли толчки, разгоны,</l>
+                        <l n="19">И не слезть было с горы — </l>
+                        <l n="20">Закружились фаэтоны,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="21">Постоялые дворы...</l>
+                        <l n="22">Я очнулся: стой, приятель!</l>
+                        <l n="23">Я припомнил — черт возьми!</l>
+                        <l n="24">Это чумный председатель</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="25">Заблудился с лошадьми!</l>
+                        <l n="26">Он безносой канителью</l>
+                        <l n="27">Правит, душу веселя,</l>
+                        <l n="28">Чтоб вертелась каруселью</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="29">Кисло-сладкая земля...</l>
+                        <l n="30">Так, в Нагорном Карабахе,</l>
+                        <l n="31">В хищном городе Шуше</l>
+                        <l n="32">Я изведал эти страхи,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="33">Соприродные душе.</l>
+                        <l n="34">Сорок тысяч мертвых окон</l>
+                        <l n="35">Там видны со всех сторон</l>
+                        <l n="36">И труда бездушный кокон</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="37">На горах похоронен.</l>
+                        <l n="38">И бесстыдно розовеют</l>
+                        <l n="39">Обнаженные дома,</l>
+                        <l n="40">А над ними неба мреет</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

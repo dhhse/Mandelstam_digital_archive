@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Темных уз земного заточенья</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Темных уз земного заточенья...” (с. 281). — Аполлон, 1911, кн. 5, с. 32 (в подборке ст-ний, написанных в 1910). БП, № 235, с датой “1910”. По-видимому, написано в конце 1910 г. В списке в К-16(Кабл.) дата “1911”. Печ. по ж. “Аполлон”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Темных уз земного заточенья</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Темных уз земного заточенья</l>
+                        <l n="2">Я ничем преодолеть не мог,</l>
+                        <l n="3">И тяжелым панцирем презренья</l>
+                        <l n="4">Я окован с головы до ног.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Иногда со мной бывает нежен</l>
+                        <l n="6">И меня преследует двойник;</l>
+                        <l n="7">Как и я — он так же неизбежен</l>
+                        <l n="8">И ко мне внимательно приник.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И, глухую затаив развязку,</l>
+                        <l n="10">Сам себя я вызвал на турнир;</l>
+                        <l n="11">С самого себя срывню маску</l>
+                        <l n="12">И презрительный лелею мир.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Я своей печали недостоин,</l>
+                        <l n="14">И моя последняя мечта —</l>
+                        <l n="15">Роковой и краткий гул пробоин</l>
+                        <l n="16">Моего узорного щита.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

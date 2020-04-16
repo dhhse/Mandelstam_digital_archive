@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Возможна ли женщине мертвой хвала?</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Четырехтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note></note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Возможна ли женщине мертвой хвала?</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Возможна ли женщине мертвой хвала?</l>
+                        <l n="2">Она в отчужденьи и в силе,</l>
+                        <l n="3">Ее чужелюбая власть привела</l>
+                        <l n="4">К насильственной жаркой могиле.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И твердые ласточки круглых бровей</l>
+                        <l n="6">Из гроба ко мне прилетели</l>
+                        <l n="7">Сказать, что они отлежались в своей</l>
+                        <l n="8">Холодной стокгольмской постели.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И прадеда скрипкой гордился твой род,</l>
+                        <l n="10">От шейки ее хорошея,</l>
+                        <l n="11">И ты раскрывала свой аленький рот,</l>
+                        <l n="12">Смеясь, итальянясь, русея...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Я тяжкую память твою берегу — </l>
+                        <l n="14">Дичок, медвежонок, Миньона, — </l>
+                        <l n="15">Но мельниц колеса зимуют в снегу,</l>
+                        <l n="16">И стынет рожок почтальона.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

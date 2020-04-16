@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Дрожжи мира дорогие:</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Стих. “Дрожжи мира дорогие...” [с. 230] и “Влез бесенок в мокрой шерстке...” [с. 230] были первоначально одним стихотворением, вызванным “воспоминанием о монастырской дороге, где после дождя в следы, оставленные копытами, набиралась вода... Вмятины дороги навели &lt;ОМ&gt; на мысль о памяти, о том, как события оставляют следы в памяти” (НЯМ): в первом стихотворении поэт наощупь ищет в памяти следы поэзии, дрожжи, вздымающие мир; во втором эти осколки памяти обирает бесенок, и ось ищущего свой путь поэта сбивается с пути.
+667
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Дрожжи мира дорогие:</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Дрожжи мира дорогие:</l>
+                        <l n="2">Звуки, слезы и труды —</l>
+                        <l n="3">Ударенья дождевые</l>
+                        <l n="4">Закипающей беды</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И потери звуковые —</l>
+                        <l n="6">Из какой вернуть руды?</l>
+                        <l n="7">В нищей памяти впервые</l>
+                        <l n="8">Чуешь вмятины слепые,</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Медной полные воды, —</l>
+                        <l n="10">И идешь за ними следом,</l>
+                        <l n="11">Сам себе не мил, неведом —</l>
+                        <l n="12">И слепой, и поводырь...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

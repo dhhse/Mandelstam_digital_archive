@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Скудный луч холодной мерою</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“Скудный луч, холодной мерою...” (с. 73). — Лит. альманах (кн-во “Аполлон”). СПб., 1912, с. 40 (вышел в ноябре 1911, повторен в 1914). К-13, с. 8. Златоцвет, 1914, № 10, с. 6. К-16, с. 21. К-23, с. 19. С, с. 23. БД № 18. Печ. по ж. “Златоцвет”.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Скудный луч холодной мерою</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Скудный луч холодной мерою</l>
+                        <l n="2">Сеет свет в сыром лесу.</l>
+                        <l n="3">Я печаль, как птицу серую,</l>
+                        <l n="4">В сердце медленно несу.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Что мне делать с птицей раненой?</l>
+                        <l n="6">Твердь умолкла, умерла.</l>
+                        <l n="7">С колокольни отуманенной</l>
+                        <l n="8">Кто-то снял колокола.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И стоит осиротелая</l>
+                        <l n="10">И немая вышина,</l>
+                        <l n="11">Как пустая башня белая,</l>
+                        <l n="12">Где туман и тишина...</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Утро, нежностью бездонное,</l>
+                        <l n="14">Полу-явь и полу-сон,</l>
+                        <l n="15">Забытье неутоленное,</l>
+                        <l n="16">Дум туманный перезвон...</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

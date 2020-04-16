@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>В огромном омуте прозрачно и темно,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>Двухтомник </edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>“В огромном омуте прозрачно и темно...” (с. 72). — Аполлон, 1911, № 5, с. 32. К-16, с. 18. 88 современных стихотворений, избранных З. Н. Гиппиус. Пг., 1917, с. 67. К-23, с. 17. С, с. 21. БП, № 16. Авториз. машинопись с датой “1910” — AM. Печ. по AM.</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>В огромном омуте прозрачно и темно,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">В огромном омуте прозрачно и темно,</l>
+                        <l n="2">И томное окно белеет.</l>
+                        <l n="3">А сердце — отчего так медленно оно</l>
+                        <l n="4">И так упорно тяжелеет?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">То — всею тяжестью оно идет ко дну,</l>
+                        <l n="6">Соскучившись по милом иле,</l>
+                        <l n="7">То — как соломинка, минуя глубину,</l>
+                        <l n="8">Наверх всплывает без усилий.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">С притворной нежностью у изголовья стой</l>
+                        <l n="10">И сам себя всю жизнь баюкай;</l>
+                        <l n="11">Как небылицею, своей томись тоской</l>
+                        <l n="12">И ласков будь с надменной скукой.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

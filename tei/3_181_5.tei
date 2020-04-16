@@ -1,0 +1,74 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Я к губам подношу эту зелень —</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Последние воронежские стихи связаны с именем H. E. Штемпель, которая в это время выходила замуж. Стих. “Я к губам подношу эту зелень...” [с. 253] о весенней клейкой клятве природы (от “клейких листочков” Достоевского), которая в вечном кругообороте преступит эту клятву осенью, написано после совместной прогулки в воронежском Ботаническом саду. </note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Я к губам подношу эту зелень —</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Я к губам подношу эту зелень —</l>
+                        <l n="2">Эту клейкую клятву листов —</l>
+                        <l n="3">Эту клятвопреступную землю:</l>
+                        <l n="4">Мать подснежников, кленов, дубков.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Погляди, как я крепну и слепну,</l>
+                        <l n="6">Подчиняясь смиренным корням,</l>
+                        <l n="7">И не слишком ли великолепно</l>
+                        <l n="8">От гремучего парка глазам?</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">А квакуши, как шарики ртути,</l>
+                        <l n="10">Голосами сцепляются в шар,</l>
+                        <l n="11">И становятся ветками прутья</l>
+                        <l n="12">И молочною выдумкой пар.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Оттого все неудачи,</title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-2000</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>Стих. “Твой зрачок в небесной корке...” [с. 228] обращено к НЯМ с ее редким голубым цветом глаз; соседнее стих. “Оттого все неудачи...” [с. 228] — к H. E. Штемпель, воронежской учительнице, новой знакомой Мандельштамов, и ее злому черному коту с недобрым взглядом (НЯМ была недовольна таким соседством); и Кащей и кот восходят к образам пролога “Руслана и Людмилы”. ОМ писал о втором стихотворении Н. Тихонову: “В этой вещи я очень скромными средствами при помощи буквы щ и еще кое-чего сделал (материальный) кусок золота. Язык русский на чудеса способен, лишь бы ему стих повиновался...”
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Оттого все неудачи,</head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Оттого все неудачи,</l>
+                        <l n="2">Что я вижу пред собой</l>
+                        <l n="3">Ростовщичий глаз кошачий —</l>
+                        <l n="4">Внук он зелени стоячей</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">И купец воды морской.</l>
+                        <l n="6">Там, где огненными щами</l>
+                        <l n="7">Угощается Кащей,</l>
+                        <l n="8">С говорящими камнями</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">Он на счастье ждет гостей —</l>
+                        <l n="10">Камни трогает клещами,</l>
+                        <l n="11">Щиплет золото гвоздей.</l>
+                        <l n="12">У него в покоях спящих</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="13">Кот живет не для игры —</l>
+                        <l n="14">У того в зрачках горящих</l>
+                        <l n="15">Клад зажмуренной горы —</l>
+                        <l n="16">И в зрачках тех леденящих,</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>

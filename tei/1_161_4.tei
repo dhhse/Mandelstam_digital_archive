@@ -1,0 +1,75 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Вот дароносица, как солнце золотое, </title>
+                <author>О.Э. Мандельштам</author>
+                <respStmt>
+                    <resp>подготовка TEI/XML</resp>
+                    <name>Алексей Литвинцев, Вероника Файнберг, Тимофей Молчанов</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Идея, постановка задач, руководство</resp>
+                    <name>Анастасия Бонч-Осмоловская, Павел Нерлер, Леонид Видгоф,  Дмитрий Зуев, Вероника Файнберг, Павел Литвинов</name>
+                    <orgName>Центр Digital Humanities НИУ ВШЭ</orgName>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <pubPlace>Москва</pubPlace>
+                <publisher>АРТ-БИЗНЕС-ЦЕНТР МОСКВА</publisher>
+                <date>1993</date>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>О.Э. Мандельштам</author>
+                        <edition>БП-73</edition>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <samplingDecl>
+                <p>Издание подготовлено Мандельштамовским обществом</p>
+            </samplingDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date notBefore="1920" notAfter="1920">1920</date>
+            </creation>
+            <langUsage>
+                <language ident="RU">Whole text in Russian.</language>
+            </langUsage>
+            <textDesc n="poem" />
+        </profileDesc>
+        <note>267. Т, с .64. Датируется на основании записи в дневнике С. П. Каблукова (от 24 июня 1915 г.). Датированный список (1915). Евхаристия — церковный обряд причащения.
+</note>
+    </teiHeader>
+    <text>
+        <body>
+            <div1 n="2" type="volume">
+                <div2 n="63" type="poem" rhyme="aabbccddeeffaaff">
+                    <head>Вот дароносица, как солнце золотое, </head>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="1">Вот дароносица, как солнце золотое, </l>
+                        <l n="2">Повисла в воздухе — великолепный миг. </l>
+                        <l n="3">Здесь должен прозвучать лишь греческий язык: </l>
+                        <l n="4">Взят в руки целый мир, как яблоко простое.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="5">Богослужения торжественный зенит,</l>
+                        <l n="6">Свет в круглой храмине под куполом в июле,</l>
+                        <l n="7">Чтоб полной грудью мы вне времени вздохнули.</l>
+                        <l n="8">О луговине той, где время не бежит.</l>
+                    </lg>
+                    <lg type="quatrain" rhyme="" met="">
+                        <l n="9">И евхаристия, как вечный полдень, длится —</l>
+                        <l n="10">Все причащаются, играют и поют, </l>
+                        <l n="11">И на виду у всех божественный сосуд </l>
+                        <l n="12">Неисчерпаемым веселием струится.</l>
+                    </lg>
+                </div2>
+            </div1>
+        </body>
+    </text>
+</TEI>
