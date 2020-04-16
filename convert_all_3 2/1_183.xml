@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Меганом</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_183" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я4жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="33" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="183" type="part">
+<head>183.
+Меганом</head>
+<lg type="octet">
+<l n="1">Еще далеко асфоделей</l>
+<l n="2">Прозрачно-серая весна.</l>
+<l n="3">Пока еще на самом деле</l>
+<l n="4">Шуршит песок, кипит волна.</l>
+<l n="5">Но здесь душа моя вступает,</l>
+<l n="6">Как Персефона, в легкий круг,<rs ref="Персефона" type="myth_index"></rs></l>
+<l n="7">И в царстве мертвых не бывает</l>
+<l n="8">Прелестных загорелых рук.</l>
+</lg>
+<lg type="octet">
+<l n="9">Зачем же лодке доверяем</l>
+<l n="10">Мы тяжесть урны гробовой</l>
+<l n="11">И праздник черных роз свершаем</l>
+<l n="12">Над аметистовой водой?</l>
+<l n="13">Туда душа моя стремится,</l>
+<l n="14">За мыс туманный Меганом,<rs ref="Меганом" type="geo_index"></rs></l>
+<l n="15">И черный парус возвратится</l>
+<l n="16">Оттуда после похорон.</l>
+</lg>
+<lg type="octet">
+<l n="17">Как быстро тучи пробегают</l>
+<l n="18">Неосвещенною грядой,</l>
+<l n="19">И хлопья черных роз летают</l>
+<l n="20">Под этой ветряной луной.</l>
+<l n="21">И, птица смерти и рыданья,</l>
+<l n="22">Влачится траурной каймой</l>
+<l n="23">Огромный флаг воспоминанья</l>
+<l n="24">За кипарисною кормой.</l>
+</lg>
+<lg type="octet">
+<l n="25">И раскрывается с шуршаньем</l>
+<l n="26">Печальный веер прошлых лет, —</l>
+<l n="27">Туда, где с темным содроганьем</l>
+<l n="28">В песок зарылся амулет,</l>
+<l n="29">Туда душа моя стремится,</l>
+<l n="30">За мыс туманный Меганом,<rs ref="Меганом" type="geo_index"></rs></l>
+<l n="31">И черный парус возвратится</l>
+<l n="32">Оттуда после похорон!</l>
+</lg>
+<date when="1917-08-16">16 августа 1917, Алушта</date>
+<rs ref="Алушта" type="geo_index"></rs>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Рецензии. Récits de la vie américaine</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="prose"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="275" type="part">
+<head>275.
+Récits de la vie américaine.</head>
+<p>Это новеллы писателей Латинской Америки, главным образом аргентинцев. В литературной манере этих авторов замечается некоторая старомодность, словно они испытывают непосредственное влияние Мериме. Почти все — очень хорошие рассказчики, с сильной фабульной пружиной. Их привлекает колониальное прошлое с его гражданскими войнами и живописным беззаконием. Очень хотелось бы составить небольшой оригинальный сборничек, но, к сожалению, то, что подбирается, лишено центра тяжести. Книга неполная: несколько рассказов вырезано. Из остающихся приемлемы:<rs ref="Америка Латинская" type="geo_index"></rs><rs ref="Мериме, Проспер" type="person"></rs></p>
+<p>1) Alvarez. </p>
+<p> — хрестоматийно-совершенная вещь: редкое чувство меры в сопоставлении человека и природы.</p>
+<p>2) Payro. </p>
+<p>. Яркий социальный мотив: вор-префект преследует крестьянина.</p>
+<p> Рассказы из американской жизни </p>
+<p> Пайро. Летняя накидка (<rs ref="Пайро, Роберто" type="person"></rs></p>
+<p>.: капор)</p>
+<p>3) </p>
+<p>: эпизод одной из бесчисленных гражданских войн (40-е годы). Расстрел пленников. Чисто формальные достоинства.</p>
+<p>4) </p>
+<p>: посещение колонии островитян; фрегатно-парусная эпоха; проблема цивилизации с отзвуками Руссо; чудесный ландшафт.<rs ref="Руссо, Жан-Жак" type="person"></rs></p>
+<p>5) </p>
+<p>. Злоключения простака-крестьянина — скотовода. Быт прерий в середине прошлого века. Социальный мотив заслонен темой рока.</p>
+<p>Прочие рассказы построены на литературной обработке суеверных преданий и мистике ужаса.</p>
+<p> Легисамон. Расстрел. (<rs ref="Легисамон, Мартиньяно" type="person"></rs></p>
+<p>).</p>
+<p> Простак (</p>
+<p>.); </p>
+<p> — имя героя рассказа.</p>
+<note>
+1 Рассказы из американской жизни (фр.).
+2 Пайро. Летняя накидка (фр.;букв.: капор).
+
+1 Легисамон. Расстрел. (фр.).
+2 Простак (фр.); здесь — имя героя рассказа.
+</note>
+<rs ref="Легисамон, Мартиньяно" type="person"></rs>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

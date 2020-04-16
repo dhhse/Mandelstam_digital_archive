@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Баллада о горлинках</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_064" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="баллада # 4" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб абаб # перекрестная" type="Схема рифмовки"></catref>
+<catref target="Я4жм" type="Метрическая формула"></catref>
+<catref target="рефрен" type="Дополнительные параметры"></catref>
+<catref target="28" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="" type="part">
+<head>64.
+БАЛЛАДА О ГОРЛИНКАХ</head>
+<lg type="quatrain">
+<l n="1">Восстал на царство Короленки<rs ref="Короленко, Владимир Галактионович" type="person"></rs></l>
+<l n="2">Ионов, Гиз, Авессалом:<rs ref="Ионов (Бернштейн), Илья Ионович" type="person"></rs></l>
+<l n="3">— Литературы-вырожденки<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs></l>
+<l n="4">Не признаем, не признаем!</l>
+</lg>
+<lg type="octet">
+<l n="5">Кто упадет на четверенки?</l>
+<l n="6">(Двум Александрам тесен дом.)</l>
+<l n="7">Блондинки, рыжие, шатенки</l>
+<l n="8">Вздохнут о ком, вздохнут о ком?</l>
+<l n="9">Кто будет мучиться в застенке,</l>
+<l n="10">Доставлен в Госиздат живьем?</l>
+<l n="11">Воздерживаюсь от оценки:</l>
+<l n="12">Мы только горлинки берем!</l>
+</lg>
+<lg type="octet">
+<l n="13">Гордятся патриотки-венки</l>
+<l n="14">Своим слабительным питьем —</l>
+<l n="15">С лица Всемирки-Современки</l>
+<l n="16">Не воду пьем, не воду пьем!</l>
+<l n="17">К чему нам различать оттенки?</l>
+<l n="18">Не нам кичиться этажом.</l>
+<l n="19">Нам — гусь, тебе — бульон и гренки, —</l>
+<l n="20">Мы только горлинки берем!</l>
+</lg>
+<lg type="quatrain">
+<l n="21">Князь Гиза, слышишь, к переменке</l>
+<l n="22">Поет бухгалтер соловьем:</l>
+<l n="23">— Кто на кредитки пялит зенки?</l>
+<l n="24">Мы только горлинки берем!</l>
+</lg>
+<date when="1924-12-25">В ночь на 25 декабря 1924</date>
+<note>
+* Посылка, то есть заключительная строфа баллады, содержащая обращение к лицу, которому эта баллада посвящена (фр.).
+</note>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

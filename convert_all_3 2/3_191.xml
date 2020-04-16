@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Зане в cадах Халатова-халифа...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_191" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="регулярная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мдмдм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="затянутая" type="Рифма"></catref>
+<catref target="абаба" type="Схема рифмовки"></catref>
+<catref target="Х4м~Х2м+Х4д+…+Х4м" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="25" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="191" type="part">
+<head>ШУТОЧНЫЕ СТИХИ</head>
+<head>191.</head>
+<lg type="quatrain">
+<l n="1">Зане в садах Халатова-халифа<rs ref="Халатов, Артемий (Арташес) Багратович" type="person"></rs></l>
+<l n="2">Дух бытия.</l>
+<l n="3">Кто не вкушал благоуханий ЗИФа — </l>
+<l n="4">И он, и я.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">И для того, чтоб слово не затихло</l>
+<l n="6">Сих свистунов,</l>
+<l n="7">Уже качается на розе ГИХЛа — </l>
+<l n="8">В. Соловьев.<rs ref="Соловьев, Василий Иванович" type="person"></rs></l>
+</lg>
+<date when="1930">‹1930›</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Письма. 161. Е. Э. Мандельштаму, [11 мая 1931 г.]</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="letter"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="4" type="volume">
+<div2 n="161" type="part">
+<head>161.
+Е. Э. МАНДЕЛЬШТАМУ, </head>
+<p>Если хочешь оказать мне серьезную услугу, то немедленно исполни следующую мою просьбу: возьми в вашем ленингр‹адском› Гизе справку о состоянии моего личного авторского счета (с балансом), — и получив ее сразу на</p>
+<p>руки, — вышли </p>
+<p> письмом на адрес Шуры в Москву. Без этой справки мне не могут здесь выплатить 40% за собр‹ание› соч‹инений› — т. е. тысячи полторы... Деньги на исходе. Бюджета — никакого... Гладкое ровное место. Литература моя — весьма убыточное и дорогое занятие...<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></p>
+<p>40% (без упомянутой справки их не выдают, а на запрос Москвы о сост‹оянии› моего счета — Ленинград, конечно, не ответил) — это все, что у нас остается — на устройство, переезд, жизнь...<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></p>
+<p>Конечно, на этом я не успокоюсь (да и удастся ли еще комбинация?), — но пробить себе дорогу так </p>
+<p> что мы проживем и эти деньги, пока наладится бюджетный заработок (лит‹ературный›). А служить грешно, потому что работается мне сейчас здорово. Так ты немедленно помоги: гони сюда справку: это «валюта». Особенно ты не разбалтывай, что мне хотят сделать такую поблажку. В иных, впрочем, мне деликатно отказывают пока...</p>
+<p>Ни о чем больше не пишу. Отчет о жизни моей в письме к папе.</p>
+<p>Целую всех вас.</p>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

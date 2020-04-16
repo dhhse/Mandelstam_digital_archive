@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Варианты. Московский дождик</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="10а" type="part">
+<head>ПРИЛОЖЕНИЯ</head>
+<head>СТИХОТВОРЕНИЯ
+(Ранние pедакции и ваpианты)</head>
+<head>10а.</head>
+<lg type="quatrain">
+<l n="1">Бульварной пропилеи шорох —</l>
+<l n="2">Лети, зеленая лапта.</l>
+<l n="3">Во рту булавок свежий ворох,</l>
+<l n="4">Дробями дождь залепетал.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Он подает куда как скупо</l>
+<l n="6">Свой воробьиный холодок,</l>
+<l n="7">Немного нам, немного купам,</l>
+<l n="8">Немного вишням на лоток.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">И в темноте растет кипенье,</l>
+<l n="10">Чаинок легкая возня —</l>
+<l n="11">Как бы воздушный муравейник</l>
+<l n="12">Пирует в темных зеленях.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">И свежих капель виноградник</l>
+<l n="14">Зашевелился в мураве —</l>
+<l n="15">Как будто холода рассадник</l>
+<l n="16">Открылся в лапчатой Москве.<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></l>
+</lg>
+<date when="1922">1922</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

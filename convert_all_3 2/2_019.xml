@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Вы, с квадратными окошками...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_019" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х, Я" type="Метр"></catref>
+<catref target="4(3)" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="дм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="четная" type="Рифма"></catref>
+<catref target="хаха" type="Схема рифмовки"></catref>
+<catref target="Х4дм. Я3м" type="Метрическая формула"></catref>
+<catref target="нарушения анакрусы" type="Дополнительные параметры"></catref>
+<catref target="32" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="19" type="part">
+<head>19.</head>
+<lg type="quatrain">
+<l n="1">Вы, с квадратными окошками</l>
+<l n="2">Невысокие дома, —</l>
+<l n="3">Здравствуй, здравствуй, петербургская</l>
+<l n="4">Несуровая зима.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">И торчат, как щуки, ребрами</l>
+<l n="6">Незамерзшие катки,</l>
+<l n="7">И еще в прихожих слепеньких</l>
+<l n="8">Валяются коньки.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">А давно ли по каналу плыл</l>
+<l n="10">С красным обжигом гончар,</l>
+<l n="11">Продавал с гранитной лесенки</l>
+<l n="12">Добросовестный товар?</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Ходят боты, ходят серые,</l>
+<l n="14">У Гостиного двора,<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs></l>
+<l n="15">И сама собой сдирается</l>
+<l n="16">С мандаринов кожура;</l>
+</lg>
+<lg type="quatrain">
+<l n="17">И в мешочке кофий жареный,</l>
+<l n="18">Прямо с холоду — домой:</l>
+<l n="19">Электрическою мельницей</l>
+<l n="20">Смолот мокко золотой.</l>
+</lg>
+<lg type="quatrain">
+<l n="21">Шоколадные, кирпичные</l>
+<l n="22">Невысокие дома, —</l>
+<l n="23">Здравствуй, здравствуй, петербургская</l>
+<l n="24">Несуровая зима!</l>
+</lg>
+<lg type="quatrain">
+<l n="25">И приемные с роялями,</l>
+<l n="26">Где, по креслам рассадив,</l>
+<l n="27">Доктора кого-то потчуют</l>
+<l n="28">Ворохами старых «Нив».</l>
+</lg>
+<lg type="quatrain">
+<l n="29">После бани, после оперы,</l>
+<l n="30">Все равно, куда ни шло,</l>
+<l n="31">Бестолковое, последнее</l>
+<l n="32">Трамвайное тепло...</l>
+</lg>
+<date when="1925">1925</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Письма. 232. В. П. Ставскому, 30 апреля 1937 г.</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="letter"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="4" type="volume">
+<div2 n="232" type="part">
+<head>232.
+В. П. СТАВСКОМУ, </head>
+<p>Прошу вас обратить внимание руководства Союза Сов‹етских› Писат‹елей› на безответственное обращение с моим именем Воронежского Обл‹астного› Отд‹еления› Союза.<rs ref="Воронеж" type="geo_index"></rs><rs ref="Воронеж" type="geo_index"></rs></p>
+<p>Союз напрасно приписывает себе мое разоблачение. Этого разоблачения </p>
+<p> не бывало.</p>
+<p>Союз отказался от сотрудничества со мной 1½  года тому назад, мотивируя это «отсутствием директив».</p>
+<p>Одновременно он выдал мне </p>
+<p> (пост‹ановление› правл‹ения›: протокол) для получения мной работы. Выпады (второй печатный) — происходят задним числом.</p>
+<p>Вор‹онежское› Обл‹астное› Отд‹еление› Союза инкриминирует мне фактически то, что я искал в Союзе и через Союз советского и партийного мнения и руководства.<rs ref="Воронеж" type="geo_index"></rs></p>
+<p>Включение же трех имен в одни скобки — с тем, чтобы читатель </p>
+<p>в них разобрался — абсолютно недопустимо.</p>
+<p>Выписка из статьи О. Кретовой в газете «Коммуна» (Воронеж) от 23 апр‹еля› 37 г. (Отчет о Пленуме Обл‹астного› Отд‹еления› и статья о задачах литературы).<rs ref="Воронеж" type="geo_index"></rs><rs ref="Воронеж" type="geo_index"></rs><rs ref="Кретова, Ольга Капитоновна" type="person"></rs></p>
+<p>«...За последние годы в организацию (воронежск‹ое› обл‹астное› отд‹еление› союза сов‹етских› писат‹елей›) пытались проникнуть и оказать свое влияние троцкисты и другие классово-враждебные люди (Стефан, Айч, О. Мандельштам), но были разоблачены...»<rs ref="Мандельштам (Хазина), Надежда Яковлевна" type="person"></rs><rs ref="Стефан (Стефен), Александр Иванович" type="person"></rs></p>
+<p>*</p>
+<p> «Совершенно иным было отношение Союза к людям, совершившим ошибки в прошлом, но старающимся честной работой их исправить» (воронежские писатели Песков и Завадовский)».<rs ref="Завадовский, Леонид Николаевич" type="person"></rs><rs ref="Песков, Борис Глебович" type="person"></rs></p>
+<p> </p>
+<note>1 Так в подлиннике</note>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

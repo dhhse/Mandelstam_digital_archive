@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Не говорите мне о вечности...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_024" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="дммд мддм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="охватная" type="Рифма"></catref>
+<catref target="абба" type="Схема рифмовки"></catref>
+<catref target="Я4дм" type="Метрическая формула"></catref>
+<catref target="составная рифма" type="Дополнительные параметры"></catref>
+<catref target="12" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="24" type="part">
+<head>24.</head>
+<lg type="quatrain">
+<l n="1">Не говорите мне о вечности —</l>
+<l n="2">Я не могу ее вместить.</l>
+<l n="3">Но как же вечность не простить</l>
+<l n="4">Моей любви, моей беспечности?</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Я слышу, как она растет</l>
+<l n="6">И полуночным валом катится,</l>
+<l n="7">Но — слишком дорого поплатится,</l>
+<l n="8">Кто слишком близко подойдет.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">И тихим отголоскам шума я</l>
+<l n="10">Издалека бываю рад —</l>
+<l n="11">Ее пенящихся громад, —</l>
+<l n="12">О милом и ничтожном думая.</l>
+</lg>
+<date to="1909-10-22">‹Не позднее 22 октября› 1909</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

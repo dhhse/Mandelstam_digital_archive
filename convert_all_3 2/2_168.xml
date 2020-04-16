@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Альфред Лихтенштейн. Прогулка</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_168" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Ан, Аф, Д, Х, тонический : Дк # Ан, Аф, тонический : Дк # Я" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="д, ж, м # вольная" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="спорадическая" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Дк2,3д,ж,м # Дк4ж,м # Я5,6,7ж,м" type="Метрическая формула"></catref>
+<catref target="полиметрия, цезурные наращения, переменная анакруса" type="Дополнительные параметры"></catref>
+<catref target="19" type="Число строк"></catref>
+<catref target="Р. Шикеле" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="168" type="part">
+<head>АЛЬФРЕД ЛИХТЕНШТЕЙН</head>
+<head>168.
+ПРОГУЛКА</head>
+<lg type="couplet">
+<l n="1">Вот вечер с лунным светом и шелковый дымок,</l>
+<l n="2">Дороги утомились, и светлый мир широк.</l>
+</lg>
+<lg type="couplet">
+<l n="3">Китайский пряный ветер порхает на холмах,</l>
+<l n="4">Серебряные крылья дрожат в моих зрачках.</l>
+</lg>
+<lg type="couplet">
+<l n="5">В плечах раздалось тело, в нем вес земли моей,</l>
+<l n="6">Внизу мерцает город — сеть мощных фонарей.</l>
+</lg>
+<lg type="couplet">
+<l n="7">Сейчас затеплит небо подсвечники свои.</l>
+<l n="8">Лик человечный ходит, огромный, вдоль земли.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

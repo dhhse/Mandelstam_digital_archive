@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. «Кто я? Вольный бродяга я...» </title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_116" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Ан, Д, Я, тонический : Дк" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="дж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="четная" type="Рифма"></catref>
+<catref target="хаха" type="Схема рифмовки"></catref>
+<catref target="Дк2,3дж" type="Метрическая формула"></catref>
+<catref target="переменная анакруса" type="Дополнительные параметры"></catref>
+<catref target="24" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="116" type="part">
+<head>116.</head>
+<lg type="quatrain">
+<l n="1">Кто я? Вольный бродяга я.</l>
+<l n="2">Бессеребреник ветер,</l>
+<l n="3">По холмам, по оврагам я</l>
+<l n="4">Блуждаю, пьян и светел.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Когда мчался я по полю —</l>
+<l n="6">Чуть всходили посевы,</l>
+<l n="7">Величавой мелодией</l>
+<l n="8">Созревали напевы.</l>
+</lg>
+<lg type="quatrain">
+<l n="9"> — Вечер красен, заря красна, —</l>
+<l n="10">Начал вслух бормотать я, —</l>
+<l n="11">Хлебом земля беременна —</l>
+<l n="12">Утешьтесь, братья!</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Пролетал я над городом,</l>
+<l n="14">Видел голод и морок,</l>
+<l n="15">Но приподнял улыбчиво</l>
+<l n="16">Занавеску чердачных каморок.</l>
+</lg>
+<lg type="quatrain">
+<l n="17">Люди, ужели мир тесен вам?</l>
+<l n="18">Зимы распались цепи,</l>
+<l n="19">Я нагнусь, спою песню вам</l>
+<l n="20">О серпе и цепе.</l>
+</lg>
+<lg type="quatrain">
+<l n="21"> — Вечер красен, заря красна.</l>
+<l n="22">Дружной весны объятья.</l>
+<l n="23">Хлебом земля беременна —</l>
+<l n="24">Утешьтесь, братья.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

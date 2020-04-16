@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Дайте Тютчеву стрекозу...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_052" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="регулярная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я4м+Я3ж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="16" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="52" type="part">
+<head>52.</head>
+<lg type="quatrain">
+<l n="1">Дайте Тютчеву стрекозу — <rs ref="Тютчев, Федор Иванович" type="person"></rs></l>
+<l n="2">Догадайтесь почему!</l>
+<l n="3">Веневитинову — розу.<rs ref="Веневитинов, Дмитрий Владимирович" type="person"></rs></l>
+<l n="4">Ну, а перстень — никому.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Боратынского подошвы</l>
+<l n="6">Изумили прах веков,</l>
+<l n="7">У него без всякой прошвы</l>
+<l n="8">Наволочки облаков.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">А еще над нами волен</l>
+<l n="10">Лермонтов, мучитель наш,<rs ref="Лермонтов, Михаил Юрьевич" type="person"></rs></l>
+<l n="11">И всегда одышкой болен</l>
+<l n="12">Фета жирный карандаш.<rs ref="Фет (Шеншин), Афанасий Афанасьевич" type="person"></rs></l>
+</lg>
+<date when="1932-05">Май 1932</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

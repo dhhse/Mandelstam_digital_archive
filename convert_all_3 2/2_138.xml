@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. «Когда мы шагаем в центральные кварталы...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_138" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Аф, Д, тонический : Ак, Тк" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жммж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="охватная" type="Рифма"></catref>
+<catref target="абба" type="Схема рифмовки"></catref>
+<catref target="Тк4жм. Ак4ж" type="Метрическая формула"></catref>
+<catref target="нарушения анакрусы" type="Дополнительные параметры"></catref>
+<catref target="12" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="138" type="part">
+<head>138.</head>
+<lg type="quatrain">
+<l n="1">Когда мы шагаем в центральные кварталы —</l>
+<l n="2">На задних лапках вещи стоят:</l>
+<l n="3">Банки и вокзалы перед нами лебезят.</l>
+<l n="4">Мы треплем по плечу колонны и порталы.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">И шаркают дальше наши грубые подошвы,</l>
+<l n="6">И город, с собачьим страхом в глазах,</l>
+<l n="7">Как девка, валяется у нас в ногах;</l>
+<l n="8">Но плюем на брильянты и кружевные прошвы!</l>
+</lg>
+<lg type="quatrain">
+<l n="9">И шелестящие наши знамена,</l>
+<l n="10">Как длинные крючья, впились в небосвод:</l>
+<l n="11">Да сгинет божков уродливый причет —</l>
+<l n="12">Во имя вечной правды бездонной.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

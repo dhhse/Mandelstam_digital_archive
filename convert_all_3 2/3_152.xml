@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Люблю морозное дыханье...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_152" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="вольная" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Х4ж,м" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="19" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="152" type="part">
+<head>152.</head>
+<lg type="tercet">
+<l n="1">Люблю морозное дыханье</l>
+<l n="2">И пара зимнего признанье:</l>
+<l n="3">Я — это я, явь — это явь...</l>
+</lg>
+<lg type="tercet">
+<l n="4">И мальчик, красный, как фонарик,</l>
+<l n="5">Своих салазок государик</l>
+<l n="6">И заправила, мчится вплавь.</l>
+</lg>
+<lg type="tercet">
+<l n="7">И я — в размолвке с миром, с волей — </l>
+<l n="8">Заразе саночек мирволю — </l>
+<l n="9">В сребристых скобках, в бахромах, — </l>
+</lg>
+<lg type="tercet">
+<l n="10">И век бы падал векши легче,</l>
+<l n="11">И легче векши к мягкой речке — </l>
+<l n="12">Полнеба в валенках, в ногах...</l>
+</lg>
+<date when="1937-01-24">24 января 1937</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«В девятьсот двенадцатом, как яблоко румян...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_234" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="7" type="Длина строки"></catref>
+<catref target="nan" type="Клаузула"></catref>
+<catref target="м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="парная" type="Рифма"></catref>
+<catref target="аа" type="Схема рифмовки"></catref>
+<catref target="Х7м. Х4м~Х3м" type="Метрическая формула"></catref>
+<catref target="цезурные усечения" type="Дополнительные параметры"></catref>
+<catref target="10" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="234" type="part">
+<head>234.</head>
+<lg type="quatrain">
+<l n="1">В девятьсот двенадцатом, как яблоко румян,</l>
+<l n="2">Был канонизирован святой Мустамиан.</l>
+<l n="3">И к неувядаемым блаженствам приобщен</l>
+<l n="4">Тот, кто от чудовищных родителей рожден.</l>
+</lg>
+<lg type="couplet">
+<l n="5">Серебро закладывал, одежды продавал,</l>
+<l n="6">Тысячу динариев менялам задолжал.</l>
+</lg>
+<lg type="couplet">
+<l n="7">Гонят люди палками того, кто наг и нищ,</l>
+<l n="8">Охраняют граждане добро своих жилищ.</l>
+</lg>
+<lg type="couplet">
+<l n="9">И однажды, идучи ко святым местам, —</l>
+<l n="10">Слышит он: «О Мандельштам, — глянь-ка — ландыш там!»</l>
+</lg>
+<date when="1913">‹Конец 1913›</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

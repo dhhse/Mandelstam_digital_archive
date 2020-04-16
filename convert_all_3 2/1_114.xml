@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Теннис</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_114" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Х4мж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="24" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="114" type="part">
+<head>114.
+Теннис</head>
+<lg type="quatrain">
+<l n="1">Средь аляповатых дач,</l>
+<l n="2">Где шатается шарманка,</l>
+<l n="3">Сам собой летает мяч —</l>
+<l n="4">Как волшебная приманка.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Кто, смиривший грубый пыл,</l>
+<l n="6">Облеченный в снег альпийский,</l>
+<l n="7">С резвой девушкой вступил</l>
+<l n="8">В поединок олимпийский?</l>
+</lg>
+<lg type="couplet">
+<l n="9">Слишком дряхлы струны лир:</l>
+<l n="10">Золотой ракеты струны</l>
+</lg>
+<lg type="quatrain">
+<l n="11">Он творит игры обряд,</l>
+<l n="12">Так легко вооруженный,</l>
+<l n="13">Как аттический солдат,</l>
+<l n="14">В своего врага влюбленный.</l>
+</lg>
+<lg type="quatrain">
+<l n="15">Май. Грозовых туч клочки.</l>
+<l n="16">Неживая зелень чахнет.</l>
+<l n="17">Все моторы и гудки, —</l>
+<l n="18">И сирень бензином пахнет.</l>
+</lg>
+<lg type="quatrain">
+<l n="19">Ключевую воду пьет</l>
+<l n="20">Из ковша спортсмен веселый;</l>
+<l n="21">И опять война идет,</l>
+<l n="22">И мелькает локоть голый!</l>
+</lg>
+<date when="1913-05">‹Май› 1913</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

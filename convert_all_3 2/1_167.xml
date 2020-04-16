@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Как этих покрывал и этого убора...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_167" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я # Х # # Ан, тонический : Дк" type="Метр"></catref>
+<catref target="6 # 4 # вольная" type="Длина строки"></catref>
+<catref target="ж # регулярная" type="Клаузула"></catref>
+<catref target="жм # м" type="Уточнение клаузулы"></catref>
+<catref target="александрийский стих # 4 # 0" type="Классическая строфа"></catref>
+<catref target="парная" type="Рифма"></catref>
+<catref target="аа # перекрестная" type="Схема рифмовки"></catref>
+<catref target="Я6ж # Х4жм # Дк2,3м" type="Метрическая формула"></catref>
+<catref target="полиметрия, нарушения строфики, холостая строка" type="Дополнительные параметры"></catref>
+<catref target="27" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="167" type="part">
+<head>167.</head>
+<lg type="couplet">
+<l n="1">«Как этих покрывал и этого убора</l>
+<l n="2">Мне пышность тяжела средь моего позора!»</l>
+</lg>
+<lg type="octet">
+<l n="3">— Будет в каменной Трезене<rs ref="Трезена" type="geo_index"></rs></l>
+<l n="4">Знаменитая беда,</l>
+<l n="5">Царской лестницы ступени</l>
+<l n="6">Покраснеют от стыда.</l>
+<l n="7">. . . . . . . . . . . . </l>
+<l n="8">. . . . . . . . . . . . </l>
+<l n="9">И для матери влюбленной</l>
+<l n="10">Солнце черное взойдет.</l>
+</lg>
+<lg type="couplet">
+<l n="11">«О, если б ненависть в груди моей кипела, —</l>
+<l n="12">Но видите — само признанье с уст слетело».</l>
+</lg>
+<lg type="septet">
+<l n="13">— Черным пламенем Федра горит</l>
+<l n="14">Среди белого дня.</l>
+<l n="15">Погребальный факел чадит</l>
+<l n="16">Среди белого дня.</l>
+<l n="17">Бойся матери ты, Ипполит:</l>
+<l n="18">Федра-ночь — тебя сторожит</l>
+<l n="19">Среди белого дня.</l>
+</lg>
+<lg type="couplet">
+<l n="20">«Любовью черною я солнце запятнала...»</l>
+<l n="21">. . . . . . . . . . . . . . . . . . .</l>
+</lg>
+<lg type="octet">
+<l n="22">— Мы боимся, мы не смеем</l>
+<l n="23">Горю царскому помочь.</l>
+<l n="24">Уязвленная Тезеем,</l>
+<l n="25">На него напала ночь.</l>
+<l n="26">Мы же, песнью похоронной</l>
+<l n="27">Провожая мертвых в дом,</l>
+<l n="28">Страсти дикой и бессонной</l>
+<l n="29">Солнце черное уймем.</l>
+</lg>
+<date when="1915">1915, 1916</date>
+<date when="1916">1915, 1916</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

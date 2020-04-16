@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Ранние варианты. Петрополь</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="" type="part">
+<head>(172—173)а.
+ПЕТРОПОЛЬ</head>
+<lg type="10_line">
+<l n="1">Мне холодно! Прозрачная весна</l>
+<l n="2">В зеленый пух Петрополь одевает,<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></l>
+<l n="3">Но, как Медуза, невская волна<rs ref="Медуза" type="myth_index"></rs></l>
+<l n="4">Мне отвращенье легкое внушает!</l>
+<l n="5">По набережной северной реки</l>
+<l n="6">Автомобилей мчатся светляки,</l>
+<l n="7">Летят стрекозы и жуки стальные,</l>
+<l n="8">Мерцают звезд булавки золотые, —</l>
+<l n="9">Но никакие звезды не убьют</l>
+<l n="10">Морской волны тяжелый изумруд!<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs></l>
+</lg>
+<lg type="sestet">
+<l n="11">Не фонари сияли нам, а свечи</l>
+<l n="12">Александрийских стройных тополей.</l>
+<l n="13">Вы сняли черный мех с груди своей</l>
+<l n="14">И на мои переложили плечи.</l>
+<l n="15">Смущенная величием Невы,</l>
+<l n="16">Ваш чудный мех мне подарили вы!</l>
+</lg>
+<lg type="octet">
+<l n="17">В Петрополе прозрачном мы умрем,<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></l>
+<l n="18">Где властвует над нами Прозерпина.<rs ref="Прозерпина" type="myth_index"></rs></l>
+<l n="19">Мы в каждом вздохе смертный воздух пьем,</l>
+<l n="20">И каждый час — нам смертная година.</l>
+<l n="21">Богиня моря, грозная Афина,<rs ref="Афина" type="myth_index"></rs></l>
+<l n="22">Сними могучий каменный шелом:</l>
+<l n="23">В Петрополе прозрачном мы умрем,<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></l>
+<l n="24">Здесь царствуешь не ты, а Прозерпина.<rs ref="Прозерпина" type="myth_index"></rs></l>
+</lg>
+<date when="1916-05">Май 1916</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

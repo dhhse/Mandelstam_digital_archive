@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Квартира тиха, как бумага...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_065" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="8" type="Длина строки"></catref>
+<catref target="м" type="Клаузула"></catref>
+<catref target="nan" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="парная" type="Рифма"></catref>
+<catref target="аа" type="Схема рифмовки"></catref>
+<catref target="Я4ж~Я4м" type="Метрическая формула"></catref>
+<catref target="цезурные наращения" type="Дополнительные параметры"></catref>
+<catref target="10" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="65" type="part">
+<head>65.</head>
+<lg type="quatrain">
+<l n="1">Квартира тиха, как бумага — </l>
+<l n="2">Пустая, без всяких затей, — </l>
+<l n="3">И слышно, как булькает влага</l>
+<l n="4">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Квартира тиха, как бумага — </l>
+<l n="6">Пустая, без всяких затей, — </l>
+<l n="7">И слышно, как булькает влага</l>
+<l n="8">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Квартира тиха, как бумага — </l>
+<l n="10">Пустая, без всяких затей, — </l>
+<l n="11">И слышно, как булькает влага</l>
+<l n="12">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Квартира тиха, как бумага — </l>
+<l n="14">Пустая, без всяких затей, — </l>
+<l n="15">И слышно, как булькает влага</l>
+<l n="16">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="17">Квартира тиха, как бумага — </l>
+<l n="18">Пустая, без всяких затей, — </l>
+<l n="19">И слышно, как булькает влага</l>
+<l n="20">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="21">Квартира тиха, как бумага — </l>
+<l n="22">Пустая, без всяких затей, — </l>
+<l n="23">И слышно, как булькает влага</l>
+<l n="24">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="25">Квартира тиха, как бумага — </l>
+<l n="26">Пустая, без всяких затей, — </l>
+<l n="27">И слышно, как булькает влага</l>
+<l n="28">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="29">Квартира тиха, как бумага — </l>
+<l n="30">Пустая, без всяких затей, — </l>
+<l n="31">И слышно, как булькает влага</l>
+<l n="32">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="33">Квартира тиха, как бумага — </l>
+<l n="34">Пустая, без всяких затей, — </l>
+<l n="35">И слышно, как булькает влага</l>
+<l n="36">По трубам внутри батарей.</l>
+</lg>
+<lg type="quatrain">
+<l n="37">Квартира тиха, как бумага — </l>
+<l n="38">Пустая, без всяких затей, — </l>
+<l n="39">И слышно, как булькает влага</l>
+<l n="40">По трубам внутри батарей.</l>
+</lg>
+<date when="1933-11">Ноябрь 1933</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

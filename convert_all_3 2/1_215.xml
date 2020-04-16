@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Я наравне с другими...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_215" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="3" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я3жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="32" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="215" type="part">
+<head>215.</head>
+<lg type="octet">
+<l n="1">Я наравне с другими</l>
+<l n="2">Хочу тебе служить,</l>
+<l n="3">От ревности сухими</l>
+<l n="4">Губами ворожить.</l>
+<l n="5">Не утоляет слово</l>
+<l n="6">Мне пересохших уст,</l>
+<l n="7">И без тебя мне снова</l>
+<l n="8">Дремучий воздух пуст.</l>
+</lg>
+<lg type="octet">
+<l n="9">Я больше не ревную,</l>
+<l n="10">Но я тебя хочу,</l>
+<l n="11">И сам себя несу я,</l>
+<l n="12">Как жертву, палачу.</l>
+<l n="13">Тебя не назову я</l>
+<l n="14">Ни радость, ни любовь.</l>
+<l n="15">На дикую, чужую</l>
+<l n="16">Мне подменили кровь.</l>
+</lg>
+<lg type="quatrain">
+<l n="17">Еще одно мгновенье,</l>
+<l n="18">И я скажу тебе:</l>
+<l n="19">Не радость, а мученье</l>
+<l n="20">Я нахожу в тебе.</l>
+</lg>
+<lg type="octet">
+<l n="21">Вернись ко мне скорее,</l>
+<l n="22">Мне страшно без тебя,</l>
+<l n="23">Я никогда сильнее</l>
+<l n="24">Не чувствовал тебя,</l>
+<l n="25">И все, чего хочу я,</l>
+<l n="26">Я вижу наяву.</l>
+<l n="27">Я больше не ревную,</l>
+<l n="28">Но я тебя зову.</l>
+</lg>
+<date when="1920">1920</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

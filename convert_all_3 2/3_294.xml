@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Варианты. ‹Стихи памяти Андрея Белого›. 10 января 1934</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="" type="part">
+<head>(84—87)а.
+УТРО 10 ЯНВ‹АРЯ› 1934 ГОДА</head>
+<lg type="quatrain">
+<l n="1">Меня преследуют две-три случайных фразы, — </l>
+<l n="2">Весь день твержу: печаль моя жирна.</l>
+<l n="3">О боже, как жирны и синеглазы</l>
+<l n="4">Стрекозы смерти, как лазурь черна...</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Где первородство? Где счастливая повадка?</l>
+<l n="6">Где плавкий ястребок на самом дне очей?</l>
+<l n="7">Где вежество? Где горькая украдка?..</l>
+<l n="8">Где ясный стан? Где прямизна речей,</l>
+</lg>
+<lg type="couplet">
+<l n="9">Запутанных, как честные зигзаги</l>
+<l n="10">У конькобежца в пламень голубой,</l>
+</lg>
+<lg type="quatrain">
+<l n="11">Ему солей трехъярусных растворы</l>
+<l n="12">И русские блистательные споры</l>
+<l n="13">И мудрецов германских голоса,</l>
+<l n="14">Представились в полвека, в полчаса.</l>
+</lg>
+<lg type="quatrain">
+<l n="15">Ему кавказские кричали горы</l>
+<l n="16">И нежных Альп стесненная толпа;<rs ref="Альпы" type="geo_index"></rs></l>
+<l n="17">На звуковых громад крутые всхоры</l>
+<l n="18">Его ступала зрячая стопа.</l>
+</lg>
+<lg type="quatrain">
+<l n="19">И европейской мысли разветвленье</l>
+<l n="20">Он перенес, как лишь могущий мог:</l>
+<l n="21">Рахиль глядела в зеркало явленья,<rs ref="Рахиль" type="myth_index"></rs></l>
+<l n="22">А Лия пела и плела венок.</l>
+</lg>
+<lg type="quatrain">
+<l n="23">Когда душе взволнованно торопкой</l>
+<l n="24">Предстанет вдруг событий глубина,</l>
+<l n="25">Она бежит рассеянною тропкой,</l>
+<l n="26">Но смерти ей тропина не ясна.</l>
+</lg>
+<lg type="quintet">
+<l n="27">Он, кажется, дичился умиранья</l>
+<l n="28">Застенчивостью славной новичка</l>
+<l n="29">Иль звука первенца в блистательном собраньи,</l>
+<l n="30">Что льется внутрь — еще птенец смычка.</l>
+<l n="31">............................................</l>
+</lg>
+<lg type="quatrain">
+<l n="32">Лиясь для ласковой только что снятой маски,</l>
+<l n="33">Для пальцев гипсовых, не держащих пера,</l>
+<l n="34">Для укрупненных губ, для укрепленной ласки</l>
+<l n="35">Крупнозернистого покоя и добра.</l>
+</lg>
+<lg type="quatrain">
+<l n="36">Дышали шуб меха. Плечо к плечу теснилось,</l>
+<l n="37">Кипела киноварь здоровья, кровь и пот,</l>
+<l n="38">Сон в оболочке сна, внутри которой снилось</l>
+<l n="39">На полшага продвинуться вперед.</l>
+</lg>
+<lg type="quatrain">
+<l n="40">А в гуще похорон стоял гравировальщик,</l>
+<l n="41">Готовясь перенесть на истинную медь</l>
+<l n="42">То, что обугливший бумагу рисовальщик,</l>
+<l n="43">Лишь крохоборствуя успел запечатлеть.</l>
+</lg>
+<lg type="quatrain">
+<l n="44">Как будто я повис на собственных ресницах</l>
+<l n="45">И созревающий и тянущийся весь,</l>
+<l n="46">Доколе не сорвусь, разыгрываю в лицах,</l>
+<l n="47">Единственное, что мы знаем днесь.</l>
+</lg>
+<date from="1934-01-16" to="1934-01-21">16—21 января 1934</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

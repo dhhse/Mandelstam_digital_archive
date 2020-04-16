@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Влез бесенок в мокрой шерстке...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_139" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="вольная" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Х4ж,м" type="Метрическая формула"></catref>
+<catref target="монотонная рифма" type="Дополнительные параметры"></catref>
+<catref target="12" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="139" type="part">
+<head>139.</head>
+<lg type="sestet">
+<l n="1">Влез бесенок в мокрой шерстке — </l>
+<l n="2">Ну, куда ему, куды?— </l>
+<l n="3">В подкопытные наперстки,</l>
+<l n="4">В торопливые следы:</l>
+<l n="5">По копейкам воздух версткий</l>
+<l n="6">Обирает с слободы.</l>
+</lg>
+<lg type="sestet">
+<l n="7">Брызжет в зеркальцах дорога — </l>
+<l n="8">Утомленные следы</l>
+<l n="9">Постоят еще немного</l>
+<l n="10">Без покрова, без слюды...</l>
+<l n="11">Колесо брюзжит отлого — </l>
+<l n="12">Улеглось — и полбеды!</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Скучно мне: мое прямое</l>
+<l n="14">Дело тараторит вкось — </l>
+<l n="15">По нему прошлось другое,</l>
+<l n="16">Надсмеялось, сбило ось.</l>
+</lg>
+<date from="1937-01-12" to="1937-01-18">12—18 января 1937</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

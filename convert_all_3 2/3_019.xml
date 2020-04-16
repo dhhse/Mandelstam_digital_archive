@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Дикая кошка — армянская речь...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_019" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Д" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Д4мж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="24" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="19" type="part">
+<head>19.</head>
+<lg type="quatrain">
+<l n="1">Дикая кошка — армянская речь — </l>
+<l n="2">Мучит меня и царапает ухо.</l>
+<l n="3">Хоть на постели горбатой прилечь:</l>
+<l n="4">О, лихорадка, о, злая моруха!</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Падают вниз с потолка светляки,</l>
+<l n="6">Ползают мухи по липкой простыне,</l>
+<l n="7">И маршируют повзводно полки</l>
+<l n="8">Птиц голенастых по желтой равнине.</l>
+</lg>
+<lg type="couplet">
+<l n="9">Страшен чиновник — лицо как тюфяк,</l>
+<l n="10">Нету его ни жалчей, ни нелепей,</l>
+</lg>
+<lg type="quatrain">
+<l n="11">Пропадом ты пропади, говорят,</l>
+<l n="12">Сгинь ты навек, чтоб ни слуху, ни духу, — </l>
+<l n="13">Старый повытчик, награбив деньжат,</l>
+<l n="14">Бывший гвардеец, замыв оплеуху.</l>
+</lg>
+<lg type="quatrain">
+<l n="15">Грянет ли в двери знакомое:— Ба!</l>
+<l n="16">Ты ли, дружище, — какая издевка!</l>
+<l n="17">Долго ль еще нам ходить по гроба,</l>
+<l n="18">Как по грибы деревенская девка?..</l>
+</lg>
+<lg type="quatrain">
+<l n="19">Были мы люди, а стали людьё</l>
+<l n="20">И суждено — по какому разряду?— </l>
+<l n="21">Нам роковое в груди колотье</l>
+<l n="22">Да эрзерумская кисть винограду.</l>
+</lg>
+<date when="1930-11">Ноябрь 1930</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

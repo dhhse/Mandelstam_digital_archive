@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Письма. 244. Б. С. Кузину, 10 марта 1938 г.</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="letter"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="4" type="volume">
+<div2 n="244" type="part">
+<head>244.
+Б. С. КУЗИНУ, </head>
+<p>Вчера я схватил бубен из реквизита Дома отдыха и, потрясая им и бия в него, плясал у себя в комнате: так на меня повлияла новая обстановка. «Имею право бить в бубен с бубенцами». В старой русской бане сосновая ванна.</p>
+<p>Глушь такая, что хочется определить широту и долготу.</p>
+<p>Сборы были огромные. Очень трогательное расставание с калининскими хозяевами.</p>
+<p>С собой груда книг. М‹ежду› п‹рочим,› весь Хлебников. Еще не знаю, что с собой делать. Как будто еще очень молод. Здесь должно произойти превращение энергии в другое качество. «Общественный ремонт здоровья» — значит, от меня чего-то доброго ждут, верят в меня. Этим я смущен и обрадован. Ставскому я говорил, что буду бороться в поэзии за музыку зиждущую. Во мне небывалое доверие ко всем подлинным участникам нашей жизни, и волна встречного доверия идет ко мне. Впереди еще очень много корявости и нелепости, — но ничего, ничего не страшно! Чуть-чуть не сделался переводчиком. Давали дневник Гонкуров. Потом раздумали. Ничего пока не дали.<rs ref="Гонкуры," type="person"></rs><rs ref="Ставский (Кирпичников), Владимир Петрович" type="person"></rs><rs ref="Хлебников, Велимир" type="person"></rs></p>
+<p>Любопытно: как только вы написали о Дворжаке, купил в Калинине пласт‹инку›. Слав‹янские› танцы №1 и №8 действительно прелесть. Бетховен‹ская› обработка народных тем, богатство ключей, умное веселье и щедрость.<rs ref="Калинин (Тверь)" type="geo_index"></rs><rs ref="Бетховен, Людвиг ван" type="person"></rs><rs ref="Дворжак, Антонин" type="person"></rs></p>
+<p>Шостакович — Леонид Андреев. Здесь гремит его 5-я<rs ref="Андреев, Леонид Николаевич" type="person"></rs><rs ref="Шостакович, Дмитрий Дмитриевич" type="person"></rs></p>
+<p>симфония. Нудное запугивание. Полька Жизни Челов‹ека›. Не приемлю.</p>
+<p>Не мысль. Не математика. Не добро. Пусть искусство: не приемлю! Здравствуйте (?) же и до свидания.</p>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

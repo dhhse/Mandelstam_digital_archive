@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Стихи о русской поэзии. 1. «Сядь, Державин, развалися...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_054" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мжжм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="охватная" type="Рифма"></catref>
+<catref target="абба" type="Схема рифмовки"></catref>
+<catref target="Я4мж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="16" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="" type="part">
+<head>54—56.
+СТИХИ О РУССКОЙ ПОЭЗИИ</head>
+<lg type="quatrain">
+<l n="1">Сядь, Державин, развалися, — <rs ref="Державин, Гаврила Романович" type="person"></rs></l>
+<l n="2">Ты у нас хитрее лиса,</l>
+<l n="3">И татарского кумыса</l>
+<l n="4">Твой початок не прокис.</l>
+</lg>
+<lg type="quintet">
+<l n="5">Дай Языкову бутылку<rs ref="Языков, Николай Михайлович" type="person"></rs></l>
+<l n="6">И подвинь ему бокал.</l>
+<l n="7">Я люблю его ухмылку,</l>
+<l n="8">Хмеля бьющуюся жилку</l>
+<l n="9">И стихов его накал.</l>
+</lg>
+<lg type="quintet">
+<l n="10">Гром живет своим накатом — </l>
+<l n="11">Что ему до наших бед?</l>
+<l n="12">И глотками по раскатам</l>
+<l n="13">Наслаждается мускатом</l>
+<l n="14">На язык, на вкус, на цвет.</l>
+</lg>
+<lg type="couplet">
+<l n="15">Капли прыгают галопом,</l>
+<l n="16">Скачут градины гурьбой,</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>
