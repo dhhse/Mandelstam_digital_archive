@@ -8,3 +8,5 @@ https://docs.google.com/spreadsheets/d/0B6CyJpLJX7zieGFYRVV3QUM3SndMOHNQS0Y1TEo3
 
 Трелло-доска проекта:
 https://trello.com/b/idbShcdg/mandelstam-digital-archive
+
+Папка utils содержит код для перевода docx-таблиц в tei (docx2tei) и код для чтения и создания tei-файлов.
