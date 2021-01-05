@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Может быть, это точка безумия...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_172" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Ан" type="Метр"></catref>
+<catref target="3" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="вольная" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Ан3ж,м" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="16" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="172" type="part">
+<head>172.</head>
+<lg type="18_line">
+<l n="1">Может быть, это точка безумия,</l>
+<l n="2">Может быть, это совесть твоя — </l>
+<l n="3">Узел жизни, в котором мы узнаны</l>
+<l n="4">И развязаны для бытия.</l>
+<l n="5">Так соборы кристаллов сверхжизненных</l>
+<l n="6">Добросовестный свет-паучок,</l>
+<l n="7">Распуская на ребра, их сызнова</l>
+<l n="8">Собирает в единый пучок.</l>
+<l n="9">Чистых линий пучки благодарные,</l>
+<l n="10">Направляемы тихим лучом,</l>
+<l n="11">Соберутся, сойдутся когда-нибудь,</l>
+<l n="12">Словно гости с открытым челом, — </l>
+<l n="13">Только здесь, на земле, а не на небе,</l>
+<l n="14">Как в наполненный музыкой дом, — </l>
+<l n="15">Только их не спугнуть, не изранить бы — </l>
+<l n="16">Хорошо, если мы доживем...</l>
+<l n="17">То, что я говорю, мне прости...</l>
+<l n="18">Тихо-тихо его мне прочти...</l>
+</lg>
+<date when="1937-03-15">15 марта 1937</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

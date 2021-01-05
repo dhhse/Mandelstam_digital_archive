@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. Неизвестному солдату</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_127" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="послание" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="5(4,6)" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Х5жм. Х4м, Х6ж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="24" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="127" type="part">
+<head>127.
+НЕИЗВЕСТНОМУ СОЛДАТУ</head>
+<lg type="quatrain">
+<l n="1">Все тяжелое, чужое, роковое</l>
+<l n="2">Понемногу выскользнет из рук.</l>
+<l n="3">На кладбище выйду полевое,</l>
+<l n="4">Где зарыт мой неизвестный друг.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Кто гниет в сырой и теплой яме?</l>
+<l n="6">Человек, копьем судьбы сражен.</l>
+<l n="7">Отпылало легкой жизни пламя,</l>
+<l n="8">Нежный мир испепелен.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Опилась земля твоею кровью,</l>
+<l n="10">Мой хороший, мой похожий брат,</l>
+<l n="11">Ах, придется мне с моей любовью</l>
+<l n="12">Опуститься в темный смертный сад.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">В колесе огромного сраженья</l>
+<l n="14">Или там, где наблюдает мать</l>
+<l n="15">Сыновей могучее цветенье,</l>
+<l n="16">Все равно — гореть мне и страдать.</l>
+</lg>
+<lg type="quatrain">
+<l n="17">Хочешь песню о зеленой кроне?</l>
+<l n="18">Ураган перетряхнул листву.</l>
+<l n="19">Рвутся наши солнечные кони.</l>
+<l n="20">Тучи огнепалые плывут.</l>
+</lg>
+<lg type="quatrain">
+<l n="21">И на свежем на могильном дерне,</l>
+<l n="22">Где кружится золотая мгла,</l>
+<l n="23">Кто-то величавей и бесспорней</l>
+<l n="24">Новой жизни развернет крыла.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

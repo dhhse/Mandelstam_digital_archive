@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Ранние варианты. Адмиралтейство</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="108а" type="part">
+<head>108а.
+Адмиралтейство</head>
+<lg type="quatrain">
+<l n="1">В столице северной томится пыльный тополь,</l>
+<l n="2">Запутался в листве прозрачный циферблат,</l>
+<l n="3">И в темной зелени потерянный акрополь</l>
+<l n="4">Настроил мысль мою на величавый лад.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Ладья воздушная и мачта-недотрога,</l>
+<l n="6">Служа линейкою преемникам Петра,<rs ref="Петр I" type="person"></rs></l>
+<l n="7">Он учит: красота — не воля полубога,</l>
+<l n="8">А хищный глазомер простого столяра.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Сердито лепятся капризные Медузы,</l>
+<l n="10">Как плуги брошены, ржавеют якоря —</l>
+<l n="11">И вот разорваны трех измерений узы</l>
+<l n="12">И открываются всесветные моря.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Нам четырех стихий приязненно господство,</l>
+<l n="14">Но создал пятую свободный человек:</l>
+<l n="15">Не отрицает ли пространства превосходство</l>
+<l n="16">Сей целомудренно построенный ковчег?</l>
+</lg>
+<lg type="quatrain">
+<l n="17">Живая линия меняется, как лебедь.</l>
+<l n="18">Я с Музой зодчего беседую опять.</l>
+<l n="19">Взор омывается, стихает жизни трепет:</l>
+<l n="20">Мне все равно, когда и где существовать!</l>
+</lg>
+<date when="1913-05">Май 1913</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

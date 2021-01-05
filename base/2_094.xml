@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Тициан Табидзе. Бирнамский лес</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_094" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Ан, тонический : Тк" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Тк3,4жм" type="Метрическая формула"></catref>
+<catref target="нарушения строфики, переменная анакруса" type="Дополнительные параметры"></catref>
+<catref target="18" type="Число строк"></catref>
+<catref target="Т. Табидзе" type="Автор оригинала"></catref>
+<catref target="грузинский" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="94" type="part">
+<head>ТИЦИАН ТАБИДЗЕ
+94.
+БИРНАМСКИЙ ЛЕС</head>
+<lg type="quatrain">
+<l n="1">Бирнамский лес. Призрак Халдеи.<rs ref="Халдея" type="geo_index"></rs></l>
+<l n="2">Лорд Пьеро сутулится сильней.</l>
+<l n="3">Леди Макбет сидит, бледнея,</l>
+<l n="4">на коленях у пьяных гостей.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Черти Рембо взвалили на плечи.<rs ref="Рембо, Артюр" type="person"></rs></l>
+<l n="6">Он тянется к скрипке мертвой ногой.</l>
+<l n="7">Самоубийц пирует вече,</l>
+<l n="8">Шлет Моураву вызов свой.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Преследует желтого малайца —</l>
+<l n="10">За ним павлинов цветной ураган —</l>
+<l n="11">Паоло. Офелия шатается:</l>
+<l n="12">Пощечину Гамлету дал Валериан.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">А на виселице построен</l>
+<l n="14">Полоумный воздушный храм.</l>
+<l n="15">Разлюбив, я в душе спокоен...</l>
+<l n="16">Всех мучительней Мэри улыбается нам.</l>
+</lg>
+<lg type="couplet">
+<l n="17">Коломбина... Кашель чахоточной пери...</l>
+<l n="18">И свистящий ноябрь запечатал двери.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

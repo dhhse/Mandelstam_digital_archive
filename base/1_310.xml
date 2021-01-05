@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Ранние варианты. Тифлис</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="205а" type="part">
+<head>205а.
+ТИФЛИС</head>
+<lg type="quintet">
+<l n="1">Мне Тифлис горбатый снится,<rs ref="Тифлис" type="geo_index"></rs></l>
+<l n="2">Сазандарей стон звенит,</l>
+<l n="3">На мосту народ толпится,</l>
+<l n="4">Вся ковровая столица,</l>
+<l n="5">А внизу Кура шумит!<rs ref="Кура" type="geo_index"></rs></l>
+</lg>
+<lg type="quintet">
+<l n="6">Над Курою есть духаны,<rs ref="Кура" type="geo_index"></rs></l>
+<l n="7">Где вино и милый плов,</l>
+<l n="8">И духанщик там румяный</l>
+<l n="9">Подает гостям стаканы</l>
+<l n="10">И служить тебе готов.</l>
+</lg>
+<lg type="quintet">
+<l n="11">Кахетинское густое</l>
+<l n="12">Хорошо в подвале пить, —</l>
+<l n="13">Там в прохладе, там в покое</l>
+<l n="14">Пейте вдоволь, пейте двое,</l>
+<l n="15">Одному не надо пить.</l>
+</lg>
+<lg type="quintet">
+<l n="16">В самом маленьком духане</l>
+<l n="17">Ты товарища найдешь,</l>
+<l n="18">Если спросишь «Телиани»,</l>
+<l n="19">Поплывет Тифлис в тумане,<rs ref="Тифлис" type="geo_index"></rs></l>
+<l n="20">Ты в духане поплывешь.</l>
+</lg>
+<date when="1920">1920</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

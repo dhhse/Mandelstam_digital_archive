@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«В Петербурге мы сойдемся снова...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_211" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Х4,5,6жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="32" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="211" type="part">
+<head>211.</head>
+<lg type="octet">
+<l n="1">В Петербурге мы сойдемся снова,<rs ref="Петербург (Ленинград, Петрополь)" type="geo_index"></rs></l>
+<l n="2">Словно солнце мы похоронили в нем,</l>
+<l n="3">И блаженное, бессмысленное слово</l>
+<l n="4">В первый раз произнесем.</l>
+<l n="5">В черном бархате советской ночи,</l>
+<l n="6">В бархате всемирной пустоты,</l>
+<l n="7">Все поют блаженных жен родные очи,</l>
+<l n="8">Все цветут бессмертные цветы.</l>
+</lg>
+<lg type="octet">
+<l n="9">Дикой кошкой горбится столица,</l>
+<l n="10">На мосту патруль стоит,</l>
+<l n="11">Только злой мотор во мгле промчится</l>
+<l n="12">И кукушкой прокричит.</l>
+<l n="13">Мне не надо пропуска ночного,</l>
+<l n="14">Часовых я не боюсь:</l>
+<l n="15">За блаженное, бессмысленное слово</l>
+<l n="16">Я в ночи советской помолюсь.</l>
+</lg>
+<lg type="octet">
+<l n="17">Слышу легкий театральный шорох</l>
+<l n="18">И девическое «ах» —</l>
+<l n="19">И бессмертных роз огромный ворох</l>
+<l n="20">У Киприды на руках.</l>
+<l n="21">У костра мы греемся от скуки,</l>
+<l n="22">Может быть, века пройдут,</l>
+<l n="23">И блаженных жен родные руки</l>
+<l n="24">Легкий пепел соберут.</l>
+</lg>
+<lg type="quatrain">
+<l n="25">Где-то грядки красные партера,</l>
+<l n="26">Пышно взбиты шифоньерки лож,</l>
+<l n="27">Заводная кукла офицера —</l>
+<l n="28">Не для черных душ и низменных святош...</l>
+</lg>
+<date when="1920-11-25">25 ноября 1920</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

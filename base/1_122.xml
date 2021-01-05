@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Футбол</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_122" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4(2)" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я4жм. Я2ж" type="Метрическая формула"></catref>
+<catref target="нарушения строфики, усеченная строка, холостая строка" type="Дополнительные параметры"></catref>
+<catref target="16" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="122" type="part">
+<head>122.
+Футбол</head>
+<lg type="quatrain">
+<l n="1">Телохранитель был отравлен.</l>
+<l n="2">В неравной битве изнемог,</l>
+<l n="3">Обезображен, обесславлен</l>
+<l n="4">Футбола толстокожий бог.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">И с легкостью тяжеловеса</l>
+<l n="6">Удары отбивал боксер:</l>
+<l n="7">О, беззащитная завеса,</l>
+<l n="8">Неохраняемый шатер!</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Должно быть, так толпа сгрудилась,</l>
+<l n="10">Когда, мучительно-жива,</l>
+<l n="11">Не допив кубка, покатилась</l>
+<l n="12">К ногам тупая голова.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">Неизъяснимо лицемерно</l>
+<l n="14">Не так ли кончиком ноги</l>
+<l n="15">Над теплым трупом Олоферна</l>
+<l n="16">Юдифь глумилась...</l>
+</lg>
+<date when="1913">1913</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

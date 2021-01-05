@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Письма. 188. Н. Я. Мандельштам, ‹конец мая 1935 г.›</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="letter"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="4" type="volume">
+<div2 n="188" type="part">
+<head>188.
+Н. Я. МАНДЕЛЬШТАМ, </head>
+<p>Надюшок! Прости за тревогу. Телефонистка — буйная дрянь — сказала «по инструкции», что </p>
+<p>. Я, дурак, поверил. Вот фефела! Ей досталось от товарок. Ночью не ложился. Черт знает что. Ты прости, Надинька. В Подъем сдал то, что на машинке. Тут есть тенденция благожелательно снижать мою работу. Сказал: ни буквы больше не изменю. Все или ничего. Денег пока не беру. Поступать ли на службу в библиотеку?</p>
+<p>К «подборке» прибавь «Стансы» плюс «Железо». Выясни печатание. Для Москвы условие: <rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></p>
+<p> или ничего. Широкий показ цикла. Хорошо бы в Литгазете. Все варианты окончательные. Только в начале Стансов могут быть изменения, но давай так.</p>
+<p>Мне сейчас необходима прямая литературная связь с Москвой. Передай стихи, между прочим, Левину. Скажи ему: нельзя честно писать прозу в моем теперешнем воронежском положении. Абсурдно!<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Левин, Федор Маркович" type="person"></rs></p>
+<p>Вот что: предлагаю принять командировку от Союза или Издательства на Урал <rs ref="Урал" type="geo_index"></rs></p>
+<p>. Напишу замечательную книгу (по старому договору). Это чудесная мысль.</p>
+<p>Детка моя, будь совершенно спокойна. Я живу хорошо. </p>
+<p>Целую тебя, родная моя.</p>
+<p>Подумай о структуре цикла. Скажи по телефону.</p>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Мадригал. («Нет, не поднять волшебного фрегата...»)</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_103" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="мадригал" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="5" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я5жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="12" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="103" type="part">
+<head>103.
+Мадригал</head>
+<lg type="quatrain">
+<l n="1">Нет, не поднять волшебного фрегата:</l>
+<l n="2">Вся комната в табачной синеве, —</l>
+<l n="3">И пред людьми русалка виновата —</l>
+<l n="4">Зеленоглазая в морской траве!</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Она курить, конечно, не умеет,</l>
+<l n="6">Горячим пеплом губы обожгла;</l>
+<l n="7">И не заметила, что платье тлеет, —</l>
+<l n="8">Зеленый шелк, и на полу зола...</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Так моряки в прохладе изумрудной</l>
+<l n="10">Ни чубуков, ни трубок не нашли;</l>
+<l n="11">Ведь и дышать им научиться трудно</l>
+<l n="12">Сухим и горьким воздухом земли!</l>
+</lg>
+<date when="1913">1913</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«На откосы, Волга, хлынь, Волга, хлынь...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_190" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="стансы" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я4жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="40" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="190" type="part">
+<head>190.</head>
+<lg type="quintet">
+<l n="1">На откосы, Волга, хлынь, Волга, хлынь,<rs ref="Волга" type="geo_index"></rs></l>
+<l n="2">Гром, ударь в тесины новые,</l>
+<l n="3">Крупный град, по стеклам двинь, — грянь и двинь, — </l>
+<l n="4">А в Москве ты, чернобровая,<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></l>
+<l n="5">Выше голову закинь.</l>
+</lg>
+<lg type="quintet">
+<l n="6">Чародей мешал тайком с молоком</l>
+<l n="7">Розы черные, лиловые</l>
+<l n="8">И жемчужным порошком и пушком</l>
+<l n="9">Вызвал щеки холодовые,</l>
+<l n="10">Вызвал губы шепотком...</l>
+</lg>
+<lg type="quintet">
+<l n="11">Как досталась — развяжи, развяжи — </l>
+<l n="12">Красота такая галочья<rs ref="Москва" type="geo_index"></rs></l>
+<l n="13">От индейского раджи, от раджи</l>
+<l n="14">Алексею, что ль, Михайлычу, — <rs ref="Алексей Михайлович" type="person"></rs></l>
+<l n="15">Волга, вызнай и скажи.<rs ref="Волга" type="geo_index"></rs></l>
+</lg>
+<lg type="tercet">
+<l n="16">Против друга — за грехи, за грехи — </l>
+<l n="17">Берега стоят неровные,</l>
+<l n="18">И летают по верхам, по верхам</l>
+</lg>
+<lg type="quintet">
+<l n="19">Ах, я видеть не могу, не могу</l>
+<l n="20">Берега серо-зеленые:</l>
+<l n="21">Словно ходят по лугу, по лугу</l>
+<l n="22">Косари умалишенные,</l>
+<l n="23">Косит ливень луг в дугу.</l>
+</lg>
+<date when="1937-07-04">4 июля 1937</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

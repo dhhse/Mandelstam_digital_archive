@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Рояль</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_034" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Ан, тонический : Дк" type="Метр"></catref>
+<catref target="3" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="жм" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Дк3жм" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="20" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="34" type="part">
+<head>34.
+РОЯЛЬ</head>
+<lg type="quatrain">
+<l n="1">Как парламент, жующий фронду,</l>
+<l n="2">Вяло дышит огромный зал — </l>
+<l n="3">Не идет Гора на Жиронду,</l>
+<l n="4">И не крепнет сословий вал.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Оскорбленный и оскорбитель,</l>
+<l n="6">Не звучит рояль-Голиаф — <rs ref="Голиаф" type="myth_index"></rs></l>
+<l n="7">Звуколюбец, душемутитель,</l>
+<l n="8">Мирабо фортепьянных прав.<rs ref="Мирабо, Оноре Габриель Рикетти" type="person"></rs></l>
+</lg>
+<lg type="quatrain">
+<l n="9">Разве руки мои — кувалды?</l>
+<l n="10">Десять пальцев — мой табунок!</l>
+<l n="11">И вскочил, отряхая фалды,</l>
+<l n="12">Мастер Генрих — конек-горбунок.</l>
+</lg>
+<lg type="1_line">
+<l n="13">................................</l>
+</lg>
+<lg type="quatrain">
+<l n="14">Чтобы в мире стало просторней,</l>
+<l n="15">Ради сложности мировой,</l>
+<l n="16">Не втирайте в клавиши корень</l>
+<l n="17">Сладковатой груши земной.</l>
+</lg>
+<lg type="quatrain">
+<l n="18">Чтоб смолою соната джина</l>
+<l n="19">Проступила из позвонков,</l>
+<l n="20">Нюренбергская есть пружина,</l>
+<l n="21">Выпрямляющая мертвецов.</l>
+</lg>
+<date when="1931-04-16">16 апреля 1931</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

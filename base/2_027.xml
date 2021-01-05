@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Примус. ‹4› «— В самоваре, и в стакане...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_027" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="цикл" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="вольная" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Х3,4ж,м" type="Метрическая формула"></catref>
+<catref target="перебои" type="Дополнительные параметры"></catref>
+<catref target="6" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="4" type="part">
+<lg type="quatrain">
+<l n="1">— В самоваре, и в стакане,</l>
+<l n="2">И в кувшине, и в графине</l>
+<l n="3">Вся вода из крана.</l>
+<l n="4">Не разбей стакана.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">— А водопровод</l>
+<l n="6">Где</l>
+<l n="7">воду</l>
+<l n="8">берет?</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

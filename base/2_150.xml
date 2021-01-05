@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. Песня девушки</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_150" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="песня" type="Уточнение жанра"></catref>
+<catref target="Х, Я" type="Метр"></catref>
+<catref target="2(1,4)" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="сложная" type="Рифма"></catref>
+<catref target="хахб хахб" type="Схема рифмовки"></catref>
+<catref target="Х2ж,м. Х2д, Х4м, Я1ж, Я2ж,м" type="Метрическая формула"></catref>
+<catref target="нарушения анакрусы, нарушения строфики" type="Дополнительные параметры"></catref>
+<catref target="47" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="150" type="part">
+<head>150.
+ПЕСНЯ ДЕВУШКИ</head>
+<lg type="octet">
+<l n="1">Не в России,<rs ref="Россия (СССР)" type="geo_index"></rs></l>
+<l n="2">Не в Полесьи,<rs ref="Полесье" type="geo_index"></rs></l>
+<l n="3">Не на Рейне<rs ref="Рейн" type="geo_index"></rs></l>
+<l n="4">Милый спит.</l>
+<l n="5">Но в аргонском</l>
+<l n="6">Краснолесьи</l>
+<l n="7">Он гранатой</l>
+<l n="8">Был убит.</l>
+</lg>
+<lg type="octet">
+<l n="9">Всхлипнул март —</l>
+<l n="10">Крикливый месяц:</l>
+<l n="11">Взяли сердце</l>
+<l n="12">Под ружье.</l>
+<l n="13">Никогда</l>
+<l n="14">Не будем вместе.</l>
+<l n="15">Третий год</l>
+<l n="16">Война. Зверье.</l>
+</lg>
+<lg type="octet">
+<l n="17">Злится соль</l>
+<l n="18">Сердечной раны.</l>
+<l n="19">Застят слезы</l>
+<l n="20">Небосклон.</l>
+<l n="21">Чуть подумаю:</l>
+<l n="22">Аргонны —<rs ref="Аргонн (Аргонны)" type="geo_index"></rs></l>
+<l n="23">Вижу ров</l>
+<l n="24">И красный клен.</l>
+</lg>
+<lg type="couplet">
+<l n="25">Лес шумит:</l>
+<l n="26">Сто тысяч мертвых,</l>
+</lg>
+<lg type="octet">
+<l n="27">Край любезный,</l>
+<l n="28">Край французский.</l>
+<l n="29">Оспой ядер</l>
+<l n="30">Весь изрыт.</l>
+<l n="31">Одичали</l>
+<l n="32">Деревушки,</l>
+<l n="33">И волынка</l>
+<l n="34">Не звучит.</l>
+</lg>
+<lg type="septet">
+<l n="35">Вы, дороги</l>
+<l n="36">И овраги</l>
+<l n="37">Левой рейнской стороны, —</l>
+<l n="38">Помогите</l>
+<l n="39">Мне, бедняге,</l>
+<l n="40">От любви</l>
+<l n="41">И от войны!</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

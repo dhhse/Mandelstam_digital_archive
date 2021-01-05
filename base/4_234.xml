@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Письма. 234. Н. Я. Мандельштам, 4 мая ‹1937 г.›</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="letter"></textdesc>
+<textclass>
+<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
+<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
+<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
+<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
+<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
+<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
+<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
+<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
+<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
+<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
+<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
+<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
+<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
+<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
+<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
+<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="4" type="volume">
+<div2 n="234" type="part">
+<head>234.
+Н. Я. МАНДЕЛЬШТАМ, </head>
+<p>Приезжай поскорей! Дышать без тебя трудно. Весна не в радость. Приезжай скорей. Сегодня пришли два твоих письма от 29 и 30. У тебя сразу трое гостей. Почти как дома. Казалось, что я тоже? Да? И что я ругаю Эмму? Ты меня дураком не ругай: я все понимаю — только очень глупый. Детка моя, ты минуты лишней не останешься, в крайнем случае еще поедешь(?) Нет, </p>
+<p> поедешь! </p>
+<p> ты сидеть не будешь. Если переговоры примут бесформенный характер. Мне кажется: то, что можно и хотят, — сделают </p>
+<p>.</p>
+<p>Вчера ночью я сбежал от мамы, как испанка от старой дуэньи. В 12 ч. в окно постучали Наташа и ее Борис. Мама спала. Я тайно выкрался, и пошли в Бристоль. Борис поставил на троих одну свиную котлету, три апельсина и бутылку</p>
+<p>Бордо. Я принес маме апельсин и положил под подушку. Она проснулась и сказала: я </p>
+<p>. Она не заметила, что я уходил. Только что пришло письмо от Рудакова. Разобрал его с колоссальным трудом. Он пишет (кажется?), что стихи неровные и что передать это можно только в разговоре. Большое новое идет от стихов о русской поэзии? Да?<rs ref="Рудаков, Сергей Борисович" type="person"></rs></p>
+<p>Сейчас был в книжном магазине — большом. Там изумительные «Металлы сассанидов» Эрмитажа: 50 р. Добрая продавщица мне отложила. Как видишь, я сумасшедший дурак. А эти блюдечки персов мы все-таки купим. Такие уж мы уроды. Деточка, приезжай скорей — Няня без тебя задохнется. Он больше не может мотаться и ждать. Ау? Надик? Ау? Скорей.</p>
+<p>Надик, не смей отнимать у себя денег. Нам нужны гроши. Сейчас я перешел на другую сторону улицы и увидел мамину фигурку — она трогательная. Она — вся твоя. Она крошечный Дант-старушка.<rs ref="Данте Алигьери" type="person"></rs></p>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

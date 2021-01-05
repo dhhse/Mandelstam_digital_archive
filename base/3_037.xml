@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Канцона</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="3_037" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Х" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="ж" type="Клаузула"></catref>
+<catref target="nan" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб, охватная" type="Схема рифмовки"></catref>
+<catref target="Х5,6ж, Х5г,д" type="Метрическая формула"></catref>
+<catref target="неравносложная рифма" type="Дополнительные параметры"></catref>
+<catref target="28" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="3" type="volume">
+<div2 n="37" type="part">
+<head>37.
+КАНЦОНА</head>
+<lg type="quatrain">
+<l n="1">Неужели я увижу завтра — </l>
+<l n="2">Слева сердце бьется, слава, бейся!— </l>
+<l n="3">Вас, банкиры горного ландшафта,</l>
+<l n="4">Вас, держатели могучих акций гнейса?</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Там зрачок профессорский орлиный,— </l>
+<l n="6">Египтологи и нумизматы — </l>
+<l n="7">Это птицы сумрачно-хохлатые</l>
+<l n="8">С жестким мясом и широкою грудиной.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">То Зевес подкручивает с толком<rs ref="Зевс" type="myth_index"></rs></l>
+<l n="10">Золотыми пальцами краснодеревца</l>
+<l n="11">Замечательные луковицы-стекла — </l>
+<l n="12">Прозорливцу дар от псалмопевца.</l>
+</lg>
+<lg type="couplet">
+<l n="13">Он глядит в бинокль прекрасный Цейса — <rs ref="Цейс, Карл" type="person"></rs></l>
+<l n="14">Дорогой подарок царь-Давида, — <rs ref="Давид" type="myth_index"></rs></l>
+</lg>
+<lg type="quatrain">
+<l n="15">Я покину край гипербореев,</l>
+<l n="16">Чтобы зреньем напитать судьбы развязку,</l>
+<l n="17">Я скажу «села» начальнику евреев</l>
+<l n="18">За его малиновую ласку.</l>
+</lg>
+<lg type="quatrain">
+<l n="19">Край небритых гор еще неясен,</l>
+<l n="20">Мелколесья колется щетина,</l>
+<l n="21">И свежа, как вымытая басня,</l>
+<l n="22">До оскомины зеленая долина.</l>
+</lg>
+<lg type="quatrain">
+<l n="23">Я люблю военные бинокли</l>
+<l n="24">С ростовщическою силой зренья.</l>
+<l n="25">Две лишь краски в мире не поблекли:</l>
+<l n="26">В желтой — зависть, в красной — нетерпенье.</l>
+</lg>
+<date when="1931-05-26">26 мая 1931</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

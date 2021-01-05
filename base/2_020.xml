@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Сегодня ночью, не солгу...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_020" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="ммж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="сложная" type="Рифма"></catref>
+<catref target="ааб ввб" type="Схема рифмовки"></catref>
+<catref target="Я4ммж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="30" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="20" type="part">
+<head>20.</head>
+<lg type="sestet">
+<l n="1">Сегодня ночью, не солгу,</l>
+<l n="2">По пояс в тающем снегу</l>
+<l n="3">Я шел с чужого полустанка.</l>
+<l n="4">Гляжу — изба, вошел в сенцы,</l>
+<l n="5">Чай с солью пили чернецы,</l>
+<l n="6">И с ними балует цыганка...</l>
+</lg>
+<lg type="sestet">
+<l n="7">У изголовья вновь и вновь</l>
+<l n="8">Цыганка вскидывает бровь,</l>
+<l n="9">И разговор ее был жалок:</l>
+<l n="10">Она сидела до зари</l>
+<l n="11">И говорила: — Подари</l>
+<l n="12">Хоть шаль, хоть что, хоть полушалок...</l>
+</lg>
+<lg type="sestet">
+<l n="13">Того, что было, не вернешь.</l>
+<l n="14">Дубовый стол, в солонке нож</l>
+<l n="15">И вместо хлеба — еж брюхатый;</l>
+<l n="16">Хотели петь — и не смогли,</l>
+<l n="17">Хотели встать — дугой пошли</l>
+<l n="18">Через окно на двор горбатый.</l>
+</lg>
+<lg type="sestet">
+<l n="19">И вот — проходит полчаса,</l>
+<l n="20">И гарнцы черного овса</l>
+<l n="21">Жуют, похрустывая, кони;</l>
+<l n="22">Скрипят ворота на заре,</l>
+<l n="23">И запрягают на дворе;</l>
+<l n="24">Теплеют медленно ладони.</l>
+</lg>
+<lg type="sestet">
+<l n="25">Холщовый сумрак поредел.</l>
+<l n="26">С водою разведенный мел,</l>
+<l n="27">Хоть даром, скука разливает,</l>
+<l n="28">И сквозь прозрачное рядно</l>
+<l n="29">Молочный день глядит в окно</l>
+<l n="30">И золотушный грач мелькает.</l>
+</lg>
+<date when="1925">1925</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«У вас в семье нашел опору я...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_084" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="послание" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="4" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="д, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="вольная" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Я4д,м" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="6" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="84" type="part">
+<head>84.</head>
+<div type="dedication">Горнунгам</div>
+<rs ref="Горнунг, Борис Владимирович" type="person"></rs>
+<lg type="sestet">
+<l n="1">У вас в семье нашел опору я —</l>
+<l n="2">Предупредительность, которая</l>
+<l n="3">Меня сумела воскресить,</l>
+<l n="4">И долго будет крыса хворая</l>
+<l n="5">Признательна за помощь скорую,</l>
+<l n="6">Которую нельзя забыть.</l>
+</lg>
+<date when="1927-05">Май 1927</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

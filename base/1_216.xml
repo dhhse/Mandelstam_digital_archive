@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>«Я в хоровод теней, топтавший нежный луг...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="1_216" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="nan" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="регулярная" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мж" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="перекрестная" type="Рифма"></catref>
+<catref target="абаб" type="Схема рифмовки"></catref>
+<catref target="Я6м+Я4ж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="20" type="Число строк"></catref>
+<catref target="nan" type="Автор оригинала"></catref>
+<catref target="nan" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="1" type="volume">
+<div2 n="216" type="part">
+<head>216.</head>
+<lg type="quatrain">
+<l n="1">Я в хоровод теней, топтавший нежный луг,</l>
+<l n="2">С певучим именем вмешался,</l>
+<l n="3">Но все растаяло, и только слабый звук</l>
+<l n="4">В туманной памяти остался.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Сначала думал я, что имя — серафим,</l>
+<l n="6">И тела легкого дичился,</l>
+<l n="7">Немного дней прошло, и я смешался с ним</l>
+<l n="8">И в милой тени растворился.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">И снова яблоня теряет дикий плод,</l>
+<l n="10">И тайный образ мне мелькает,</l>
+<l n="11">И богохульствует, и сам себя клянет,</l>
+<l n="12">И угли ревности глотает.</l>
+</lg>
+<lg type="quatrain">
+<l n="13">А счастье катится, как обруч золотой,</l>
+<l n="14">Чужую волю исполняя,</l>
+<l n="15">И ты гоняешься за легкою весной,</l>
+<l n="16">Ладонью воздух рассекая.</l>
+</lg>
+<lg type="quatrain">
+<l n="17">И так устроено, что не выходим мы</l>
+<l n="18">Из заколдованного круга.</l>
+<l n="19">Земли девической упругие холмы</l>
+<l n="20">Лежат спеленатые туго.</l>
+</lg>
+<date when="1920">1920</date>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Иосиф Гришашвили. Мариджан</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_090" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Я" type="Метр"></catref>
+<catref target="6" type="Длина строки"></catref>
+<catref target="регулярная" type="Клаузула"></catref>
+<catref target="мжжм мжжм ммж жмж" type="Уточнение клаузулы"></catref>
+<catref target="сонет" type="Классическая строфа"></catref>
+<catref target="сложная" type="Рифма"></catref>
+<catref target="абба абба ввг гвг" type="Схема рифмовки"></catref>
+<catref target="Я6мж" type="Метрическая формула"></catref>
+<catref target="nan" type="Дополнительные параметры"></catref>
+<catref target="14" type="Число строк"></catref>
+<catref target="И. Гришашвили" type="Автор оригинала"></catref>
+<catref target="грузинский" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="90" type="part">
+<head>ИОСИФ ГРИШАШВИЛИ
+90.
+МАРИДЖАН</head>
+<lg type="quatrain">
+<l n="1">Ты так бледна, мой друг, что всякий говорит:</l>
+<l n="2">Ты уподобилась сентябрьских дней прохладе,</l>
+<l n="3">Ты сеешь тишину и робость в каждом взгляде,</l>
+<l n="4">Враг бережет тебя, и ненависть щадит.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Когда же кашель твой до слуха долетит,</l>
+<l n="6">Ты, нежная, спешишь к кладбищенской ограде, —</l>
+<l n="7">Люблю сильней, чем смерть в кумирах и в плеяде,</l>
+<l n="8">Царица яркая, любви холодный щит.</l>
+</lg>
+<lg type="tercet">
+<l n="9">Быть может, до моей до роковой поры</l>
+<l n="10">Ты, утомленная, под складками чадры</l>
+<l n="11">Укроешь скромных черт святое благородство, — </l>
+</lg>
+<lg type="tercet">
+<l n="12">Молю тебя, мой друг, смягчи мое сиротство</l>
+<l n="13">Соседством сладостным: пусть свежие бугры —</l>
+<l n="14">Твой и поэтов холм — хранят любви господство.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

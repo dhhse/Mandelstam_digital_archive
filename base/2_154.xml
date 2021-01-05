@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. «Ворота распахнули и вышли на улицу мощной походкой...»</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_154" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Ан, Аф, Д, тонический : Ак" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="ж" type="Клаузула"></catref>
+<catref target="nan" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="0" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Ак3,4,5,6ж" type="Метрическая формула"></catref>
+<catref target="переменная анакруса" type="Дополнительные параметры"></catref>
+<catref target="18" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="154" type="part">
+<head>154.</head>
+<lg type="quatrain">
+<l n="1">Ворота распахнули и вышли на улицу мощной походкой.</l>
+<l n="2">За плечами у нас громыхают железные крылья.</l>
+<l n="3">Но жизни священный прилив —</l>
+<l n="4">Смутный гул — на пороге рокочет.</l>
+</lg>
+<lg type="quatrain">
+<l n="5">Хлынуло в очи сиянье — стоим и слепнем.</l>
+<l n="6">Не созвездья небесные, не солнце в лазури</l>
+<l n="7">Прядает в грозном сияньи — водопад священный</l>
+<l n="8">Над кругозором холмистым, в ледяном величьи.</l>
+</lg>
+<lg type="quatrain">
+<l n="9">Бормотанье и лепет поверженных на колени.</l>
+<l n="10">Мужественные подвижники с кровью на лбу упрямом</l>
+<l n="11">И хилые девушки с болезненной улыбкой.</l>
+<l n="12">Башни мученья, провалы сознанья, героическая равнина.</l>
+</lg>
+<lg type="couplet">
+<l n="13">И словно большая оса гудит в бесконечном пространстве.</l>
+<l n="14">Справедливость — наша праматерь.</l>
+</lg>
+<lg type="quatrain">
+<l n="15">А мы, дети жажды, в грешном блаженстве,</l>
+<l n="16">Отвернемся от святых мужей и женщин.</l>
+<l n="17">Мы вернемся назад, к железным крыльям,</l>
+<l n="18">В грешном блаженстве — к приливу жизни.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>

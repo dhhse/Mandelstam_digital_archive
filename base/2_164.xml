@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF8'?>
+<tei xmlns="http://www.tei-c.org/ns/1.0">
+<teiheader>
+<filedesc>
+<titlestmt>
+<title>Переводы. Макс Бартель. Передышка</title>
+<author>О.Э. Мандельштам</author>
+</titlestmt>
+<publicationstmt>
+<p>АРТ-БИЗНЕС-ЦЕНТР МОСКВА 1993</p>
+<biblstruct>
+<biblscope n="" type="volume"></biblscope>
+<biblscope n="" type="part"></biblscope>
+</biblstruct></publicationstmt>
+<sourcedesc>
+<p>Издание подготовлено Мандельштамовским обществом</p>
+</sourcedesc>
+<respstmt>
+<resp>Подготовка и разметка файлов - Алексей Литвинцев, Вероника Файнберг. Создание
+          электронного ресурса - Тимофей Молчанов. Руководители проекта - Центр Digital Humanities,
+          Мандельштамовское общество (НИУ ВШЭ).</resp>
+</respstmt></filedesc>
+<profiledesc>
+<textdesc n="poem"></textdesc>
+<textclass>
+<catref target="2_164" type="ID"></catref>
+<catref target="О.Э. Мандельштам. Собрание сочинений в 4-х т. -- М.: Терра, 1991" type="Источник"></catref>
+<catref target="стихотворение" type="Жанр художественной литературы"></catref>
+<catref target="перевод" type="Уточнение жанра"></catref>
+<catref target="Ан, Аф, Д, Я, тонический : Дк" type="Метр"></catref>
+<catref target="вольная" type="Длина строки"></catref>
+<catref target="вольная" type="Клаузула"></catref>
+<catref target="ж, м" type="Уточнение клаузулы"></catref>
+<catref target="nan" type="Классическая строфа"></catref>
+<catref target="0" type="Рифма"></catref>
+<catref target="nan" type="Схема рифмовки"></catref>
+<catref target="Дк1,2,3,4ж,м" type="Метрическая формула"></catref>
+<catref target="цезурные наращения, переменная анакруса" type="Дополнительные параметры"></catref>
+<catref target="20" type="Число строк"></catref>
+<catref target="М. Бартель" type="Автор оригинала"></catref>
+<catref target="немецкий" type="Язык оригинала"></catref>
+</textclass></profiledesc>
+</teiheader>
+<text>
+<body>
+<div1 n="2" type="volume">
+<div2 n="164" type="part">
+<head>164.
+ПЕРЕДЫШКА</head>
+<lg type="tercet">
+<l n="1">Если нам передышку дать,</l>
+<l n="2">Солнце хлынет в глаза опять,</l>
+<l n="3">Грянут рощ органные хоры,</l>
+</lg>
+<lg type="sestet">
+<l n="4">Если нам передышку дать,</l>
+<l n="5">Как ребенок, будем играть,</l>
+<l n="6">Будем радоваться, как дети,</l>
+<l n="7">Всякой мелочи в ясном свете;</l>
+<l n="8">Сгинут гаубицы, обозы, палатки —</l>
+<l n="9">Стоит первой запеть касатке.</l>
+</lg>
+<lg type="septet">
+<l n="10">Если нам передышку дать,</l>
+<l n="11">На заре мы сумеем встать;</l>
+<l n="12">За траншеи мы сумеем встать;</l>
+<l n="13">За траншеи, за проволок сетку</l>
+<l n="14">В голубую уйдем разведку:</l>
+<l n="15">В орудийном громыханьи</l>
+<l n="16">Полной грудью начнем братанье.</l>
+</lg>
+</div2>
+</div1>
+</body>
+</text>
+</tei>
