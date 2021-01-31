@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_076" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="76" type="part">
-<head>76.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+76.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Родная моя! Получил сегодня твое грустненькое письмо и к вечеру жду ответа на телеграмму. Детушка-зверушка, неужели тебе там плохо? Вели хорошо топить в комнате! Какие купила туфельки? Ходишь ли в город? Как твой вес? Я, родная моя, уже четвертый день не выхожу; у меня был легонький «грипп» — на 37,3º — уже прошел... Да и морозы, кстати, полегчали. Завтра уже выйду. Деда мне даже не пробует читать философию: все равно видит, я не о том... Женя над ухом бубнит по телефону... Модпик цветет! Татька на коленях у меня тебе написала письмо своей рукой... Сегодня, маленький мой, я дошел до листочков </p>
 <p>, и мне весело их перебирать.</p>
 <p>Пташенька, беляночка нежная — каждый вечер, засыпая, я говорю: спаси, Господи, мою Надиньку! Любовь хранит нас, Надя. Нам ничто не страшно. Радость моя! Нам нет расстоянья. Но я безумно хочу быть с тобой.</p>
@@ -60,6 +58,6 @@
 <p>Целую рученьки.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

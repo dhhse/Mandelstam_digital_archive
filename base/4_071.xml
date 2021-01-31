@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_071" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="71" type="part">
-<head>71.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+71.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Я не хочу писать тебе открытки, потому что я хочу сказать, что ты нежняночка — милая моя в худых туфельках — как стояла на набережной ангелом родным.</p>
 <p>Целую, целую, целую и радуюсь, что ты со мной, что ты со мной! Я прекрасно доехал. Поездка бодрящая. Телеграммы отправлены. Билет в кармане. Был очень сонный и замерз. Сейчас отогрелся и отдохнул.</p>
 <p>Надичка, покойной ночи. Спи, дружок мой ясный, и проснись умницей.</p>
@@ -55,6 +53,6 @@
 <p>.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

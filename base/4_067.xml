@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_067" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="67" type="part">
-<head>67.
-Э. В. МАНДЕЛЬШТАМУ, </head>
+67.
+Э. В. МАНДЕЛЬШТАМУ, 
 <p>Очень огорчен, что ты беспокоишься. Мы с Надей очень уютно здесь живем. Последнее приключение в стиле петербургских со мной было в Москве. Теперь уж две недели не знаю ни докторов, ни лекарств, умеренно работаю и двигаюсь.<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></p>
 <p>Живем мы в громадной комнате с тремя окнами и балконом. Улица уходит в гору, и нет ни одного ровного места: вверх или вниз. Сейчас я сижу в рубашке, засучив рукава, и на балкон выйти боюсь, потому что слишком жарко. Так бывает полдня. Но иногда и ночи почти душные, а иногда вдруг сразу холодеет и туман такой, что крепко закрываем дверь и ничего не видно, ни моря, ни города. Надя очень и не шутя поправилась, прибавила 5 фунтов веса. Уже 10 дней у нее нормальная температура, но перед этим были нехорошие дни, и боли в кишечнике все-таки держатся, хотя и не острые.</p>
 <p>Несколько раз мы спускались в город, гуляли по набережной и пешком подымались домой. Сейчас Надя разбила градусник (второй уже!), а градусники здесь стоют 4 рубля! Милый папочка, не беспокойся о моем здоровьи: я работоспособен и совсем еще не инвалид. Мне нужен был лишь отдых, а лучшего отдыха и не придумать. В Москве Шура<rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs></p>
@@ -57,6 +55,6 @@
 <p>Милый деда! Целую вас много раз! Ося поправляется и добреет.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

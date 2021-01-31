@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_245" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="245" type="part">
-<head>245.
-‹ДЕТСКАЯ ЛИТЕРАТУРА›</head>
+245.
+‹ДЕТСКАЯ ЛИТЕРАТУРА›
 <p>Детская литература вещь трудная. С одной стороны, нельзя допускать очеловеченья зверей и предметов, с другой — надо же ребенку поиграть, а он — бестия — только начнет играть, сразу ляпнет и что-нибудь очеловечит. За детской литературой нужен глаз да глаз. Здесь нужна научная постановка дела и хорошо подготовленные, опытные пожилые женщины. Одна знакомая научно-подготовленная старушка до такой степени овладела идеологией, что ее буквально рвут на части. Теперь она консультант и всюду заседает, утвержденная ГУСом. Выдвинулась она не сразу, хотя данные у нее были выигрышные: во-первых, она сама когда-то была ребенком, во-вторых, отличалась незаурядной для своих лет живостью ума. Старушка эта была с виду обыкновенная, довольно аккуратная, содержала себя самостоятельно и с шестидесяти лет жила литературным трудом.</p>
 <p>Но и она не сразу попала в точку и долго бродила вокруг да около. Сначала она думала, что можно жарить по старине, и принесла в журнал совершенно негодную и вредную сказку. Буквально все насекомые и звери в этой сказочке что-нибудь говорили, кузнечики во фраках услужали какому-то принцу, заяц бил в барабан. Прочитавшему эту сказочку становилось мутно, словно его опоили ромашкой. Сказать по правде, это было черт знает что.</p>
 <p>Старушку выручил заяц. Этому зайцу она должна бы памятник поставить.</p>
@@ -58,6 +56,6 @@
 <date from="1928" to="1929">‹1928 — 1929?›</date>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

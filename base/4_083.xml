@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_083" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="83" type="part">
-<head>83.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+83.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Надик доченька, здравствуй, младшенький! Няня с тобой говорит. Ты мне в письмах <rs ref="Надежда," type="person"></rs></p>
 <p> и пр. Так нельзя, ласковый мой. Каждый день пиши.</p>
 <p>У Татьки ветряная оспа. Она лежит в жару веселенькая: «Напиши тете Наде, что я немного простудилась. Больше ничего не придумаю». Над губой у нее уже маленькая пустула. Болезнь пустяковая. Сегодня, Надик, у меня в Гизе хороший поворот. Приехал Вольфсон. Сначала положил резолюцию на договор, минуя Москву. Потом с Горлиным решили все-таки оформить в Москве (это займет 10 дней), а пока я получаю маленькую легкую книгу французскую о судах и судьях — 6 листов по 35 р. Я весь день спокойненько сижу дома. Завтра кончаю Прибой. Вечером меня потянуло на вокзал — к тебе — с «Трамваем» и газетками. Для меня эти поездки отдых — прямое сообщенье «четвертым». Деда все ходит по евреям-каплунам. М‹ария› Н‹иколаевна› — она <rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Вольфсон М. Б." type="person"></rs><rs ref="Горлин, Александр Николаевич" type="person"></rs><rs ref="Надежда," type="person"></rs><rs ref="Надежда," type="person"></rs></p>
@@ -60,6 +58,6 @@
 <p>Надик родной, целую: пора сдавать письмо.<rs ref="Надежда," type="person"></rs></p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

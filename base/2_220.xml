@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_220" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="220" type="part">
-<head>220.
-НОВЫЕ ПРОИЗВЕДЕНИЯ ЖЮЛЯ РОМЭНА</head>
+220.
+НОВЫЕ ПРОИЗВЕДЕНИЯ ЖЮЛЯ РОМЭНА
 <p>В ближайшее время в издании Ленгиза выходят две новые книги Жюля Ромэна: пьеса «Старый Кромдейр» и повесть «Обормоты».<rs ref="Ромэн (Ромен), Жюль" type="person"></rs></p>
 <p>Еще очень недавно Жюля Ромэна у нас знали очень глухо и на вопрос: «читали ли вы Жюля Ромэна», чуть ли не отвечали: «как же, как же, знаю, Ромэн Роллан». Между тем, Жюль Ромэн не похож ни на Ромэна Роллана, ни на кого другого из современных французских писателей, если не считать его спутника, его малую планету — Дюамеля. Жюль Ромэн — стихотворец и прозаик. Жюль Ромэн — реформатор французского стиха. Он пробовал свои силы во всех<rs ref="Дюамель, Жорж" type="person"></rs><rs ref="Роллан, Ромен" type="person"></rs><rs ref="Ромэн (Ромен), Жюль" type="person"></rs><rs ref="Ромэн (Ромен), Жюль" type="person"></rs></p>
 <p>литературных жанрах, начиная от высокой эсхиловской трагедии («Армия в городе»), кончая кино-романом («Доонго-Тонка») и похождениями обормотов, — веселой и остроумной книгой — отличным чтением для юношества — книгой, которая соединяет здоровую грубость Рабле с жизнерадостностью Марка Твэна.<rs ref="Рабле, Франсуа" type="person"></rs></p>
@@ -72,6 +70,6 @@
 <date when="1924">1924</date>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

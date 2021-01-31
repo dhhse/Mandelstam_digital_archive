@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_201" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="" type="part">
-<head>201.
-МЕНЬШЕВИКИ В ГРУЗИИ</head>
+201.
+МЕНЬШЕВИКИ В ГРУЗИИ
 <p>Оранжерея. Город-колибри. Город пальм в кадках. Город малярии и нежных японских холмов. Город, похожий на европейский квартал в какой угодно колониальной стране, звенящей москитами летом и в декабре предлагающей свежие дольки мандарина. Батум, август 20-го года. Лавки и конторы закрыты. Праздничная тишина. На беленьких колониальных домиках выкинуты красные флажки. В порту десятка два зевак затерты администрацией и полицейскими. На рейде покачивается гигант Ллойд Триестино из Константинополя. Дамы-патронессы с букетами красных роз и несколько представительных джентльменов садятся в моторный катер и отчаливают к трехпалубному дворцу.<rs ref="Батум (Батуми)" type="geo_index"></rs><rs ref="Константинополь (Стамбул)" type="geo_index"></rs></p>
 <p>Сегодня лавочникам и воскресным буржуа приспичило посмотреть на самого Каутского. И вот, катерок бежит обратно: и по деревянному мостику засеменили улыбающиеся<rs ref="Каутский, Карл" type="person"></rs></p>
 <p>вожди «настоящего европейского социализма». Цилиндры. Очаровательные модельные платья — и много, много влажных, дрожащих роз.</p>
@@ -76,6 +74,6 @@
 <date when="1923">1923</date>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

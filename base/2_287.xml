@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_287" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="268" type="part">
-<head>268.
-‹G. Toudouze. L’homme qui volait le Gulf Stream›</head>
+268.
+‹G. Toudouze. L’homme qui volait le Gulf Stream›
 <p>Роман-фельетон Тудуза «Человек, укравший Гольфштром» принадлежит к распространенному типу западной беллетристики, рассчитанному на читателя, жаждущего пряных и необычных впечатлений. Основным событием романа является климатическая катастрофа: на Европу надвигается как бы ледниковый период, в то время как подтропический пояс сжигается неестественным зноем. Увеселительная светская яхта вышла на прогулку из порта Сен-Мало. Резкая перемена погоды. Ураган. Появляются стада тюленей и моржей. Температура в июле месяце падает значительно ниже нуля. Авария яхты. Встреча с военной канонеркой. Возвращение в Брест.<rs ref="Брест" type="geo_index"></rs><rs ref="Гольфстрим" type="geo_index"></rs><rs ref="Европа" type="geo_index"></rs><rs ref="Тудуз, Жорж Гюстав" type="person"></rs></p>
 <p>На канонерке и на яхте, разумеется, сгруппировано самое изысканное общество: светский художник, влюбленный в дочь мартиникского плантатора и т.д. Все эти люди довольно тупо</p>
 <p>2 Ж. Тудуз. Человек, который украл Гольфстрим <rs ref="Гольфстрим" type="geo_index"></rs><rs ref="Гольфстрим" type="geo_index"></rs><rs ref="Тудуз, Жорж Гюстав" type="person"></rs></p>
@@ -62,6 +60,6 @@
 <rs ref="Тудуз, Жорж Гюстав" type="person"></rs>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

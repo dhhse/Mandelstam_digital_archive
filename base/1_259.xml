@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="1_259" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="1" type="volume">
 <div2 n="" type="part">
-<head>259.
-ПЕТР ЧААДАЕВ</head>
+259.
+ПЕТР ЧААДАЕВ
 <p>След, оставленный Чаадаевым в сознании русского общества, — такой глубокий и неизгладимый, что невольно возникает вопрос: уж не алмазом ли проведен он по стеклу? Это тем более замечательно, что Чаадаев не был деятелем: профессиональным писателем или трибуном. По всему своему складу он был «частный» человек, что называется «рrivatier»<rs ref="Чаадаев, Петр Яковлевич" type="person"></rs></p>
 <p>. Но, как бы сознавая, что его личность не принадлежит ему, а должна перейти в потомство, он относился к ней с некоторым смирением: что бы он ни делал — казалось, что он служил, священнодействовал.</p>
 <p>Все те свойства, которых была лишена русская жизнь, о которых она даже не подозревала, как нарочно соединялись в личности Чаадаева: огромная внутренняя дисциплина, высокий интеллектуализм, нравственная архитектоника и холод маски, медали, которым окружает себя человек, сознавая, что в веках он — только форма, и заранее подготовляя слепок для своего бессмертия.<rs ref="Чаадаев, Петр Яковлевич" type="person"></rs></p>
@@ -99,6 +97,6 @@
 </note>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

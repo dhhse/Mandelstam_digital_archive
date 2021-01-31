@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,32 +22,31 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_247" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="247" type="part">
-<head>ПРИЛОЖЕНИЕ</head>
-<head>КОЛЛЕКТИВНЫЕ ПИСЬМА</head>
-<head>247.
-В Отдел печати ЦК РКП(б), </head>
+ПРИЛОЖЕНИЕ
+КОЛЛЕКТИВНЫЕ ПИСЬМА
+247.
+В Отдел печати ЦК РКП(б), 
 <p>Мы, писатели, узнав, что Отдел печати ЦК РКП организует Совещание по вопросам литературной политики, считаем нужным довести до сведения Совещания нижеследующее:</p>
 <p>Мы считаем, что пути современной русской литературы, — а стало быть, и наши — связаны с путями Советской послеоктябрьской России. Мы считаем, что литература должна быть отразителем той новой жизни, которая окружает нас, — в которой мы живем и работаем, — а с другой стороны, созданием индивидуального писательского лица, по-своему воспринимающего мир и по-своему его отражающего. Мы полагаем, что талант писателя и его соответствие эпохе — две основные ценности писателя: в таком понимании писательства с нами идет рука об руку целый ряд коммунистов — писателей и критиков. Мы приветствуем новых писателей, рабочих и крестьян, входящих сейчас в литературу. Мы ни в коей мере не противопоставляем себя им и не считаем их враждебными или чуждыми нам. Их труд и наш труд — единый труд современной русской литературы, идущей одним путем и к одной цели.</p>
 <p>Новые пути новой, советской литературы — трудные пути, на которых неизбежны ошибки. И наши ошибки тяжелее всего нам самим. Но мы протестуем против огульных нападок на нас. Тон таких журналов, как «На Посту», и их критика, выдаваемые притом ими за мнение РКП в целом, подходят к нашей литературной работе заведомо предвзято и неверно. Мы считаем нужным заявить, что такое отношение к литературе не достойно ни литературы, ни революции</p>
@@ -56,6 +54,6 @@
 <p>Москва, 9 мая 1924 года.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

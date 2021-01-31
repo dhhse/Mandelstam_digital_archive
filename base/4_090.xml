@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_090" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="90" type="part">
-<head>90.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+90.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Родная чудная моя глупышка! Да что с тобой такое? Сегодня я утром в 10 ч. телеграфирую: абсолютно здоров и т. д. Ты в 6 ч. не получила еще тел‹еграммы›. Чудеса! Нануша, что я наделал своей безалаберностью: ты мучаешься уже 3 — 4 дня, когда твоя Няня здоровехонька и процветает между Горлиным и Грюнбергом и т. д. Дета моя, успокой свою душеньку милую: да <rs ref="Горлин, Александр Николаевич" type="person"></rs><rs ref="Грюнберг, Леон Борисович," type="person"></rs></p>
 <p> тревожиться. Я даже не переутомлен. Чувствую себя несравненно лучше, чем в Ялте. Мне просто совестно писать о себе. Ну довольно об этом, Надик, дай поцелую твою головенку и слушай разные разности:<rs ref="Ялта" type="geo_index"></rs></p>
 <p>Во-первых: цикл моих работ закончится дней через 10. Я останусь тогда с новым большим договором от Горлина (завтра из Москвы придут книги и ответы) и, конечно, приеду к тебе. Скажи, родная, хорошо ли к весне в Ялте? Ты ведь будешь рада пожить там у собак и морюшка с Няней? Разве Киев поздно к 1 мая? Обязательно хочу туда к 1 мая! Вчера у деды была трагикомедия: он собрался в гости на «Пурим» к еврею-часовщику и попал в «засаду». Просидел с 9 вечера до 2½ дня с множеством разных случайных людей. Страшно волновался и, бедненький, ссылался на то, что он «отец писателя Мандельштама». С ним обошлись бережно и его не обидели. Но как жалко деду: подумай, пошел раз в год в гости. Он умудрился даже позвонить (не объясняя причины), что «остается ночевать». Вот наше событие.<rs ref="Киев" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Ялта" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Москва" type="geo_index"></rs><rs ref="Горлин, Александр Николаевич" type="person"></rs><rs ref="Мандельштам, Эмиль (Хацкель) Вениаминович" type="person"></rs></p>
@@ -58,6 +56,6 @@
 <p>Родная, ангел мой, я слышу дыханье твое, как ты спишь и во сне говоришь. Я всегда с тобой. Я люблю тебя, Надинька, люблю тебя, жизнь моя. Господь с тобой, дружочек мой. Будь весела, женушка моя. Твой муж. Твой Нянь. Твой Окушка глупый. Ну, до свиданья, нежняночка. Люблю.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_153" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="153" type="part">
-<head>153.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+153.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Родная Надинька! Я совсем потерялся. Мне очень тяжело, Надик, я должен был быть все время с тобой. Ты моя сильная, моя бедненькая, моя пташечка. Целую тебя в лобик твой, старенькая моя, молоденькая, ненаглядная. Ты работаешь, ты что-то делаешь, ты чудесная, Надик маленький. Я хочу в Киев к тебе. Я не прощу себе, что покинул тебя одну в феврале. Не догнал тебя, на твой голос по телефону сразу не приехал — и не писал, не писал ничего почти все время. Как ты бродишь, родной, по комнате нашей, все родное и вечное с тобой. Держаться, держаться за это милое, за бессмертное до последнего дыханья. Не отдавать никому ни за что. Родная, мне тяжело, мне всегда тяжело, а сейчас не найду слов рассказать. Запутали меня, как в тюрьме держат, свету нет. Все хочу ложь смахнуть — и не могу, все хочу грязь отмыть — и нельзя.<rs ref="Киев" type="geo_index"></rs></p>
 <p>Стоит ли тебе говорить, какой бред, какой дикий тусклый сон все все все!</p>
 <p>Мучили с делом, 5 раз вызывали. Трое разных. Подолгу: 3 — 4 часа. Не верю я им, хоть ласковые. Только Рудер по Фоспу верю вполне: откровенна, серьезна, и большая теплота человеческая. Зачем я им? Опять я игрушка. Опять ни при чем. Последний вызов к какому-то доценту: рассказать всю свою биографию. Вопрос: не работал ли в белых<rs ref="Киев" type="geo_index"></rs></p>
@@ -64,6 +62,6 @@
 </note>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

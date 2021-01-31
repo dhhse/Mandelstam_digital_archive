@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,31 +22,30 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_277" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="258" type="part">
-<head>Внутренние рецензии и заявки</head>
-<head>258.
-‹Abel Hermant. Le sceptre›</head>
+Внутренние рецензии и заявки
+258.
+‹Abel Hermant. Le sceptre›
 <p>«Что это — оперетка или Шекспир?» — нередко спрашивает себя в патетические минуты не лишенный юмора и литературного образования эрцгерцог Павел. «Оперетка? — подозрительно спрашивает он и без особой уверенности решает: — Нет, Шекспир!».<rs ref="Шекспир, Уильям" type="person"></rs></p>
 <p>Книга Абеля Эрмана — остроумное, подчас заразительно-веселое издевательство дряхлеющего буржуазно-демократического мира над обломками феодализма, над горностаем, купленным на банкирские деньги, над августейшим «интернационалом» «царствующих» династий Европы, над союзом короля и епископа, руки которых соединяет тайный агент полиции, служащий проводником в первоклассной гостинице: ловкий малый, новый Фигаро, сочиняющий под веселую руку манифесты будущего повелителя.<rs ref="Европа" type="geo_index"></rs><rs ref="Эрман, Абель" type="person"></rs></p>
 <p>«Скипетр» написан в 1896 году, когда политическая карта Европы была почти сплошь выкрашена в пестрые цвета монархии, когда политическое здание капитализма было еще аккуратно облицовано феодальной фанерой.<rs ref="Европа" type="geo_index"></rs></p>
@@ -79,6 +77,6 @@
 <rs ref="Эрман, Абель" type="person"></rs>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

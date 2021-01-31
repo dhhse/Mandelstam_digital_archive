@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,31 +22,30 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_204" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="204" type="part">
-<head>204.
+204.
 ПЕРВАЯ МЕЖДУНАРОДНАЯ КРЕСТЬЯНСКАЯ КОНФЕРЕНЦИЯ
-</head>
+
 <p>Горой пухнет лестница, ведущая в Андреевский зал, и упирается в лубочную живопись: Александр III принимает волостных старшин. Огромное полотно, царь, похожий на лихача, окруженный старшими дворниками в поддевках и бляхах и коронационными бурятами.<rs ref="Александр III" type="person"></rs></p>
 <p>Мимо этого музейного сокровища, туда, где непомерно-высокий зал, с бальным светом, приютил отважных разноязычных друзей, собравшихся к нам в гости для крепкой беседы.</p>
 <p>Первое впечатление — именно беседы, а не «заседания». Многие встали с мест и облепили переводчика. Тот, с акцентом немецкого волжского колониста, перекладывает только что сказанную иностранную речь. Двое или трое слушают его по-крестьянски, вытянув голову, всем корпусом наклонившись.</p>
@@ -69,6 +67,6 @@
 <date when="1923">1923</date>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

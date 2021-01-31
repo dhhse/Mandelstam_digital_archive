@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_104" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="104" type="part">
-<head>104.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+104.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Родная моя женушка, я больше не могу без тебя, светленький мой Надик. Зачем я тебя отпустил? Я знаю, что так нужно было, но мне так грустно, так грустно. Вчера я принес домой твои часики. Я пошел к секретарю ломбарда, и мне разрешили частичный выкуп. Часики теперь останутся с нами и никогда не уйдут, а скоро и цепочка вернется. В Царское я поеду только завтра, в понедельник. Аня эти дни у дяди. Вчера он купил ей ботинки. У меня большая перемена в работе: в Прибое назначен Слонимский, <rs ref="Слонимский, Михаил Леонидович" type="person"></rs></p>
 <p>, как Горлин Бену. Завтра я с ним договорюсь. Но я хочу, мой родненький, сделать иначе: взять работу от Прибоя и от Маршака и приехать к тебе. Я не знаю, удастся ли это без продажи какой-нибудь меблишки? Но ведь стоит, милый. Зачем нам вещи, когда мы не вместе? Разве мы можем долго не быть вместе? <rs ref="Горлин, Александр Николаевич" type="person"></rs><rs ref="Маршак, Самуил Яковлевич" type="person"></rs></p>
 <p> и работа (большая) будет. Тогда я к тебе, мой маленький! Или ты хочешь домой? Милый, милый, как тебе? Неужели ты совсем одна? Кого ты видишь? С кем говоришь? Опиши мне хоть свой денек какой-нибудь. Я сейчас у Жени. Вчера был бал ночью у Варв‹ары› Кир‹илловны› с гитарой и мне мешали спать. Погодка у нас все время ясная, хорошо, должно быть, в Царском. Я куплю много дров, чтоб тебе было тепленько приехать, и много цветов поставлю для Надика. Ты видел Макса или нет? Я не верю, что ты без меня в Коктебеле, этот раз вообще не верю, что ты уехала. Надик, Надик, нежняночка моя оборванная (рукавчики пальто бедные)! Тебе холодно? Скажи мне, что ты ждешь Няню. Господь с тобой, детка моя. Я муж твой, люблю тебя. <rs ref="Коктебель" type="geo_index"></rs><rs ref="Варвара Кирилловна" type="person"></rs></p>
@@ -56,6 +54,6 @@
 </note>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="letter"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="4_231" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="4" type="volume">
 <div2 n="231" type="part">
-<head>231.
-Н. Я. МАНДЕЛЬШТАМ, </head>
+231.
+Н. Я. МАНДЕЛЬШТАМ, 
 <p>Сейчас пришли твои 100 рублей. А у нас еще было все на 1 мая и уже куплено. Новость: курица клюнула маму в щеку и поцарапала. Чуть-чуть. Сегодня я сам стоял в бакалейной очереди, а маму усадил на улице на скамейку.</p>
 <p>Утром отправил тебе выписку из статьи О. Кретовой в Коммуне от 23 апреля и заявление мое Ставскому в Союз Пис‹ателей› по поводу воронежцев.<rs ref="Ставский (Кирпичников), Владимир Петрович" type="person"></rs></p>
 <p>На всякий случай посылаю в адрес Евг‹ения› Як‹овлевича› вторую выписку и сокращенное заявление в Союз Сов‹етских› Пис‹ателей›.</p>
@@ -55,6 +53,6 @@
 <p> Бесконечно тебя жду.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

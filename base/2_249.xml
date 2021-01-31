@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_249" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="249" type="part">
-<head>249.
-‹ПОТОКИ ХАЛТУРЫ›</head>
+249.
+‹ПОТОКИ ХАЛТУРЫ›
 <p>По существу говоря, выбрасываемая сейчас на рынок в русских переводах иностранная беллетристика не что иное, как потоки халтуры. Еще недостаточно проставить на обложке «Синклер», «Пиранделло» или «Мопассан» для того, чтобы книга действительно принадлежала тому или иному иностранному автору. Массовый читатель, владеющий только родным языком, вводится издательствами в систематическое заблуждение. Потребитель-одиночка и библиотеки вовлекаются в невыгодную сделку. Здесь «секрет полишинеля», нечто такое, о чем надо иметь мужество сказать откровенно и напрямик: для наших издательств переводная иностранная книга вовсе не литература, но попросту <rs ref="Мопассан, Анри Рене Альбер Ги де" type="person"></rs><rs ref="Пиранделло, Луиджи" type="person"></rs><rs ref="Синклер, Эптон Билл" type="person"></rs></p>
 <p>. Сколько-нибудь внимательный читатель заметит, что в русских переводах почти все иностранные писатели — от Анатоля Франса до последнего бульварщика — говорят одним и тем же суконным языком. Дряблость, ничтожество и растерянность той социальной среды, из которой у нас часто вербуются переводчики (деклассированные безработные интеллигенты, знающие иностранные языки), кладет печать неизгладимой пошлости на все их рукоделье. Они показывают не только авторов, но и себя. Из их рук мы получаем богатства чужих народов опошленными, тенденциозно сниженными.<rs ref="Скотт, Вальтер" type="person"></rs><rs ref="Франс, Анатоль" type="person"></rs></p>
 <p>Иностранная книга у нас фактически безгонорарна. Процент переводческого и редакторского гонорара в калькуляции этой книги по сравнению с оригинальной настолько ничтожен, что о нем не приходится говорить.</p>
@@ -86,6 +84,6 @@
 </note>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

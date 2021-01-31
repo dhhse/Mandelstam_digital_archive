@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_210" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="" type="part">
-<head>210—211.
-АРМИЯ ПОЭТОВ</head>
+210—211.
+АРМИЯ ПОЭТОВ
 <p>Во французских гимназиях-лицеях в число предметов обучения входит версификация — писание стихов. Французские мальчики упражняются в писании александрийских двенадцатисложников по старому испытанному рецепту.<rs ref="Франция" type="geo_index"></rs></p>
 <p>Во французской гимназии вряд ли представляют себе другую поэзию, кроме официальной; юноши получают венки и награды за «академические» стихи — внешне грамотные, на самом деле глубоко фальшивые и пораженные крупнейшими недостатками.</p>
 <p>Очевидно, эта школьная учеба отбивает вкус к сочинению стихов, и молодое поколение, среднебуржуазный юноша, выходя из гимназии, отряхивает с себя поэтическую пыль вместе с учебниками.</p>
@@ -76,6 +74,6 @@
 <p>Кто же они, эти люди — не глядящие прямо в глаза, потерявшие вкус и волю к жизни, тщетно пытающиеся быть интересными, в то время как им самим ничего не интересно? О них я хочу рассказать в следующий раз — без глумленья, как о больных.</p>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>

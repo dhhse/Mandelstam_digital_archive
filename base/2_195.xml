@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF8'?>
-<tei xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version='1.0' encoding='UTF8'?><html><body><tei xmlns="http://www.tei-c.org/ns/1.0">
 <teiheader>
 <filedesc>
 <titlestmt>
@@ -23,30 +22,29 @@
 <profiledesc>
 <textdesc n="prose"></textdesc>
 <textclass>
-<catref target="Series([], Name: ID, dtype: object)" type="ID"></catref>
-<catref target="Series([], Name: Источник, dtype: object)" type="Источник"></catref>
-<catref target="Series([], Name: Жанр художественной литературы, dtype: object)" type="Жанр художественной литературы"></catref>
-<catref target="Series([], Name: Уточнение жанра 1, dtype: object)" type="Уточнение жанра"></catref>
-<catref target="Series([], Name: Метр, dtype: object)" type="Метр"></catref>
-<catref target="Series([], Name: Длина строки, dtype: object)" type="Длина строки"></catref>
-<catref target="Series([], Name: Клаузула, dtype: object)" type="Клаузула"></catref>
-<catref target="Series([], Name: Уточнение клаузулы 1, dtype: object)" type="Уточнение клаузулы"></catref>
-<catref target="Series([], Name: Классическая строфа, dtype: object)" type="Классическая строфа"></catref>
-<catref target="Series([], Name: Рифма, dtype: object)" type="Рифма"></catref>
-<catref target="Series([], Name: Схема рифмовки, dtype: object)" type="Схема рифмовки"></catref>
-<catref target="Series([], Name: Метрическая формула, dtype: object)" type="Метрическая формула"></catref>
-<catref target="Series([], Name: Дополнительные параметры, dtype: object)" type="Дополнительные параметры"></catref>
-<catref target="Series([], Name: Число строк, dtype: int64)" type="Число строк"></catref>
-<catref target="Series([], Name: Автор оригинала, dtype: object)" type="Автор оригинала"></catref>
-<catref target="Series([], Name: Язык оригинала, dtype: object)" type="Язык оригинала"></catref>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </textclass></profiledesc>
-</teiheader>
+<catref target="2_195" type="ID"></catref></teiheader>
 <text>
-<body>
 <div1 n="2" type="volume">
 <div2 n="195" type="part">
-<head>195.
-БОРИС ПАСТЕРНАК</head>
+195.
+БОРИС ПАСТЕРНАК
 <p>Когда явился Фет, русскую поэзию взбудоражило «серебро и колыханье сонного ручья», а, уходя, Фет сказал: «И горящею солью нетленных речей». Эта горящая соль каких-то речей, этот посвист, щелканье, шелестение, сверкание, плеск, полнота звука, полнота жизни, половодье образа и чувства с неслыханной силой воспрянули в поэзии Пастернака. Перед нами значительное патриархальное явление русской поэзии Фета.<rs ref="Пастернак, Борис Леонидович" type="person"></rs><rs ref="Фет (Шеншин), Афанасий Афанасьевич" type="person"></rs></p>
 <p>Величественная домашняя русская поэзия Пастернака уже старомодна, она безвкусна, потому что бессмертна; она бесстильна потому, что захлебывается от банальности классическим восторгом цокающего соловья. Да, поэзия Пастернака — прямое токование (глухарь на току, соловей по весне),<rs ref="Пастернак, Борис Леонидович" type="person"></rs></p>
 <p>прямое следствие особого физиологического устройства горла, такая же родовая примета, как оперенье, как птичий хохолок.</p>
@@ -58,6 +56,6 @@
 <date from="1922" to="1923">1922—1923</date>
 </div2>
 </div1>
-</body>
 </text>
 </tei>
+</body></html>
